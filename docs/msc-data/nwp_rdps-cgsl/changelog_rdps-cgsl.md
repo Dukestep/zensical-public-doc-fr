@@ -1,4 +1,11 @@
+---
+status: deprecated
+---
+
 ![ECCC logo](../../img_eccc-logo.png)
+
+!!! failure "Données retirées"
+    Ce jeu de données a été retiré et n'est plus disponible.
 
 # Chronologie des changements apportés au Système de prévision couplé atmosphère-océan-glace du Golfe Saint-Laurent (SRPD-CGSL)
 

@@ -3,10 +3,13 @@ tags:
   - Données retirées
   - Régional
   - Déterministe
+status: deprecated
 ---
 
 ![ECCC logo](../../img_eccc-logo.png)
 
+!!! failure "Données retirées"
+    Ce jeu de données a été retiré et n'est plus disponible.
 
 # Données et Produits du Système régional de prévision déterministe de la qualité de l'air FireWork
 
@@ -15,9 +18,6 @@ Le Système régional de prévision déterministe de la qualité de l'air FireWo
 ## Accès
 
 ### Comment accéder aux données
-
-!!! failure inline end "Données retirées"
-    Ce jeu de données a été retiré et n'est plus disponible.
 
 Ces données sont respectivement disponibles via l'API / les services web [GeoMet du SMC](../../msc-geomet/index.md) et sur le serveur de données [Datamart du SMC](../../msc-datamart/index.md) :
 

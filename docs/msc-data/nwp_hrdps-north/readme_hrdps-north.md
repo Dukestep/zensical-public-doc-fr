@@ -3,11 +3,13 @@ tags:
   - Données retirées
   - Haute résolution
   - Déterministe
+status: deprecated
 ---
 
 ![ECCC logo](../../img_eccc-logo.png)
 
-
+!!! failure "Données retirées"
+    Ce jeu de données a été retiré et n'est plus disponible.
 
 # Données et Produits du Système à haute résolution de prévision déterministe Nord
 
@@ -18,10 +20,6 @@ Dans le cadre d’un plan de modernisation du Service Météorologique Canadien 
 ## Accès
 
 ### Comment accéder aux données
-
-!!! failure inline end "Données retirées"
-    Ce jeu de données a été retiré et n'est plus disponible.
-
 
 Ces données sont respectivement disponibles sur les services serveur de données [Datamart du SMC](../../msc-datamart/index.md) et les services web [GeoMet du SMC](../../msc-geomet/index.md) :
 

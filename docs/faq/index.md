@@ -1,3 +1,8 @@
+---
+hide:
+    - navigation
+---
+
 ![ECCC logo](../img_eccc-logo.png)
 
 # FAQ des données ouvertes du SMC
@@ -10,7 +15,7 @@
 
 ## Licence et utilisation des données
 
-### J'aimerais utiliser vos données à des fins lucratives, ai-je le droit ?
+#### J'aimerais utiliser vos données à des fins lucratives, ai-je le droit ?
 
 Oui, il est possible d'utiliser nos données à des fins lucratives. Vous trouverez toutes les informations nécessaires à l'utilisation de nos données dans la [licence d'utilisation](../licence/index.md).
 
@@ -18,7 +23,7 @@ Oui, il est possible d'utiliser nos données à des fins lucratives. Vous trouve
 
 ## Données radar
 
-### Peut-on avoir accès aux données radar météorologiques ?
+#### Peut-on avoir accès aux données radar météorologiques ?
 
 Les données radar actuellement disponibles gratuitement au public sont [la composite et l'extrapolation radar nord-américaine](../msc-data/obs_radar/readme_radar_geomet.md) via les services web géospatiaux GeoMet-Météo. La composite radar nord-américaine est disponible à chaque 6 minutes pour les 3 dernières heures. Nous offrons également les [images GIF](../msc-data/obs_radar/readme_radarimage-datamart.md) sur le serveur de données ouvertes du SMC. [La documentation des observations radar](../msc-data/obs_radar/readme_radar.md) peut être consultée pour les autres de données et produits radar.
 
@@ -30,7 +35,7 @@ Concernant les fils de données, les formats disponibles sont les suivants :
 * Images GIF (les récentes données GIF sont disponibles gratuitement sur le Datamart du SMC)
 * Format brut [ODIM_H5](https://www.eumetnet.eu/wp-content/uploads/2019/01/ODIM_H5_v23.pdf), pour les nouveaux radars à bande S
 
-### Peut-on accéder aux données radar archivées ?
+#### Peut-on accéder aux données radar archivées ?
 
 Environnement et Changement climatique Canada n'a pas de service en ligne pour accéder aux données archivées. Le service de désarchivage est à [recouvrement de coût](../cost-recovered/index.md#service-de-desarchivage), nous chargeons 118\$/heure de travail nécessaire pour produire les données avec un coût minimum de 118\$.
 
@@ -52,7 +57,7 @@ Des requêtes typiques de désarchivage demandent entre 2 et 4 heures de travail
 | Autres informations | |
 | Coordonnées de facturation | |
 
-### Lorsqu'on effectue un zoom sur la couche radar, on peut clairement voir les pixels. Appliquez-vous une interpolation spatiale sur les données radars en passant d'un niveau de zoom à un autre ?
+#### Lorsqu'on effectue un zoom sur la couche radar, on peut clairement voir les pixels. Appliquez-vous une interpolation spatiale sur les données radars en passant d'un niveau de zoom à un autre ?
 
 La résolution originale des données radar est de 1 km, et notre système d'affichage n'applique aucun traitement supplémentaire, tel qu'une interpolation spatiale, en passant d'un niveau de zoom à un autre.
 
@@ -60,7 +65,7 @@ La résolution originale des données radar est de 1 km, et notre système d'aff
 
 ## Prévision numérique du temps (PNT)
 
-### Peut-on avoir accès aux scores de vérification de vos modèles de prévision numérique du temps et comment se comparent-ils par rapport aux autres centres internationaux ?
+#### Peut-on avoir accès aux scores de vérification de vos modèles de prévision numérique du temps et comment se comparent-ils par rapport aux autres centres internationaux ?
 
 Le [Centre européen de prévision à moyen terme (CEPMT)](https://www.ecmwf.int/), désigné en 2011 comme le [''WMO Lead Centre for Deterministic NWP Verification''](https://confluence.ecmwf.int/pages/viewpage.action?pageId=24316358&src=sidebar), rend disponibles tous les scores en altitude et de surface de tous les centres participants à l'échange de scores des pays de l'[Organisation météorologique mondiale (OMM)](https://public.wmo.int/fr).
 
@@ -70,7 +75,7 @@ Les [scores de surface](https://apps.ecmwf.int/wmolcdnv/scores/surface.time_seri
 
 Par ailleurs, nous publions quotidiennement des [vérifications contre radiosondages et analyses](https://meteo.gc.ca/verification/index_f.html) pour le [Système global de prévision déterministe (SGPD)](../msc-data/nwp_gdps/readme_gdps.md) et le [Système régional de prévision déterministe (SRPD)](../msc-data/nwp_rdps/readme_rdps.md), suivant les standards définis par l'OMM.
 
-### Est-ce que les prévisions historiques des modèles de prévision numérique du temps sont disponibles ?
+#### Est-ce que les prévisions historiques des modèles de prévision numérique du temps sont disponibles ?
 
 Environnement et Changement climatique Canada n'a pas de service en ligne pour accéder aux données archivées. Le service de désarchivage est à [recouvrement de coût](../cost-recovered/index.md#service-de-desarchivage), nous chargeons 118\$/heure de travail nécessaire pour produire les données avec un coût minimum de 118\$. Les données ouvertes correspondantes, s'il y a lieu, sont elles-mêmes gratuites.
 
@@ -95,7 +100,7 @@ Notes :
 * Les archives remontent aux 5 dernières années, selon la disponibilité des données 
 * Compte-tenu du gros volume de demandes, un certain délai est à prévoir. Merci d'indiquer si la demande est urgente, nous tenterons alors de la prioriser
 
-### Comment être informé des changements aux bulletins ainsi qu'aux contenu et format de modèles de prévision numérique du temps ?
+#### Comment être informé des changements aux bulletins ainsi qu'aux contenu et format de modèles de prévision numérique du temps ?
 
 Pour les bulletins de stations canadiennes, tout changement dans l'en-tête et le nom des stations est annoncé via ce que nous appelons les GENOT (GEneral NOTification) message. Nous avons une liste de diffusion pour distribuer les GENOTs, si cela vous intéresse, contactez-nous à l'adresse : ec.dps-client.ec@canada.ca et nous vous ajouterons à la liste de diffusion. En parallèle, ces [bulletins sont disponibles sur le Datamart du SMC](https://dd.meteo.gc.ca/doc/genots/). 
 
@@ -103,7 +108,7 @@ Pour être averti des changements majeurs, tels qu'un changement de résolution 
 
 Finalement, nous vous recommandons fortement de vous inscrire à nos listes de diffusion [dd_info](https://comm.collab.science.gc.ca/mailman3/postorius/lists/dd_info/) et [GeoMet-Info](https://comm.collab.science.gc.ca/mailman3/postorius/lists/geomet-info/) afin d'être averti de toute mise à jour ou changement concernant la disponibilité des données. 
 
-### Comment être informé des problèmes de production des données de modèles de prévision numérique du temps ?
+#### Comment être informé des problèmes de production des données de modèles de prévision numérique du temps ?
 
 Il arrive parfois que les données de modèle de prévision numérique du temps soient en retard ou même absentes de nos services de dissémination de données. Afin de savoir si ce délai ou cette absence est dû à un problème de production, vous pouvez consulter les bulletins AACN01 CWAO. Ces derniers sont des bulletins émis par le Centre de prévision météorologique et environnementale du Canada (CPMEC) pour informer les bureaux du SMC et d'autres clients de tout problème pouvant perturber ou retarder l'émission et/ou la distribution des produits opérationnels.
 
@@ -115,29 +120,29 @@ https://api.meteo.gc.ca/collections/bulletins-realtime/items?q=*AACN01*&f=json&d
 
 Il existe par ailleurs une liste de diffusion des bulletins AACN01. Si vous êtes intéressés, veuillez nous contacter à l'adresse dps-client@ec.gc.ca et nous vous ajouterons à la liste de diffusion.
 
-### Pourquoi ne pas produire un seul gros fichier GRIB avec toutes les variables ?
+#### Pourquoi ne pas produire un seul gros fichier GRIB avec toutes les variables ?
 
 Il a été choisi de mettre une variable par fichier car nous avons supposé que la plupart des utilisateurs n'auraient pas besoin de toutes les variables. La vitesse de téléchargement sera la même que si tous les fichiers GRIB étaient dans un seul fichier zip.
 
-### Qu'est-ce que le système de coordonnées de référence (datum) d'un modèle de prévision numérique du temps ?
+#### Qu'est-ce que le système de coordonnées de référence (datum) d'un modèle de prévision numérique du temps ?
 
 Pour connaitre le système de coordonnées de référence d'un modèle de prévision numérique du temps et la projection utilisée pour produire nos fichiers de prévision numérique du temps, il suffit d'utiliser les outils [GDAL](https://www.gdal.org/GDAL) (logiciel libre). La commande suivante vous fournira le référentiel et la projection du fichier : `gdalinfo -proj4 file.grib2`.
 
 En sortie, l'information commence par `The coordinates system is:`. Cette commande donne aussi accès à la projection sous format Proj4 qui est couramment utilisée dans les outils géospatiaux.
 
-### Comment peut-on obtenir la topographie d'un modèle de prévision numérique du temps ?
+#### Comment peut-on obtenir la topographie d'un modèle de prévision numérique du temps ?
 
 La topographie d'un modèle de prévision numérique du temps dont les données sont disponibles en format GRIB2 peut être obtenue en utilisant le champ `HGT_SFC` (topographie lissée du modèle).
 
-### Puis-je avoir le masque terre-mer d'un modèle de prévision numérique du temps ?
+#### Puis-je avoir le masque terre-mer d'un modèle de prévision numérique du temps ?
 
 Pour un modèle de prévision numérique du temps dont les données sont disponibles en format GRIB2, le paramètre `LAND_SFC` (couverture terrestre) de l'heure de prévision 00h pour être utilisé déterminer ce masque. Lorsque la valeur est `0`, il s'agit de la mer, lorsque la valeur n'est pas `0`, il s'agit de la terre (ou d'une partie de celle-ci).
 
-### Est-il possible d'avoir accès à d'autres paramètres de modèles de prévision numérique du temps que ceux disponibles actuellement ou la liste est-elle exhaustive ?
+#### Est-il possible d'avoir accès à d'autres paramètres de modèles de prévision numérique du temps que ceux disponibles actuellement ou la liste est-elle exhaustive ?
 
 La liste n'est pas exhaustive. Nous sommes toujours très ouverts à recevoir de la rétroaction des usagers et de connaître leurs besoins. Il est possible de communiquer avec nous via l'adresse courriel : ec.dps-client.ec@canada.ca
 
-### Puis-je obtenir des données d'équivalent en eau de la neige ?
+#### Puis-je obtenir des données d'équivalent en eau de la neige ?
 
 L'estimation de la masse de neige est surtout valable pour le sol. Le paramètre GRIB `SNOD` représentant l'épaisseur de neige au sol est disponible en tant que valeur agrégée mais le paramètre `SDEN` (densité de neige) n'est disponible que pour la fraction du sol. Le produit `SNODxSDENxfacteur` pour les unités fournit probablement la meilleure estimation actuellement disponible pour l'équivalent en eau de la neige. Sachez que le paramètre `SDEN` de la fraction de sol peut ou non être représentatif de la densité de neige pour les autres types de surface.
 
@@ -146,11 +151,11 @@ Par conséquent, la micro équation pour le calcul de l'équivalent en eau de la
 * Si l'épaisseur est donnée en "cm" et `SDEN` en "kg/m3", ce que nous avons aux opérations, alors `SWE = (SNOD * SDEN) / 100` ; `SWE` est en mm (ou kg/m2, c'est l'équivalent pour l'eau)
 * Si l'épaisseur est donnée en "m" et le `SDEN` en "kg/m3", alors `SWE = SNOD * SDEN` ; `SWE` est en mm (kg/m2)
 
-### Dans le journal de chronologie des modifications des modèles de prévision numérique du temps, je vois plusieurs systèmes (ex : SRPEOT) non mentionnés parmi la liste des systèmes dont les données sont disponibles, où puis-je trouver ces données ?
+#### Dans le journal de chronologie des modifications des modèles de prévision numérique du temps, je vois plusieurs systèmes (ex : SRPEOT) non mentionnés parmi la liste des systèmes dont les données sont disponibles, où puis-je trouver ces données ?
 
 Ces données ne sont pas encore disponibles sur le Datamart du SMC. Pour être informé de l'ajout de jeux de données, vous pouvez vous abonner aux listes de diffusion [dd-info](https://comm.collab.science.gc.ca/mailman3/postorius/lists/dd_info/) et [GeoMet-Info](http://lists.ec.gc.ca/cgi-bin/mailman/listinfo/geomet-info).
 
-### Comment obtenir les températures minimales et maximales en format JSON ?
+#### Comment obtenir les températures minimales et maximales en format JSON ?
 
 Pour obtenir des données de températures minimales et maximales prévues en format JSON, vous pouvez consulter au choix :
 
@@ -160,7 +165,7 @@ Pour obtenir des données de températures minimales et maximales prévues en fo
 
 Ces bulletins sont disponibles sur le Datamart du SMC, à l'adresse : [https://dd.meteo.gc.ca/bulletins/alphanumeric/YYYYMMDD/FM/CWAO/](https://dd.meteo.gc.ca/bulletins/alphanumeric/YYYYMMDD/FM/CWAO/) et sur les services web géospatiaux GeoMet-OGC-API, à l'adresse: [https://api.meteo.gc.ca/collections/bulletins-realtime/items?limit=10&startindex=0&sortby=-datetime&type=fm](https://api.meteo.gc.ca/collections/bulletins-realtime/items?limit=10&startindex=0&sortby=-datetime&type=fm)
 
-### Est-il possible d'avoir accès aux hauteurs cumulatives de pluie prévue ?
+#### Est-il possible d'avoir accès aux hauteurs cumulatives de pluie prévue ?
 
 En ce qui concerne les données QPF (Quantitative Precipitation Forecast) au format CSV, vous pourriez être intéressés par les bulletins FOCN03, à savoir les prévisions ponctuelles de variables météorologiques obtenues à partir des sorties directes du SRPD (Système régional de prévision déterministe).
 
@@ -174,7 +179,7 @@ Aussi, une estimation optimale de la quantité de précipitation qui est survenu
 
 ## Données d'observation
 
-### Quelle est la différence entre les deux jeux de données d'observations disponibles sur le Datamart du SMC ?
+#### Quelle est la différence entre les deux jeux de données d'observations disponibles sur le Datamart du SMC ?
 
 Nous avons 2 produits qui contiennent des observations du réseau de stations de Environnement et Changement climatique Canada.
 
@@ -184,13 +189,13 @@ Le second regroupe les [données d'observation d'une même province ou territoir
 
 Par conséquent, on ne peut pas vraiment comparer ces 2 jeux de données et il est fortement conseillé d'utiliser les données SWOB, plus complètes et soumises à aucune règle, pour la région d'intérêt.
 
-### À quelle fréquence les données d'observations rassemblées par province et territoire sont-elles rafraichies ?
+#### À quelle fréquence les données d'observations rassemblées par province et territoire sont-elles rafraichies ?
 
 Les [fichiers sommaires provinciaux](../msc-data/obs_station/readme_obs_insitu_xmldatamart.md) sont mis à jour 6 fois par heure, mais le simple fait que nous les mettions à jour ne signifie pas nécessairement qu'une des stations du fichier sommaire a mis à jour ses données depuis la dernière exécution. Nous mettons à jour les observations sur une base horaire (et non à la minute) pour chaque station, au début de l'heure, mais une autre mise à jour (appelée obs spéciale ou "speci") à l'intérieur de l'heure est aussi possible si l'observateur estime qu'il y a eu un changement suffisamment important pour justifier une mise à jour.
 
 Il est possible, par exemple, que le fichier de 1614Z ne contienne pas d'observations différentes de celles de 1611Z, de sorte que l'utilisateur ne doit pas toujours s'attendre à des changements de valeurs pour une station individuelle au cours de l'heure. Nous ne présentons que les données que nous obtenons et, dans ce cas, la plupart des stations ne rapportent qu'une fois par heure. 
 
-### Où pourrais-je trouver des données de bouées ?
+#### Où pourrais-je trouver des données de bouées ?
 
 Les données de bouées (observations marines) sont disponibles sur le Datamart du SMC à cette adresse :
 
@@ -202,13 +207,13 @@ Des rapports quotidiens de bouées du SMC sont aussi publiés sur le [site web d
 
 Finalement, ces données de bouées sont accessibles à travers les [bulletins alphanumériques](../msc-data/bulletins/readme_bulletins-datamart.md)  disponibles sur le Datamart du SMC avec comme en-têtes SM/SN/SIVD17.
 
-### Les images satellitaires sont-elles disponibles ?
+#### Les images satellitaires sont-elles disponibles ?
 
 Environnement et Changement climatique Canada ne distribue pas actuellement d'images satellites ou de produits dérivés aux usagers externes, à l'exception de notre [site web](https://weather.gc.ca/satellite/index_f.html), car nous ne sommes pas le producteur des données.
 
 Un site recommandé pour obtenir gratuitement les images satellites est celui de l'[Université de Washington](https://www.atmos.washington.edu/~ovens/loops/). Pour l'installation d'un fil de données d'images satellites, nous suggérons aux utilisateurs de contacter nos homologues américains à la NOAA ou de chercher un fournisseur dans le secteur privé.
 
-### Les données de foudre sont-elles disponibles ?
+#### Les données de foudre sont-elles disponibles ?
 
 Les données de foudre actuellement disponibles gratuitement au public sont la densité des éclairs sur le Canada via les [services web géospatiaux GeoMet-Météo](../msc-geomet/index.md). Nous offrons également les [données GeoTIFF](../msc-data/lightning/readme_lightning-datamart.md) sur le serveur de données ouvertes du SMC.
 
@@ -216,11 +221,11 @@ Les données de foudre actuellement disponibles gratuitement au public sont la d
  
 Si vous souhaitez acheter des données sur la foudre en temps réel ou archivées, auprès du Réseau canadien de détection de la foudre (CLDN), veuillez contacter nos collègues à l'adresse : ec.rcdf-cldn.ec@canada.ca . Il y a un coût pour les entreprises privées. Le prix dépend de la superficie dont ils ont besoin pour les données en direct et de la durée des données archivées. Si le client envoie au CLDN ses spécifications, un estimé du coût sera transmis (demande envoyée à Vaisala). 
 
-### Je ne vois pas de « conditions actuelles » sous l'élément correspondant dans le fichier citypage_weather en format XML, est-ce normal ?
+#### Je ne vois pas de « conditions actuelles » sous l'élément correspondant dans le fichier citypage_weather en format XML, est-ce normal ?
 
 Certaines stations météorologiques sont automatiques (sans personnel) et ne signalent pas l'état des conditions actuelles. Si vous regardez la page correspondante sur notre site web, par exemple pour la ville d'[Edmonton](https://weather.gc.ca/city/pages/ab-50_metric_e.html), vous verrez qu'il est écrit « Non observé » pour la condition. C'est pourquoi aucune icône ou condition n'est signalée dans le fichier XML Citypage correspondant.
 
-### Est-il possible d'avoir accès aux données observées de qualité de l'air et aux données d'émission des polluants utilisées pour calculer la Cote air santé ?
+#### Est-il possible d'avoir accès aux données observées de qualité de l'air et aux données d'émission des polluants utilisées pour calculer la Cote air santé ?
 
 Au Canada, les données d'observation de qualité de l'air sont généralement produites par les provinces et municipalités et récoltées par ECCC. C'est vrai tant pour le temps réel que pour les données « officielles » qui font l'objet d'un contrôle qualité détaillé et qui sont habituellement publiées l'année suivante.  Ces données officielles sont assemblées dans la base de données du programme de [Surveillance national de la pollution atmosphérique (SNPA)](http://data.ec.gc.ca/data/air/monitor/national-air-pollution-surveillance-naps-program/?lang=fr), maintenant sur le catalogue de données ECCC.
 
@@ -232,7 +237,7 @@ Enfin, il est possible de consulter [l'Inventaire national des rejets de polluan
 
 ## Alertes, avertissements et récupération de données
 
-### Comment faire pour accéder aux avertissements ?
+#### Comment faire pour accéder aux avertissements ?
 
 Il y a plusieurs sources pour obtenir les avertissements.
 
@@ -242,13 +247,13 @@ Il y a plusieurs sources pour obtenir les avertissements.
 
 * Finalement, ECCC a mis en place le [service expérimental EC Alertez moi](https://ecalertezmoi.meteo.gc.ca/guides/quickstart_fr.php) pour envoyer les avertissements par messagerie électronique. 
 
-### Quelles sont les principales différences entre un fil de données ATOM et le protocole AMQP pour accéder aux avertissements ?
+#### Quelles sont les principales différences entre un fil de données ATOM et le protocole AMQP pour accéder aux avertissements ?
 
 La principale différence entre le fil de données ATOM et le protocole AMQP est que dans le cas du fil ATOM, l'utilisateur doit envoyer une requête pour savoir si les nouveaux fichiers sont disponibles, alors qu'avec l'AMQP, l'utilisateur est averti sans envoyer de requête.
 
 Si l'on veut faire une analogie, les fils ATOM peuvent être considérés comme un facteur qui dépose des lettres dans la boîte aux lettres, alors que AMQP peut être considérée comme un livreur qui sonne à la porte pour remettre le colis postal. Nous recommandons fortement d'utiliser le protocole AMQP qui permet de récupérer les données source.
 
-### Pourquoi les files d'attentes de message AMQP cessent après plusieurs heures d'inactivité ?
+#### Pourquoi les files d'attentes de message AMQP cessent après plusieurs heures d'inactivité ?
 
 Les utilisateurs du service [AMQPS](../msc-datamart/amqp.md) sont censés exécuter un daemon qui télécharge des données en permanence, comme celui fourni par [Sarracenia](https://github.com/MetPX/sarracenia/blob/master/doc/fr/sarra.rst). Dans le langage AMQP, une pompe, à savoir un hôte exécutant Sarracenia, est un [courtier](https://github.com/MetPX/sarracenia/blob/master/doc/fr/Install.rst). Le courtier a une capacité limitée à mettre les produits en file d'attente lorsqu'un utilisateur est victime d'une longue interruption involontaire, par exemple de quelques heures à quelques jours. 
 

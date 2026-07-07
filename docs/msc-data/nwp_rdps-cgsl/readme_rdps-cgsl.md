@@ -3,9 +3,13 @@ tags:
   - Données retirées
   - Régional
   - Déterministe
+status: deprecated
 ---
 
 ![ECCC logo](../../img_eccc-logo.png)
+
+!!! failure "Données retirées"
+    Ce jeu de données a été retiré et n'est plus disponible.
 
 # Données et produits du Système Régional de Prévision Déterministe couplé au Golfe du Saint-Laurent
 
@@ -34,9 +38,6 @@ climatologiques et les marées sont prescrites comme dans Saucier et al. (2003).
 ## Accès
 
 ### Comment accéder aux données
-
-!!! failure inline end "Données retirées"
-    Ce jeu de données a été retiré et n'est plus disponible.
 
 Ces données sont respectivement disponibles sur les services serveur de données [Datamart du SMC](../../msc-datamart/index.md) et les services web [GeoMet du SMC](../../msc-geomet/index.md) :
 

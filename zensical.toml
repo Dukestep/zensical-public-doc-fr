@@ -16,10 +16,415 @@ Copyright &copy; 2026 Service météorologique du Canada
 
 # Top-level navigation structure rendered as tabs and sidebar entries.
 # Each entry is { "Label" = "path/to/page.md" } or a nested list for sections.
+# Explicit navigation needed to generate the breadcrumb while having the desired headers.
 nav = [
   { "Données ouvertes du SMC" = "index.md" },
   { "Données disponibles" = [
-    { "Liste des données" = ["msc-data/index.md" ] },
+    { "Liste des données" = [
+    "msc-data/index.md",
+    {"Alertes météo et prévisions publiques" = [
+    {"Alertes météo et maritimes" = [
+    "msc-data/alerts/readme_alerts.md",
+    "msc-data/alerts/readme_alerts-datamart.md",
+    "msc-data/alerts/readme_alerts-geomet.md",
+]},
+    {"Conditions météorologiques actuelles et prévisions sur 7 jours pour les villes canadiennes" = [
+    "msc-data/citypage-weather/readme_citypageweather.md",
+    "msc-data/citypage-weather/readme_citypageweather-datamart.md",
+]},
+    {"Conditions marines actuelles et prévisions sur 7 jours pour les régions marines" = [
+    "msc-data/marine-weather/readme_marine-weather.md",
+    "msc-data/marine-weather/readme_marine-weather-datamart.md",
+]},
+    {"Observations et prévisions de la Cote air santé (CAS)" = [
+    "msc-data/aqhi/readme_aqhi.md",
+    "msc-data/aqhi/readme_aqhi-datamartcsv.md",
+    "msc-data/aqhi/readme_aqhi-datamartjson.md",
+    "msc-data/aqhi/readme_aqhi-datamartxml.md",
+    "msc-data/aqhi/readme_aqhi-geomet.md",
+    "msc-data/aqhi/changelog_aqhi.md",
+]},
+    {"Potentiel orageux" = [
+    "msc-data/thunderstorm-outlooks/readme_thunderstorm-outlooks.md",
+    "msc-data/thunderstorm-outlooks/readme_thunderstorm-outlooks-datamart.md",
+]},
+    {"Indice de risque de submersion côtière" = [
+    "msc-data/coastal-flooding/readme_coastal-flooding.md",
+    "msc-data/coastal-flooding/readme_coastal-flooding-risk-index-datamart.md",
+]},
+    {Ouragans = [
+    "msc-data/hurricanes/readme_hurricanes.md",
+    "msc-data/hurricanes/readme_hurricanes-datamart.md",
+    "msc-data/hurricanes/readme_hurricanes_geomet.md",
+]},
+]},
+    {Observations = [
+    {"Radar météorologique" = [
+    "msc-data/obs_radar/readme_radar.md",
+    "msc-data/obs_radar/readme_radar-composite-datamart.md",
+    "msc-data/obs_radar/readme_radar-composite-extrapolation-datamart.md",
+    "msc-data/obs_radar/readme_radar-couverture-datamart.md",
+    "msc-data/obs_radar/readme_radar-dpqpe-datamart.md",
+    "msc-data/obs_radar/readme_radar-mesh-datamart.md",
+    "msc-data/obs_radar/readme_radar-odimh5-datamart.md",
+    "msc-data/obs_radar/readme_radar-sptp-datamart.md",
+    "msc-data/obs_radar/readme_radar-visibility-datamart.md",
+    "msc-data/obs_radar/readme_radar_geomet.md",
+    "msc-data/obs_radar/readme_radarimage-datamart.md",
+]},
+    {"Densité de foudre" = [
+    "msc-data/lightning/readme_lightning.md",
+    "msc-data/lightning/readme_lightning-datamart.md",
+    "msc-data/lightning/readme_lightning-geomet.md",
+]},
+    {"Observations satellitaires" = [
+    "msc-data/obs_satellite/readme_satellite.md",
+    "msc-data/obs_satellite/readme_satellite-datamart.md",
+    "msc-data/obs_satellite/readme_satellite_geomet.md",
+    "msc-data/obs_satellite/changelog_satellite.md",
+]},
+    {"Observations in situ" = [
+    "msc-data/obs_station/readme_obs_insitu.md",
+    "msc-data/obs_station/readme_obs_insitu_swobdatamart.md",
+    "msc-data/obs_station/readme_obs_insitu_xmldatamart.md",
+]},
+    {"Observations hydrométriques" = [
+    "msc-data/obs_hydrometric/readme_hydrometric.md",
+    "msc-data/obs_hydrometric/readme_hydrometric-datamart.md",
+]},
+    {"Observations de profils verticaux" = [
+    "msc-data/vertical-profiles/readme_vertical-profiles-obs.md",
+    "msc-data/vertical-profiles/readme_vertical-profiles-obs-datamart.md",
+]},
+]},
+    {"Prévisions numériques météorologiques et environnementales" = [
+    {"Atmosphère" = [
+    {"Déterministe" = [
+    {"Système global de prévision déterministe (SGPD)" = [
+    "msc-data/nwp_gdps/readme_gdps.md",
+    "msc-data/nwp_gdps/readme_gdps-datamart-alpha.md",
+    "msc-data/nwp_gdps/readme_gdps-datamart.md",
+    "msc-data/nwp_gdps/readme_gdps-geml-datamart.md",
+    "msc-data/nwp_gdps/readme_gdps-geomet.md",
+    "msc-data/nwp_gdps/readme_gdps-ice-anal-datamart.md",
+    "msc-data/nwp_gdps/readme_gdps-statpostproc-datamart.md",
+    "msc-data/nwp_gdps/changelog_gdps-geml.md",
+    "msc-data/nwp_gdps/changelog_gdps.md",
+]},
+    {"Système régional de prévision déterministe (SRPD)" = [
+    "msc-data/nwp_rdps/readme_rdps.md",
+    "msc-data/nwp_rdps/aviation-package.md",
+    "msc-data/nwp_rdps/ceiling.md",
+    "msc-data/nwp_rdps/readme_astro-rdps-datamart-alpha.md",
+    "msc-data/nwp_rdps/readme_rdps-datamart-alpha.md",
+    "msc-data/nwp_rdps/readme_rdps-datamart.md",
+    "msc-data/nwp_rdps/readme_rdps-statpostproc-datamart.md",
+    "msc-data/nwp_rdps/changelog_rdps.md",
+    {"Profils verticaux à partir du Système régional de prévision déterministe (SRPD)" = [
+    "msc-data/vertical-profiles/readme_vertical-profiles-nwp.md",
+    "msc-data/vertical-profiles/readme_vertical-profiles-nwp-datamart.md",
+]},
+]},
+    {"Système à haute résolution de prévision déterministe (SHRPD)" = [
+    "msc-data/nwp_hrdps/readme_hrdps.md",
+    "msc-data/nwp_hrdps/readme_hrdps-datamart-alpha.md",
+    "msc-data/nwp_hrdps/readme_hrdps-datamart.md",
+    "msc-data/nwp_hrdps/readme_hrdps-statpostproc-datamart.md",
+    "msc-data/nwp_hrdps/changelog_hrdps-west.md",
+    "msc-data/nwp_hrdps/changelog_hrdps.md",
+]},
+    {"Système canadien de prévision de l'Arctique (SCPA)" = [
+    "msc-data/nwp_caps/readme_caps.md",
+    "msc-data/nwp_caps/readme_caps-datamart-alpha.md",
+    "msc-data/nwp_caps/readme_caps-datamart.md",
+    "msc-data/nwp_caps/readme_caps-weong-datamart.md",
+    "msc-data/nwp_caps/changelog_caps.md",
+]},
+    {"Matrices Scribe de prévisions immédiates" = [
+    "msc-data/nwp_nowcasting/readme_nowcasting.md",
+    "msc-data/nwp_nowcasting/readme_nowcasting-datamart.md",
+    "msc-data/nwp_nowcasting/changelog_nowcasting.md",
+]},
+]},
+    {Ensembliste = [
+    {"Système global de prévision d'ensemble (SGPE)" = [
+    "msc-data/nwp_geps/readme_geps.md",
+    "msc-data/nwp_geps/readme_geps-datamart.md",
+    "msc-data/nwp_geps/readme_geps-geomet.md",
+    "msc-data/nwp_geps/changelog_geps.md",
+    {"Système de prévision d'ensemble nord-américain (SPENA)" = [
+    "msc-data/nwp_naefs/readme_naefs.md",
+    "msc-data/nwp_naefs/readme_naefs-datamartxml.md",
+]},
+]},
+    {"Système régional de prévision d'ensemble (SRPE)" = [
+    "msc-data/nwp_reps/readme_reps.md",
+    "msc-data/nwp_reps/readme_reps-datamart.md",
+    "msc-data/nwp_reps/changelog_reps.md",
+]},
+    {"Système de prévision interannuelle et saisonnière canadien (SPISCan)" = [
+    "msc-data/nwp_cansips/readme_cansips.md",
+    "msc-data/nwp_cansips/readme_cansips-datamart.md",
+    "msc-data/nwp_cansips/readme_cansips-datamartcsv.md",
+    "msc-data/nwp_cansips/readme_cansips-geomet.md",
+    "msc-data/nwp_cansips/changelog_cansips.md",
+]},
+]},
+    {"Analyse de la précipitation" = [
+    {"Analyse régionale déterministe de précipitation (ARDP)" = [
+    "msc-data/nwp_rdpa/readme_rdpa.md",
+    "msc-data/nwp_rdpa/readme_rdpa-datamart.md",
+    "msc-data/nwp_rdpa/readme_rdpa-geomet.md",
+    "msc-data/nwp_rdpa/changelog_rdpa.md",
+]},
+    {"Analyse à haute résolution déterministe de précipitation (AHRDP)" = [
+    "msc-data/nwp_hrdpa/readme_hrdpa.md",
+    "msc-data/nwp_hrdpa/readme_hrdpa-datamart.md",
+    "msc-data/nwp_hrdpa/changelog_hrdpa.md",
+]},
+    {"Analyse à haute résolution ensembliste de précipitation (AHREP)" = [
+    "msc-data/nwp_hrepa/readme_hrepa.md",
+    "msc-data/nwp_hrepa/readme_hrepa-datamart.md",
+    "msc-data/nwp_hrepa/readme_hrepa-geomet.md",
+    "msc-data/nwp_hrepa/changelog_hrepa.md",
+]},
+    {"Précipitations moyennes par bassin-versant de l'Analyse à haute résolution déterministe de précipitation (AHRDP bassin-versant)" = [
+    "msc-data/nwp_hrdpa-watershed/readme_hrdpa-watershed.md",
+    "msc-data/nwp_hrdpa-watershed/readme_hrdpa-watershed-datamart.md",
+]},
+]},
+    {"Qualité de l'air" = [
+    {"Système régional de prévision déterministe de la qualité de l'air (SRPDQA)" = [
+    "msc-data/nwp_raqdps/readme_raqdps.md",
+    "msc-data/nwp_raqdps/readme_raqdps-datamart.md",
+    "msc-data/nwp_raqdps/readme_raqdps-geomet.md",
+    "msc-data/nwp_raqdps/changelog_raqdps.md",
+]},
+    {"Analyse régionale déterministe de la qualité de l'air (ARDQA)" = [
+    "msc-data/nwp_rdaqa/readme_rdaqa.md",
+    "msc-data/nwp_rdaqa/readme_rdaqa-datamart.md",
+    "msc-data/nwp_rdaqa/changelog_rdaqa.md",
+]},
+]},
+]},
+    {Surface = [
+    {"Système canadien d'assimilation de données de surface dans le Système national de prévision de surface et de rivières (SCanADS-SNPSR)" = [
+    "msc-data/nwp_caldas-nsrps/readme_caldas-nsrps.md",
+    "msc-data/nwp_caldas-nsrps/readme_caldas-nsrps-datamart.md",
+    "msc-data/nwp_caldas-nsrps/changelog_caldas-nsrps.md",
+]},
+    {"Système de prévision déterministe à haute résolution de la surface terrestre (SPDHRS)" = [
+    "msc-data/nwp_hrdlps/readme_hrdlps.md",
+    "msc-data/nwp_hrdlps/readme_hrdlps-datamart.md",
+    "msc-data/nwp_hrdlps/changelog_hrdlps.md",
+]},
+    {"Système canadien d'assimilation des données de surface dans le SGPD (SCanADS-SGPD)" = [
+    "msc-data/nwp_caldas-gdps/changelog_caldas-gdps.md",
+]},
+    {"Système canadien d'assimilation de données de surface dans le Système à haute résolution de prévision déterministe (SHRPD)" = [
+    "msc-data/nwp_caldas-hrdps/changelog_caldas-hrdps.md",
+]},
+    {"Système canadien d'assimilation de données de surface avec observations satellitaires (SCanADS-Sat)" = [
+    "msc-data/nwp_caldas-sat/changelog_caldas-sat.md",
+]},
+    {"Système de prévision d'ensemble à haute résolution de la surface terrestre (SPEHRS)" = [
+    "msc-data/nwp_hrelps/changelog_hrelps.md",
+]},
+]},
+    {"Eau, océan et glace" = [
+    {"Glace et océan" = [
+    {"Système global de prévision océan-glace (SGPOG)" = [
+    "msc-data/nwp_giops/readme_giops.md",
+    "msc-data/nwp_giops/readme_giops-datamart.md",
+    "msc-data/nwp_giops/changelog_giops.md",
+]},
+    {"Système régional de prévision océan-glace (SRPOG)" = [
+    "msc-data/nwp_riops/readme_riops.md",
+    "msc-data/nwp_riops/readme_riops-datamart-alpha.md",
+    "msc-data/nwp_riops/readme_riops-datamart.md",
+    "msc-data/nwp_riops/changelog_riops.md",
+]},
+    {"Système de prévision côtier océan-glace (SPCOG)" = [
+    "msc-data/nwp_ciops/readme_ciops.md",
+    "msc-data/nwp_ciops/readme_ciops-datamart.md",
+    "msc-data/nwp_ciops/readme_ciops-geomet.md",
+    "msc-data/nwp_ciops/changelog_ciops.md",
+]},
+    {"Système régional de prévision de glace (SRPG)" = [
+    "msc-data/nwp_rips/changelog_rips.md",
+]},
+]},
+    {Vague = [
+    {"Système global de prévision déterministe de vague (SGPDV)" = [
+    "msc-data/nwp_gdwps/readme_gdwps.md",
+    "msc-data/nwp_gdwps/readme_gdwps-datamart.md",
+    "msc-data/nwp_gdwps/changelog_gdwps.md",
+]},
+    {"Système global de prévision d'ensemble de vague (SGPEV)" = [
+    "msc-data/nwp_gewps/readme_gewps.md",
+    "msc-data/nwp_gewps/readme_gewps-datamart.md",
+    "msc-data/nwp_gewps/readme_gewps-geomet.md",
+    "msc-data/nwp_gewps/changelog_gewps.md",
+]},
+    {"Système régional de prévision déterministe de vague (SRPDV)" = [
+    "msc-data/nwp_rdwps/readme_rdwps.md",
+    "msc-data/nwp_rdwps/readme_rdwps-datamart.md",
+    "msc-data/nwp_rdwps/changelog_rdwps.md",
+]},
+    {"Système régional de prévision d'ensemble de vague (SRPEV)" = [
+    "msc-data/nwp_rewps/readme_rewps.md",
+    "msc-data/nwp_rewps/readme_rewps-datamart.md",
+    "msc-data/nwp_rewps/readme_rewps-geomet.md",
+    "msc-data/nwp_rewps/changelog_rewps.md",
+]},
+    {"Système de vague WAM-Global" = [
+    "msc-data/nwp_wam-global/changelog_wam-global.md",
+]},
+]},
+    {"Onde de tempête" = [
+    {"Système global de prévision déterministe d'onde de tempête (SGPDOT)" = [
+    "msc-data/nwp_gdsps/readme_gdsps.md",
+    "msc-data/nwp_gdsps/readme_gdsps-datamart.md",
+    "msc-data/nwp_gdsps/readme_gdsps-geomet.md",
+    "msc-data/nwp_gdsps/changelog_gdsps.md",
+]},
+    {"Système régional de prévision d'ensemble d'onde de tempête (SRPEOT)" = [
+    "msc-data/nwp_resps/readme_resps.md",
+    "msc-data/nwp_resps/readme_resps-datamart.md",
+    "msc-data/nwp_resps/readme_resps-geomet.md",
+    "msc-data/nwp_resps/changelog_resps.md",
+]},
+]},
+    {Eau = [
+    {"Système de prévision du cycle de l'eau (SPCE)" = [
+    "msc-data/nwp_wcps/readme_wcps.md",
+    "msc-data/nwp_wcps/readme_wcps-atm-ocean-datamart.md",
+    "msc-data/nwp_wcps/readme_wcps_nemo-datamart.md",
+    "msc-data/nwp_wcps/changelog_wcps.md",
+]},
+    {"Système de simulation hydrodynamique opérationnelle (SHOP)" = [
+    "msc-data/nwp_ohps/readme_ohps.md",
+    "msc-data/nwp_ohps/readme_ohps-datamart.md",
+    "msc-data/nwp_ohps/changelog_ohps.md",
+]},
+    {"Système de prévision hydrologique déterministe (SPHD)" = [
+    "msc-data/nwp_dhps/changelog_dhps.md",
+]},
+    {"Système de prévision hydrologique ensembliste (SPHE)" = [
+    "msc-data/nwp_ehps/changelog_ehps.md",
+]},
+]},
+]},
+]},
+    {"Données climatiques" = [
+    {"Données climatiques canadiennes ajustées et homogénéisées (AHCCD)" = [
+    "msc-data/climate_ahccd/readme_ahccd.md",
+    "msc-data/climate_ahccd/readme_ahccd-datamart.md",
+    "msc-data/climate_ahccd/readme_ahccd-geomet.md",
+]},
+    {"Données climatiques historiques sur grille canadienne (CANGRD)" = [
+    "msc-data/climate_cangrd/readme_cangrd.md",
+    "msc-data/climate_cangrd/readme_cangrd-datamart.md",
+    "msc-data/climate_cangrd/readme_cangrd-geomet.md",
+]},
+    {"Données de scénarios climatiques des modèles climatiques de la phase 5 du projet d'intercomparaison de modèles couplés (CMIP5)" = [
+    "msc-data/climate_cmip5/readme_cmip5.md",
+    "msc-data/climate_cmip5/readme_cmip5-datamart.md",
+    "msc-data/climate_cmip5/readme_cmip5-geomet.md",
+]},
+    {"Données de scénarios climatiques des modèles climatiques de la phase 6 du projet d'intercomparaison de modèles couplés (CMIP6)" = [
+    "msc-data/climate_cmip6/readme_cmip6.md",
+    "msc-data/climate_cmip6/readme_cmip6-datamart.md",
+    "msc-data/climate_cmip6/readme_cmip6-geomet.md",
+]},
+    {"Données de résultats statistiquement réduits à l'échelle pour des modèles climatiques de la phase 5 du projet d'intercomparaison de modèles couplés (DCS)" = [
+    "msc-data/climate_dcs/readme_dcs.md",
+    "msc-data/climate_dcs/readme_dcs-datamart.md",
+    "msc-data/climate_dcs/readme_dcs-geomet.md",
+]},
+    {"Données de scénarios climatiques mis à l'échelle statistique des modèles climatiques mondiaux du CMIP6 (CanDCS-U6)" = [
+    "msc-data/climate_candcs-u6/readme_candcs-u6.md",
+    "msc-data/climate_candcs-u6/readme_candcs-u6-datamart.md",
+    "msc-data/climate_candcs-u6/readme_candcs-u6-geomet.md",
+]},
+    {"Indice de précipitations et d'évapotranspiration normalisé (IPEN)" = [
+    "msc-data/climate_spei/readme_spei.md",
+    "msc-data/climate_spei/readme_spei-datamart.md",
+    "msc-data/climate_spei/readme_spei-geomet.md",
+]},
+    {"Indices climatiques mis à l'échelle de manière statistique" = [
+    "msc-data/climate_indices/readme_climateindices.md",
+    "msc-data/climate_indices/readme_climateindices-datamart.md",
+    "msc-data/climate_indices/readme_climateindices-geomet.md",
+]},
+    {"Observations historiques" = [
+    "msc-data/climate_obs/readme_climateobs.md",
+    "msc-data/climate_obs/readme_climateobs-datamart.md",
+    "msc-data/climate_obs/readme_climateobs-geomet.md",
+]},
+    {"Records des Extrêmes Quotidiens (Extrêmes climatiques à long terme)" = [
+    "msc-data/climate_ltce/readme_climateltce.md",
+    "msc-data/climate_ltce/readme_climateltce-datamart.md",
+]},
+]},
+    {"Autres données" = [
+    {Bulletins = [
+    "msc-data/bulletins/readme_bulletins.md",
+    "msc-data/bulletins/readme_bulletins-datamart.md",
+    "msc-data/bulletins/readme_bulletinsbufr-datamart.md",
+]},
+    {"Meteocode pour les régions publiques canadiennes" = [
+    "msc-data/meteocode/readme_meteocode.md",
+    "msc-data/meteocode/readme_meteocode-datamartcsv.md",
+    "msc-data/meteocode/readme_meteocode-datamartxml.md",
+]},
+    {MetNotes = [
+    "msc-data/metnotes/readme_metnotes.md",
+    "msc-data/metnotes/readme_metnotes-datamart.md",
+]},
+    {"Polygones des régions de prévision" = [
+    "msc-data/forecast-regions/readme_forecast-regions.md",
+]},
+    {"Données météorologiques à l'aviation en format IWXXM" = [
+    "msc-data/aviation/iwxxm/readme_aviation-iwxxm.md",
+    "msc-data/aviation/iwxxm/readme_aviation-iwxxm-datamart.md",
+]},
+    {"Système automatisé de prévisions à l'aviation (aTAGS)" = [
+    "msc-data/nwp_atags/changelog_atags.md",
+]},
+]},
+    {"Données ouvertes retirées" = [
+    {"Système régional de prévision déterministe d'onde de tempête (SRPDOT)" = [
+    "msc-data/nwp_rdsps/readme_rdsps.md",
+    "msc-data/nwp_rdsps/readme_rdsps-datamart.md",
+    "msc-data/nwp_rdsps/changelog_rdsps.md",
+]},
+    {"Système régional de prévision déterministe - couplé au Golfe du St-Laurent (SRPD-CGSL)" = [
+    "msc-data/nwp_rdps-cgsl/readme_rdps-cgsl.md",
+    "msc-data/nwp_rdps-cgsl/readme_rdps-cgsl-datamart.md",
+    "msc-data/nwp_rdps-cgsl/changelog_rdps-cgsl.md",
+]},
+    {"Système régional de prévision déterministe de la qualité de l'air - FireWork (SRPDQA-FW)" = [
+    "msc-data/nwp_raqdps-fw/readme_raqdps-fw.md",
+    "msc-data/nwp_raqdps-fw/readme_raqdps-fw-datamart.md",
+    "msc-data/nwp_raqdps-fw/readme_raqdps-fw-geomet.md",
+    "msc-data/nwp_raqdps-fw/changelog_raqdps-fw.md",
+]},
+    {"Système à haute résolution de prévision déterministe Nord (SHRPD-Nord)" = [
+    "msc-data/nwp_hrdps-north/readme_hrdps-north.md",
+    "msc-data/nwp_hrdps-north/readme_hrdps-north-datamart.md",
+    "msc-data/nwp_hrdps-north/changelog_hrdps-north.md",
+]},
+]},
+    {"Changements aux systèmes de production de données opérationnels" = [
+    {"Modifications pour les systèmes de prévision numérique du temps (PNT) et données d'observation" = [
+    "msc-data/changelog_nwp.md",
+    "msc-data/changelog_multisystems.md",
+    "msc-data/changelog_pre2011.md",
+]},
+]},
+    {"Utilisation du format de données GRIB2" = "msc-data/readme_grib.md"},
+    ] },
     { "Jeux de données par thème" = [
       "msc-data-themes/index.md",
       { "Vagues de froid" = "msc-data-themes/cold_spells.md" },
@@ -42,21 +447,40 @@ nav = [
       { "STAC" = "msc-geomet/stac.md" },
     ] },
     { "Datamart du SMC" = [
-      "msc-datamart/index.md"
-    ] },
+    "msc-datamart/index.md",
+    "msc-datamart/amqp.md",
+    "msc-datamart/readme_wget-datamart.md",
+] },
     { "Services à recouvrement de coûts" = ["cost-recovered/index.md" ] },
     { "AniMet du SMC" = ["msc-animet/index.md" ] },
     { "WIS2 de l'OMM" = ["wmo-wis2/index.md"]  },
+    {"Licence d'utilisation finale" = [
+    "licence/index.md",
+]},
+    {"Politique d'utilisation des services" = [
+    "usage-policy/index.md",
+]},
   ] },
   { "Utilisation et tutoriels" = [
-    { "Aperçu de l'utilisation" = ["usage/index.md" ] },
-    { "Accéder aux tutoriels" = "usage/tutorials.md" },
-    { "Doc technique du WMS" = "msc-geomet/wms.md" },
-    { "Doc technique du WCS" = "msc-geomet/wcs.md" },
-    { "Doc technique de l'OGC API" = "msc-geomet/ogc_api.md" },
+    { "Aperçu de l'utilisation" = ["usage/index.md" ,"usage/tutorials.md" ] },
+    { "Tous les tutoriels" = [
+    "usage/tutorial_OAFeat_Power-BI.md",
+    "usage/tutorial_OAFeat_QGIS.md",
+    "usage/tutorial_OAFeat_R-Excel.md",
+    "usage/tutorial_WMS_QGIS.md",
+    "usage/tutorial_gdal/tutorial_gdal.md",
+    "usage/tutorial_raw-data_QGIS.md",
+    "usage/tutorial_web-maps.md",
+    "usage/use-case_arthur/use-case_arthur.md",
+    "usage/use-case_oafeat/use-case_oafeat-interactive.md",
+    "usage/use-case_oafeat/use-case_oafeat-script.md",
+] },
   ] },
-  { "FAQ" = ["faq/index.md" ] },
-  { "Contactez-nous" = "https://weather.gc.ca/mainmenu/contact_us_f.html" },
+  { "FAQ" = ["faq/index.md"] },
+  { "Contactez-nous" = ["contact/index.md", {"Événements" = [
+    {"Hackathon METEOHACK 2019 du SMC" = "events/2019-07_hackathon-METEOHACK.md"},
+    {"Forum de données ouvertes du SMC 2019" = "events/2019-07_open-data-forum.md"},
+]} ] },
 ]
 
 # Additional CSS files loaded on every page (relative to docs/)
@@ -114,6 +538,10 @@ alternate = [
   { name = "English", link = "/en/", lang = "en" },
   { name = "Français", link = "/fr/", lang = "fr" }
 ]
+
+#
+[project.extra.status]
+deprecated= "Données retirées"
 
 # --- Markdown extensions ---
 

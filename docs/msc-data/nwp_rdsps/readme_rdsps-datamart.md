@@ -1,4 +1,11 @@
+---
+status: deprecated
+---
+
 ![ECCC logo](../../img_eccc-logo.png)
+
+!!! failure "Données retirées"
+    Ce jeu de données a été retiré et n'est plus disponible.
 
 # Données NetCDF du Système régional de prévision déterministe d'onde de tempête (SRPDOT)
 

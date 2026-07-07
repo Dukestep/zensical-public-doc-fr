@@ -120,7 +120,7 @@ Note: [Diagramme de dépendances des systèmes de prévision numériques météo
 * [Système régional de prévision déterministe d'onde de tempête (SRPDOT)](nwp_rdsps/readme_rdsps.md)
 * [Système régional de prévision déterministe - couplé au Golfe du St-Laurent (SRPD-CGSL)](nwp_rdps-cgsl/readme_rdps-cgsl.md)
 * [Système régional de prévision déterministe de la qualité de l'air - FireWork (SRPDQA-FW)](nwp_raqdps-fw/readme_raqdps-fw.md)
-* [Système à haute résolution de prévision déterministe (SHRPD)](nwp_hrdps/readme_hrdps.md)
+* [Système à haute résolution de prévision déterministe Nord (SHRPD-Nord)](nwp_hrdps-north/readme_hrdps-north.md)
 
 ## Changements aux systèmes de production de données opérationnels
 

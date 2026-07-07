@@ -1,4 +1,11 @@
+---
+status: deprecated
+---
+
 ![ECCC logo](../../img_eccc-logo.png)
+
+!!! failure "Données retirées"
+    Ce jeu de données a été retiré et n'est plus disponible.
 
 # Données du Système régional de prévision déterministe de la qualité de l'air FireWork (SRPDQA-FW) disponibles sur GeoMet du SMC
 

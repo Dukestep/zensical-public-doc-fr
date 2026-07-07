@@ -4,9 +4,13 @@ tags:
   - Régional
   - Déterministe
   - Onde de tempête
+status: deprecated
 ---
 
 ![ECCC logo](../../img_eccc-logo.png)
+
+!!! failure "Données retirées"
+    Ce jeu de données a été retiré et n'est plus disponible.
 
 # Données et Produits du Système régional de prévision déterministe d'onde de tempête (SRPDOT)
 
@@ -17,9 +21,6 @@ Lors du post-traitement, le niveau d'eau associé à la marée est prévu en uti
 ## Accès
 
 ### Comment accéder aux données
-
-!!! failure inline end "Données retirées"
-    Ce jeu de données a été retiré et n'est plus disponible.
 
 Ces données sont disponibles sur le serveur de données [Datamart du SMC](../../msc-datamart/index.md):
 
