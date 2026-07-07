@@ -1,0 +1,124 @@
+---
+tags:
+  - Global
+  - Déterministe
+---
+
+![ECCC logo](../../img_eccc-logo.png)
+
+# Données et produits du Système global de prévision déterministe
+
+Le Système global de prévision déterministe (SGPD) est un modèle de prévision numérique du temps déterministe couplé atmosphère (GEM), océan et glace de mer (NEMO-CICE) où __la température et les composantes horizontales du vent aux grandes échelles prévues par GEM sont pilotées spectralement par les prévisions du [Global Environnemental éMuLateur (GEML)](readme_gdps-geml-datamart.md), le modèle météorologique d'ECCC entrainé par des données et basé sur l'intelligence artificielle (IA)__. Les prévisions sont effectuées deux fois par jour et vont jusqu'à 10 jours dans le futur. La couverture géographique est globale avec une résolution horizontale de 15 km. Les données sont offertes sur une trentaine de niveaux verticaux et interpolées sur une grille latitude-longitude uniforme globale avec une résolution horizontale de 0.15 degré. La fréquence temporelle et le nombre de variables accessibles sont fonction de l'horizon temporel des prévisions.
+
+## Accès
+
+### Comment accéder aux données
+
+Ces données sont respectivement disponibles via l'API / les services web [GeoMet du SMC](../../msc-geomet/index.md) et le serveur de données [Datamart du SMC](../../msc-datamart/index.md) :
+
+- [Données disponibles via les services web géospatiaux GeoMet-Météo](readme_gdps-geomet.md)
+- [Données de prévision disponibles sur le Datamart du SMC](readme_gdps-datamart.md)
+- [Données du Global Environnemental éMuLateur (GEML) disponibles sur le Datamart du SMC](readme_gdps-geml-datamart.md)
+- [Données statistiquement post-traitées sur le Datamart du SMC](readme_gdps-statpostproc-datamart.md)
+- [Données expérimentales d'éléments du temps sur grille disponibles sur DD-Alpha, le site Web d'essai de données du Datamart du SMC](readme_gdps-datamart-alpha.md)
+- [Données d'analyse de glace globale sur le Datamart du SMC](readme_gdps-ice-anal-datamart.md)
+
+Un [survol et exemples pour accéder et utiliser les données ouvertes du Service météorologique du Canada](../../usage/index.md) est disponible. Exemple de carte interactive présentant la couche `GDPS_15km_PrecipType-Significant1h` du SGPD provenant de GeoMet du SMC :
+
+<div id="map" style="height: 400px; position: relative">
+  <div id="legend-popup">
+  <div id="legend-popup-content">
+    <img id="legend-img" src="https://geo.meteo.gc.ca/geomet?lang=fr&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=GDPS_15km_PrecipType-Significant1h&format=image/png&STYLE=SIGPRECIPITATIONTYPE-FR"/>
+  </div>
+</div>
+</div>
+<div id="controller" role="group" aria-label="Animation controls" style="background: #ececec; padding: 0.5rem;">
+  <button id="fast-backward" class="btn btn-primary btn-sm" type="button"><i class="fa fa-fast-backward" style="padding: 0rem 1rem"></i></button>
+  <button id="step-backward" class="btn btn-primary btn-sm" type="button"><i class="fa fa-step-backward" style="padding: 0rem 1rem"></i></button>
+  <button id="play-pause" class="btn btn-primary btn-sm" type="button"><i class="fa fa-play" style="padding: 0rem 1rem"></i></button>
+  <button id="step-forward" class="btn btn-primary btn-sm" type="button"><i class="fa fa-step-forward" style="padding: 0rem 1rem"></i></button>
+  <button id="fast-forward" class="btn btn-primary btn-sm" type="button"><i class="fa fa-fast-forward" style="padding: 0rem 1rem"></i></button>
+  <button id="exportmap" class="btn btn-primary btn-sm" type="button"><i class="fa fa-download" style="padding: 0rem 1rem"></i></button>
+  <a id="image-download" download="msc-geomet_web-map_export.png"></a>
+  <span id="info" style="padding-left: 0.5rem;cursor: pointer;"></span>
+</div>
+
+### Licence
+
+La [licence d’utilisation finale pour les serveurs de données d’Environnement et Changement climatique Canada](../../licence/index.md) précise les conditions d'utilisation de ces données.
+
+### Politique d'utilisation des services de données ouvertes du SMC
+
+La [Politique d'utilisation des services de données ouvertes du SMC](../../usage-policy/index.md) détermine ce qui constitue une utilisation appropriée des services de données ouvertes du SMC et fournit aux utilisateurs les pratiques exemplaires pour une utilisation optimale.
+
+### Métadonnées de découverte
+
+- Les [métadonnées du Système global de prévision déterministe sont accessibles sur le portail du gouvernement ouvert](https://ouvert.canada.ca/data/fr/dataset/c041e79a-914a-5a4e-a485-9cbc506195df).
+
+## Produits
+
+Liste et liens vers les produits disponibles pour ce jeu de données :
+
+### Cartes d'analyses
+
+- [Température de la surface de la mer](https://meteo.gc.ca/data/analysis/351_100.gif)
+- [Étendue de la glace de mer](https://meteo.gc.ca/data/analysis/350_100.gif)
+- [Épaisseur de la neige au sol](https://meteo.gc.ca/data/analysis/352_100.gif)
+- [Ozone stratosphérique](https://woudc.org/data/products/?lang=fr)
+
+## Documentation technique
+
+* [Version actuelle du Système global de prévision déterministe](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_specifications/tech_specifications_GDPS_f.pdf)
+* [Note technique la plus récente du Système global de prévision déterministe](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_notes/technote_gdps_f.pdf)
+* [Fiche d'information du Système global de prévision déterministe](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/fact_sheets/factsheet_gdps_f.pdf)
+* ["Leveraging data-driven weather models for improving numerical weather prediction skill through large-scale spectral nudging"; Syed Zahid Husain, Leo Separovic, Jean-François Caron, Rabah Aider, Mark Buehner, Stéphane Chamberland, Ervig Lapalme, Ron McTaggart-Cowan, Christopher Subich, Paul A. Vaillancourt, Jing Yang, Ayrton Zadra; Août 2025](https://journals.ametsoc.org/view/journals/wefo/40/9/WAF-D-24-0139.1.xml)
+* [Version actuelle du prologiciel de post-traitement statistique du Système global de prévision déterministe](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_specifications/tech_specifications_PROGNOS_f.pdf)
+* [Note technique du prologiciel de post-traitement statistique du Système global de prévision déterministe](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/not_available.pdf)
+* [Diagramme de dépendances](https://collaboration.cmc.ec.gc.ca/cmc/cmos/public_doc/msc-data/nwep-dependency-diagrams/system_GDPS_fr.svg)
+
+## Registre des changements
+
+La chronologie des changements apportés au Système global de prévision déterministe (SGPD) est disponible [ici](changelog_gdps.md).
+
+
+<style>
+  #legend-img {
+    margin: 0px;
+    height:300px;
+  }
+  #legend-popup {
+    position: absolute;
+    top: 40px;
+    right: 8px;
+    z-index: 2;
+  }
+  .legend-switch{
+    top: 8px;
+    right: .5em;
+  }
+  .ol-touch .legend-switch {
+    top: 80px;
+  }
+</style>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v7.3.0/ol.css" type="text/css"/>
+<script src="https://cdn.jsdelivr.net/npm/ol@v7.3.0/dist/ol.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.3/FileSaver.min.js"></script>
+<script>
+    function isIE() {
+      return window.navigator.userAgent.match(/(MSIE|Trident)/);
+    }
+    var head = document.getElementsByTagName('head')[0];
+    var js = document.createElement("script");
+    js.type = "text/javascript";
+    if (isIE())
+    {
+        js.src = "../../../js/gdps_ie.js";
+        document.getElementById("controller").setAttribute("hidden", true);
+    }
+    else
+    {
+        js.src = "../../../js/gdps.js";
+    }
+    head.appendChild(js);
+</script>

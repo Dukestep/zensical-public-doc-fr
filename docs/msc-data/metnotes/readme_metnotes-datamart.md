@@ -1,0 +1,56 @@
+![ECCC logo](../../img_eccc-logo.png)
+
+# Données MetNotes 
+
+Cette page décrit les MetNotes [MetNotes](readme_metnotes.md) en format GeoJSON disponibles sur le Datamart du SMC.
+
+## Adresse des données 
+
+Les données du Datamart du SMC peuvent être [automatiquement récupérées avec le Protocole avancé de mise en file d'attente des messages (AMQP)](../../msc-datamart/amqp.md) dès qu'elles deviennent disponibles. Un [survol et exemples pour accéder et utiliser les données ouvertes du Service météorologique du Canada](../../usage/index.md) est également disponible.
+
+Les données sont disponibles via le protocole HTTPS. Il est possible d’y accéder avec un fureteur standard. Dans ce cas, on obtient une liste de liens donnant accès à un fichier GeoJSON.
+
+Les données MetNotes se trouvent à l'adresse :
+
+[https://dd.meteo.gc.ca/today/metnotes](https://dd.meteo.gc.ca/today/metnotes)
+
+## Nomenclature des noms de fichiers 
+
+La nomenclature des noms des fichiers est la suivante :
+
+`{YYYYMMDD}T{hhmmss.sss}Z_MSC_MetNotes.json`
+
+où :
+
+* __YYYYMMDD__ : Année, mois et jour de l'émission des données
+* __T__ : Délimiteur temporel selon les normes ISO8601
+* __hhmmss.sss__ : Heure, minute, seconde et milliseconde à laquelle les données sont émises
+* __Z__ : Fuseau horaire (heure UTC)
+* __MSC__ : Chaîne de caractères constante pour Meteorological Service of Canada, la source des données
+* __MetNotes__ : Chaîne de caractères constante indiquant le nom du produit contenu dans les fichiers 
+* __json__ : Chaîne de caractères constante indiquant que le format est GeoJSON
+
+Exemple :
+
+* 20220207T000000.123Z_MSC_MetNotes.json
+
+__Note__ : L'utilisation des millisecondes est requise pour assurer l'unicité des notes émises.
+
+## Contenu du fichier
+
+Les champs temporels dans le fichier GeoJSON sont définis comme suit :
+
+| Element   |   Description    |
+|-----------|------------------|
+|start_datetime |   Le moment défini par le prévisionniste où les conditions météorologiques abordées par la MetNote devraient commencer.|
+|end_datetime |     Le moment défini par le prévisionniste où les conditions météorologiques abordées par la MetNote ne sont plus attendues.|
+|expire_datetime |  Si plus de 27 heures se sont écoulées depuis la publication d'une MetNote (délai d'expiration + 3 heures de grâce), celle-ci sera considérée comme expirée et automatiquement retirée des plateformes de diffusion.|
+|publish_datetime | Le moment auquel le prévisionniste indique qu'un MetObject d'une MetNote est prêt pour la génération du produit.|
+
+## Support
+
+Pour toute question relative à ces données, merci de [nous contacter](https://weather.gc.ca/mainmenu/contact_us_f.html).
+
+## Annonces de la liste de diffusion dd_info 
+
+Les annonces reliées à ce jeu de données sont disponibles via la liste [dd_info](https://comm.collab.science.gc.ca/mailman3/postorius/lists/dd_info/).

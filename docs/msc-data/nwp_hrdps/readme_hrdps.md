@@ -1,0 +1,56 @@
+---
+tags:
+  - Haute résolution
+  - Déterministe
+---
+
+![ECCC logo](../../img_eccc-logo.png)
+
+# Données et Produits du Système à haute résolution de prévision déterministe
+
+Le Système à haute résolution de prévision déterministe (SHRPD) procède à des calculs physiques afin de produire des prévisions déterministes d'éléments de l'atmosphère du jour présent jusqu'à 48 heures dans le futur. Les éléments de l'atmosphère incluent notamment la température, les précipitations, la couverture nuageuse, la vitesse et direction des vents et l'humidité. Ce produit contient les résultats numériques bruts de ces calculs. La couverture géographique inclut la majeure partie du Canada. La résolution spatiale horizontale des données est d'environ 2.5 km distribuées sur au plus 31 niveaux verticaux. Les prévisions sont exécutées quatre fois par jour.
+
+## Accès
+
+### Comment accéder aux données
+
+Ces données sont respectivement disponibles sur les services serveur de données [Datamart du SMC](../../msc-datamart/index.md) et les services web [GeoMet du SMC](../../msc-geomet/index.md) :
+
+* [Données disponibles sur le Datamart du SMC](readme_hrdps-datamart.md) 
+* [Données statistiquement post-traitées sur le Datamart du SMC](readme_hrdps-statpostproc-datamart.md)
+* [Données expérimentales à 1km disponibles sur le domaine ouest sur DD-Alpha, le site Web d'essai de données du Datamart du SMC](readme_hrdps-datamart-alpha.md) 
+* [Données disponibles via les services web géospatiaux GeoMet-Météo](../../msc-geomet/index.md)
+
+Un [survol et exemples pour accéder et utiliser les données ouvertes du Service météorologique du Canada](../../usage/index.md) est disponible.
+
+### Licence
+
+La [licence d’utilisation finale pour les serveurs de données d’Environnement et Changement climatique Canada](../../licence/index.md) précise les conditions d'utilisation de ces données.
+
+### Politique d'utilisation des services de données ouvertes du SMC
+
+La [Politique d'utilisation des services de données ouvertes du SMC](../../usage-policy/index.md) détermine ce qui constitue une utilisation appropriée des services de données ouvertes du SMC et fournit aux utilisateurs les pratiques exemplaires pour une utilisation optimale.
+
+### Métadonnées de découverte
+
+* Les [métadonnées du Système à haute résolution de prévision déterministe sont accessibles sur le portail du gouvernement ouvert](https://ouvert.canada.ca/data/fr/dataset/5b401fa0-6c29-57f0-b3d5-749f301d829d).
+* Les [métadonnées des Éléments du temps sur grille dérivés du Système à haute résolution de prévision déterministe sont accessibles sur le portail du gouvernement ouvert](https://open.canada.ca/data/fr/dataset/9eaf8b65-a734-432e-925c-7fbe8fc65670).
+
+## Documentation technique
+
+* [Version actuelle du Système à haute résolution de prévision déterministe](http://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_specifications/tech_specifications_HRDPS_f.pdf)
+* [Version actuelle du prologiciel de post-traitement statistique du Système à haute résolution de prévision déterministe](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_specifications/tech_specifications_PROGNOS_f.pdf)
+* [Note technique pour le domaine continental](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_notes/technote_hrdps_f.pdf)
+* [Note technique des éléments du temps sur grille](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_notes/technote_weong-hrdps_f.pdf)
+* [Note technique du prologiciel de post-traitement statistique du Système à haute résolution de prévision déterministe](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/not_available.pdf)
+* [Diagramme de dépendances du SHRPD sur le domaine continental](https://collaboration.cmc.ec.gc.ca/cmc/cmos/public_doc/msc-data/nwep-dependency-diagrams/system_HRDPS_fr.svg)
+* [Note technique du Système canadien d'assimilation de surface (SCanADS)](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_notes/technote_hrdps_caldas_e.pdf) (en anglais seulement)
+* [Fiche d'information du SHRPD associée au dernier cycle d'innovation](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/fact_sheets/factsheet_hrdps_f.pdf)
+* [Fiche d'information du SHRPD-Ouest associée au dernier cycle d'innovation](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/fact_sheets/factsheet_hrdps-west_f.pdf)
+
+## Registre des changements 
+
+* La chronologie des changements apportés au Système à haute résolution de prévision déterministe (SHRPD) est disponible [ici](changelog_hrdps.md).
+* La chronologie des changements apportés au Système canadien d'assimilation de données de surface dans le SHRPD (SCanADS-SHRPD) est disponible [ici](../nwp_caldas-hrdps/changelog_caldas-hrdps.md).
+* La chronologie des changements apportés au Système à haute résolution de prévision déterministe Ouest (SHRPD-Ouest) est disponible [ici](changelog_hrdps-west.md).
+

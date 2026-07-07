@@ -1,0 +1,43 @@
+---
+tags:
+  - Observation
+  - Temps réel
+---
+
+![ECCC logo](../../img_eccc-logo.png)
+
+# Données et produits d'observations aux stations
+
+Observations de surface mesurées aux stations automatiques et manuelles des réseaux d'Environnement et Changement climatique Canada et de ses partenaires soit pour une seule station, soit pour les stations de provinces et territoires spécifiques. 
+
+## Accès
+
+### Comment accéder aux données
+
+Ces données sont disponibles sur le serveur de données [Datamart du SMC](../../msc-datamart/index.md) ainsi que sur les services web [GeoMet du SMC](../../msc-geomet/index.md) :
+
+* [Sommaires d'observations pour les provinces et territoires en format XML, disponibles sur le Datamart du SMC](readme_obs_insitu_xmldatamart.md) 
+* [Langage de balisage des observations météorologiques au sol (SWOB-ML)](readme_obs_insitu_swobdatamart.md)
+* Les derniers 30 jours d'[observations météorologiques à la surface en temps réel sont disponibles sur les services web GeoMet du SMC](https://api.meteo.gc.ca/collections/swob-realtime) via le standard OGC API - Features
+
+Un [survol et exemples pour accéder et utiliser les données ouvertes du Service météorologique du Canada](../../usage/index.md) est disponible.
+
+### Licence
+
+La [licence d’utilisation finale pour les serveurs de données d’Environnement et Changement climatique Canada](../../licence/index.md) précise les conditions d'utilisation de ces données.
+
+### Politique d'utilisation des services de données ouvertes du SMC
+
+La [Politique d'utilisation des services de données ouvertes du SMC](../../usage-policy/index.md) détermine ce qui constitue une utilisation appropriée des services de données ouvertes du SMC et fournit aux utilisateurs les pratiques exemplaires pour une utilisation optimale.
+
+### Métadonnées de découverte
+
+Les [métadonnées des sommaires d'observations pour les provinces et territoires en format XML sont disponibles sur le portail du gouvernement ouvert](https://ouvert.canada.ca/data/fr/dataset/493966f9-f683-4e56-8fa6-8799999c00bd)
+
+## Produits
+
+* [Cartes des statistiques météo en temps réel](https://hpfx.collab.science.gc.ca/~mab003/)
+
+## Documentation technique
+
+* [MANOBS Manuel d’observations météorologiques de surface](https://www.canada.ca/fr/environnement-changement-climatique/services/manuels-documents-conditions-meteorologiques/manobs-observations-surface.html)

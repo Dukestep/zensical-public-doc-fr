@@ -1,0 +1,60 @@
+---
+tags:
+  - Données retirées
+  - Haute résolution
+  - Déterministe
+---
+
+![ECCC logo](../../img_eccc-logo.png)
+
+
+
+# Données et Produits du Système à haute résolution de prévision déterministe Nord
+
+Le Système expérimental à haute résolution de prévision déterministe Nord (SHRDP-Nord) est un système de prévision expérimental basé sur une configuration à aire limitée (LAM) du modèle Global Environmental Multiscale (GEM). Il couvre l'ensemble du bassin arctique et la baie d'Hudson avec une résolution de la grille horizontale d'environ 3km. Le niveau momentum le plus bas se situe à une altitude d'environ 40m. Le SHRPD-Nord 3km est piloté par le [Système global de prévision déterministe global (SGPD)](../nwp_gdps/readme_gdps.md) de ECCC, qui fournit des conditions initiales et latérales pour les champs atmosphériques. Les champs hydrométéorologiques initiaux sont recyclés à partir de la prévision à 12 heures de l'intégration précédente du HRDPS-Nord. Les champs de surface pour la glace de mer et la température sont fournis par le [Système régional de prévision océan-glace (SRPOG)](../nwp_riops/readme_riops.md). Le SHRPD-Nord tourne deux fois par jour sur une grille lat-lon tournée et est initialisé à 00 et 12 UTC respectivement avec une intégration de 48 heures.
+
+Dans le cadre d’un plan de modernisation du Service Météorologique Canadien (SMC), des éléments du temps sur grille ("WEonG") cohérents, fusionnant les sorties brutes du modèle et post-traitées à l’aide de diverses approches diagnostiques sont également disponibles pour servir les différents programmes de prévision (public, maritime, aviation, qualité de l’air, etc.). Des concepts horaires sont ainsi produits à partir de différents algorithmes en utilisant des sorties provenant du SHRPD-Nord. Ces données sont également disponibles sur la grille lat-lon tournée. 
+
+## Accès
+
+### Comment accéder aux données
+
+!!! failure inline end "Données retirées"
+    Ce jeu de données a été retiré et n'est plus disponible.
+
+
+Ces données sont respectivement disponibles sur les services serveur de données [Datamart du SMC](../../msc-datamart/index.md) et les services web [GeoMet du SMC](../../msc-geomet/index.md) :
+
+* [Données GRIB2 disponibles sur le Datamart du SMC](readme_hrdps-north-datamart.md) 
+* [Données disponibles via les services web géospatiaux GeoMet-Météo](../../msc-geomet/index.md)
+
+Un [survol et exemples pour accéder et utiliser les données ouvertes du Service météorologique du Canada](../../usage/index.md) est disponible.
+
+### Licence
+
+La [licence d’utilisation finale pour les serveurs de données d’Environnement et Changement climatique Canada](../../licence/index.md) précise les conditions d'utilisation de ces données.
+
+### Politique d'utilisation des services de données ouvertes du SMC
+
+La [Politique d'utilisation des services de données ouvertes du SMC](../../usage-policy/index.md) détermine ce qui constitue une utilisation appropriée des services de données ouvertes du SMC et fournit aux utilisateurs les pratiques exemplaires pour une utilisation optimale.
+
+### Métadonnées de découverte
+
+* A venir.
+* Les [métadonnées des Éléments du temps sur grille dérivés du Système à haute résolution de prévision déterministe sont accessibles sur le portail du gouvernement ouvert](https://open.canada.ca/data/fr/dataset/9eaf8b65-a734-432e-925c-7fbe8fc65670).
+
+## Documentation technique
+
+ATTENTION: le SHRPD-Nord est maintenant couplé avec le SRPOG (voir la chronologie des changements) et est renommé Système canadien de prévision de l'Arctique (SCPA). Certains documents ci-dessous pointent donc vers ceux du SCPA.
+
+* [Version actuelle du Système à haute résolution de prévision déterministe Nord](http://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_specifications/tech_specifications_CAPS_f.pdf)
+* [Diagramme de dépendances](https://collaboration.cmc.ec.gc.ca/cmc/cmos/public_doc/msc-data/nwep-dependency-diagrams/system_CAPS_fr.svg)
+* [Note technique](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_notes/technote_caps_f.pdf)
+* [Note technique des éléments du temps sur grille (WEonG)](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_notes/technote_weong-hrdps_f.pdf)
+* [Fiche d'information associée au dernier cycle d'innovation](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/fact_sheets/factsheet_hrdps-north_f.pdf)
+
+## Registre des changements 
+
+La chronologie des changements apportés au Système à haute résolution de prévision déterministe Nord (SHRPD-Nord) est disponible [ici](changelog_hrdps-north.md).
+
+

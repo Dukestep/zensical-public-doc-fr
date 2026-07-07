@@ -1,0 +1,157 @@
+.grid.cards > ul > li {
+  border-top: 3px solid var(--md-primary-fg-color);
+}
+
+.md-announce svg {
+  height: 1rem;
+  vertical-align: middle;
+}
+
+/* Home tab is redundant with the header logo — hide it from the tabs bar
+   while keeping the nav entry so breadcrumbs use the short label */
+.md-tabs__item:first-child {
+  display: none;
+}
+
+/* Consistent image height for theme cards */
+.theme-cards img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 0.1rem;
+}
+
+/* ============================================================
+   simple-datatables — themed styling (class names: .datatable-*)
+   ============================================================ */
+
+/* Horizontal scroll for wide tables */
+.datatable-wrapper .datatable-container {
+  overflow-x: auto;
+}
+
+/* Table base */
+.datatable-wrapper {
+  font-size: 0.85rem;
+  margin: 1rem 0;
+}
+
+/* Header */
+.datatable-table > thead > tr > th {
+  background-color: #76dbe9;
+  color: var(--md-primary-bg-color);
+  font-weight: 600;
+  padding: 0.6rem 0.75rem;
+  border-right: 1px solid rgba(255, 255, 255, 0.2);
+  white-space: nowrap;
+}
+
+.datatable-table > thead > tr > th:last-child {
+  border-right: none;
+}
+
+/* Sort button/arrow colour fix on coloured header */
+.datatable-table th a,
+.datatable-table th button,
+.datatable-sorter {
+  color: var(--md-primary-bg-color) !important;
+}
+
+/* Body cells */
+.datatable-table > tbody > tr > td {
+  padding: 0.45rem 0.75rem;
+  border-right: 1px solid var(--md-default-fg-color--lightest);
+  vertical-align: top;
+}
+
+.datatable-table > tbody > tr > td:last-child {
+  border-right: none;
+}
+
+/* Zebra striping */
+.datatable-table > tbody > tr:nth-child(odd) {
+  background-color: var(--md-code-bg-color);
+}
+
+/* Row hover */
+.datatable-table > tbody > tr:hover {
+  background-color: var(--md-accent-fg-color--transparent);
+}
+
+/* Top bar: search + per-page */
+.datatable-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0.4rem 0;
+}
+
+.datatable-input,
+.datatable-selector {
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: 0.2rem;
+  padding: 0.3rem 0.5rem;
+  font-size: 0.82rem;
+  background-color: var(--md-default-bg-color);
+  color: var(--md-typeset-color);
+}
+
+/* Bottom bar: info + pagination */
+.datatable-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0.4rem 0;
+}
+
+/* Pagination — override Material nav ul li resets */
+.datatable-pagination ul {
+  display: flex !important;
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  gap: 0.2rem;
+}
+
+.datatable-pagination li {
+  display: inline-flex !important;
+}
+
+.datatable-pagination a,
+.datatable-pagination button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2rem;
+  height: 2rem;
+  padding: 0 0.4rem;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: 0.2rem;
+  color: var(--md-typeset-a-color) !important;
+  text-decoration: none !important;
+  font-size: 0.8rem;
+  line-height: 1;
+  background: none;
+  cursor: pointer;
+}
+
+.datatable-pagination .datatable-active a,
+.datatable-pagination .datatable-active button {
+  background-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color) !important;
+  border-color: var(--md-primary-fg-color);
+  font-weight: 600;
+}
+
+.datatable-pagination a:hover,
+.datatable-pagination button:hover {
+  background-color: var(--md-accent-fg-color--transparent);
+}
+
+.datatable-pagination .datatable-hidden {
+  display: none !important;
+}

@@ -1,0 +1,40 @@
+name: zensical deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Zensical
+        run: pip install zensical
+
+      - name: Build site
+        run: zensical build --clean
+
+      # Pushes the built site/ into the /fr/ subdirectory of the gh-pages branch
+      # on the central deployment repo. Replace OWNER/DEPLOY-REPO with the actual
+      # repository that hosts your GitHub Pages site.
+      #
+      # - name: Deploy to GitHub Pages
+      #   uses: peaceiris/actions-gh-pages@v4
+      #   with:
+      #     # Personal access token with repo write access to the deployment repo
+      #     personal_token: ${{ secrets.DEPLOY_TOKEN }}
+      #     external_repository: OWNER/DEPLOY-REPO
+      #     publish_branch: gh-pages
+      #     publish_dir: ./site
+      #     destination_dir: fr
+      #     keep_files: true

@@ -1,0 +1,160 @@
+![ECCC logo](../img_eccc-logo.png)
+
+# Ouragans&emsp;<i class="wi wi-hurricane" style="font-size: 45px; color: #4e64a6;"></i>
+
+Cette page présente une liste de jeux de données pertinentes du Service Météorologique du Canada sous le thème des ouragans, afin de guider les usagers vers les jeux de données appropriés. Cette liste n'est pas exhaustive mais, donne un aperçu des couches pouvant être utilisées sous cette thématique. Les principales couches de données sont les trajectoires d'ouragans et la zone de réaction aux ouragans qui sont émises par le Centre canadien de prévision des ouragans, dans le cadre des prévisions régulières lors de la saison des ouragans. Cependant, plusieurs autres couches pertinentes peuvent également apporter une complémentarité sur le sujet telles; la vitesse des vents, les quantités de pluie ou les vagues cotiêres, pour ne donner ici, que queques exemples.
+</br> 
+
+Exemple de carte interactive comportant les couches `Zone de réaction aux ouragans`, `Alertes météo en cours` et `SHRPD-ETsurG - Rafale de vents` (actives sur la carte) du Service de cartographie Web (WMS), ainsi qu'un certain nombre de couches optionnelles qui peuvent être ajoutées en cochant les cases de la liste dans la carte. Les couches sont desservies par GeoMet du SMC.
+
+Les couches de l’aperçu ci-dessous peuvent être également visualisées dans AniMet du SMC à l’aide d’un [permalien](https://eccc-msc.github.io/msc-animet/?layers=CURRENT_CONDITIONS;0.75;0;0;0;1,HRDPS-WEonG_2.5km_Thunderstorm-Prob;0.75;0;0;0;1,HRDPS-WEonG_2.5km_TotalPrecipIntensityIndex;0.75;0;0;0;1,HRDPS-WEonG_2.5km_WindGust;0.75;0;1;0;1,Current-Alerts;0.75;0;1;Alertes-en-cours;1,HURRICANE_RESPONSE_ZONE;0.75;0;1;0;1&lang=fr) unique pour l'ensemble des variables.
+
+
+<div id="map" style="height: 500px; position: relative">
+  <div id="legend-popup">
+    <div id="legend-popup-content">
+      <img id="legend-img" style="display: flex; max-height: 400px;" src="" />
+    </div>
+  </div>
+
+  <div id="switch-content" style="position: absolute; z-index: 1; bottom: 40px; left: 8px;">
+    <div id="switch-case">
+        <label>
+          <input type="checkbox" id="layer5" checked>
+          <span onmouseover="updateLegend('https://geo.meteo.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=HURRICANE_RESPONSE_ZONE&format=image/png&lang=fr')">Zone d'ouragans</span>
+        </label></br>
+        <label>
+          <input type="checkbox" id="layer6" checked>
+          <span onmouseover="updateLegend('https://geo.meteo.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Current-Alerts&format=image/png&STYLE=Alertes-en-cours')">Alertes météo</span>
+        </label></br>
+        <label>
+          <input type="checkbox" id="layer2" checked>
+          <span onmouseover="updateLegend('https://geo.meteo.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=HRDPS-WEonG_2.5km_WindGust&format=image/png&lang=fr')">Rafale de vents</span>
+        </label></br>
+        <label>
+          <input type="checkbox" id="layer1">
+          <span onmouseover="updateLegend('https://geo.meteo.gc.ca/geomet?lang=fr&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=HRDPS-WEonG_2.5km_TotalPrecipIntensityIndex&format=image/png&STYLE=TotalPrecipIntensityIndex_Dis_Fr')">Précipitations totales</span>
+        </label></br>
+        <label>
+          <input type="checkbox" id="layer3">
+          <span onmouseover="updateLegend('https://geo.meteo.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=HRDPS-WEonG_2.5km_Thunderstorm-Prob&format=image/png&lang=fr')">Probabilité d'orages</span>
+        </label></br>
+        <label>
+          <input type="checkbox" id="layer4">
+          <span onmouseover="updateLegend('https://geo.meteo.gc.ca/geomet?lang=fr&version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=CURRENT_CONDITIONS&format=image/png&STYLE=default')">Conditions actuelles</span>
+        </label></br>
+    </div>
+  </div>
+</div>
+</br>
+
+
+
+## Jeux de données
+
+Il est à noter que les différentes couches présentées dans la liste qui suit, sont disponibles à différentes résolutions et différentes échéances temporelles.
+
+##### &emsp;<span class="badge badge-info">Ouragans</span>
+###### &emsp;[Documentation des données sur les ouragans](../msc-data/hurricanes/readme_hurricanes.md)
+* Rayons de prévisions de vent (quadrants)
+* Points de prévision</br>
+
+##### &emsp;<span class="badge badge-info">SHRPD Continental - Éléments du temps sur grille</span>
+###### &emsp;[Documentation des données SHRPD](../msc-data/nwp_hrdps/readme_hrdps.md)
+* Rafale de vents
+* Indice d'intensité des précipitations totales
+* Probabilité d'occurence d'orage</br>
+
+##### &emsp;<span class="badge badge-info">SHRPD à la surface ou à proximité de la surface</span>
+###### &emsp;[Documentation des données SHRPD](../msc-data/nwp_hrdps/readme_hrdps.md)
+* Maximum des rafales de vent
+* Pluie accumulée
+* Pression au niveau de la mer (contour)
+* Pression au niveau de la mer</br>
+
+##### &emsp;<span class="badge badge-info">SRPEOT</span>
+###### &emsp;[Documentation des données SRPEOT](../msc-data/nwp_resps/readme_resps.md)
+* Onde de tempête  - Atlantique nord-ouest (membre de contrôle)
+* Onde de tempête  - Atlantique nord-ouest (1)
+* Onde de tempête  - Atlantique nord-ouest (2)
+* Onde de tempête  - Atlantique nord-ouest (3)
+* Onde de tempête  - Atlantique nord-ouest (4)
+* Onde de tempête  - Atlantique nord-ouest (5)
+* Onde de tempête  - Atlantique nord-ouest (6)</br>
+
+##### &emsp;<span class="badge badge-info">Radar</span>
+###### &emsp;[Documentation des données radar](../msc-data/obs_radar/readme_radar.md)
+* Taux de précipitation radar extrapolé pour la pluie (expérimental)
+* Taux de précipitation radar pour la pluie
+* Couverture radar dynamique pour le type de précipitation à la surface (expérimental)</br>
+
+##### &emsp;<span class="badge badge-info">SRPD - champs convectifs</span>
+###### &emsp;[Documentation des données SRPD](../msc-data/nwp_rdps/readme_rdps.md)
+* EPCD pour une parcelle de la surface
+* Indice du potentiel d'orages total</br>
+
+##### &emsp;<span class="badge badge-info">Autres</span>
+
+* [Alertes météo](../msc-data/alerts/readme_alerts.md)
+* [Densité de foudre sur le Canada (2.5 km)](../msc-data/lightning/readme_lightning.md)
+* [MetNotes](../msc-data/metnotes/readme_metnotes.md)
+* [Conditions actuelles](../msc-data/citypage-weather/readme_citypageweather.md)
+* [SRPDV - Hauteur significative des vagues de la mer du vent](../msc-data/nwp_rdwps/readme_rdwps.md)
+* [SGPDOT - Onde de tempête](../msc-data/nwp_gdsps/readme_gdsps.md)
+* [ARDP - Quantité de précipitations sur un intervalle de 24 heures (préliminaire)](../msc-data/nwp_rdpa/readme_rdpa.md)
+
+
+<style>
+  #legend-img {
+    margin: 0px;
+  }
+  #legend-popup {
+    position: absolute;
+    top: 8px;
+    right: 40px;
+    z-index: 2
+  }
+  .legend-switch{
+    top: 8px;
+    right: .5em;
+  }
+  .ol-touch .legend-switch {
+    top: 80px;
+  }
+  #switch-content {
+  background-color: white;
+  border-radius: 6px;
+  padding: 7px;
+}
+label {
+  font-size: 14px;
+  margin-bottom: 0px;
+}
+input[type="checkbox"] {
+    width: 14px;
+    height: 14px;
+  }
+</style>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v7.3.0/ol.css" type="text/css"/>
+<link rel="stylesheet" href="../../css/weather-icons-master/css/weather-icons.min.css">
+<script src="https://cdn.jsdelivr.net/npm/ol@v7.3.0/dist/ol.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.3/FileSaver.min.js"></script>
+<script>
+    function isIE() {
+      return window.navigator.userAgent.match(/(MSIE|Trident)/);
+    }
+    var head = document.getElementsByTagName('head')[0];
+    var js = document.createElement("script");
+    js.type = "text/javascript";
+    if (isIE())
+    {
+        js.src = "../../js/hurricane_theme_ie.js";
+        document.getElementById("controller").setAttribute("hidden", true);
+    }
+    else
+    {
+        js.src = "../../js/hurricane_theme.js";
+    }
+    head.appendChild(js);
+</script>

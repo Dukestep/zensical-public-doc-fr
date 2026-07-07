@@ -1,0 +1,55 @@
+![ECCC logo](../../img_eccc-logo.png)
+
+# Chronologie des changements apportés au Système canadien de prévision de l'Arctique (SCPA)
+
+## Le mardi 14 avril 2026
+
+### Mise à jour du SCPA à la version 3.1.0 suite à la nouvelle infrastructure de calcul haute performance.
+
+Voir les détails via [ce lien](../changelog_multisystems.md).
+
+## Le mercredi 18 juin 2025
+
+### Fin de service du SHRPD-Nord, à nouveau remplacé par le Système canadien de prévision de l'Arctique (SCPA)
+
+Le mercredi 18 juin 2025, après 3.5 années, le système non-couplé de SHRPD-Nord réintroduit le couplage bidirectionnel avec un modèle régional océan-glace et reprend le nom de « Système Canadien de prévision de l'Arctique ». Certains produits du SHRPD-Nord continueront d'être alimentés par le SCPA jusqu’à l’automne (la date précise à déterminer).
+
+La note officielle est disponible [via ce lien](https://dd.meteo.gc.ca/doc/genots/2025/06/18/NOCN03_CWAO_181500___38690).
+
+Le document des spécifications techniques du SCPA v3.0.0 est disponible [via ce lien](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_specifications/tech_specifications_CAPS_3.0.0_f.pdf).
+
+## Le mercredi 1er décembre 2021
+
+### Fin de service du SCPA, remplacé par le SHRPD Nord. 
+
+Après près de 4 années de prévisions couplées haute résolution sur l'Arctique, le SCPA sera mis hors service le mardi 1er décembre 2021.  Certains produits du SCPA seront générés par le SHRPD Nord.
+
+La note officielle est disponible [via ce lien](https://dd.meteo.gc.ca/doc/genots/2021/11/26/NOCN03_CWAO_262118___50159).
+
+## Le mardi 21 janvier 2020
+
+### Mise à jour du SCPA à la version 2.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
+
+Voir les détails via [ce lien](../changelog_multisystems.md).
+
+## Le jeudi 28 juin 2018
+
+### Mise à jour majeure du Système de prévision de l'Arctique SCPA version 1.1.0 (mode expérimental) du Centre météorologique canadien (CMC)
+
+Le jeudi 28 juin 2018, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour majeure de son système de prévision de l'Arctique SCPA (mode expérimental).
+
+Résumé des éléments majeurs que comporte cette mise à jour :
+
+* __Couplage bi-directionnel avec un modèle océan-glace__. Avec le nouveau SCPA 1.1.0, les conditions de surface marine évolue dans le temps du au couplace avec un modèle océan-glace. Ce modèle océan-glace est aussi utilisé dans le [SRPOG](/../nwp_riops/changelog_riops.md).
+
+Une courte documentation technique sur ce système (en anglais) est disponible [via ce lien](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_specifications/CAPS-100_factsheet.pdf). (Version française à venir)
+
+## Le mercredi 24 janvier 2018
+
+### Implantation expérimentale du système canadien de prévision de l'Arctique au Centre météorologique canadien (CMC)
+
+En date du 24 janvier 2018, le Centre météorologique canadien (CMC) du Service météorologique du Canada implante le nouveau système canadien de prévision de l'Arctique (SCPA) en mode expérimental. Dans le cadre de cette installation, le système experimental SHRPD-Nord sera retiré. Tous les produits qui faisaient partie du SHRPD-Nord seront dorénavant générés par SCPA.
+
+La note officielle annonçant ce changement est disponible [via ce lien](https://dd.meteo.gc.ca/doc/genots/2018/01/24/NOCN03_CWAO_241435___00012).
+
+Une courte documentation technique sur ce système (en anglais) est disponible [via ce lien](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_specifications/CAPS-100_factsheet.pdf). (Version française à venir)
