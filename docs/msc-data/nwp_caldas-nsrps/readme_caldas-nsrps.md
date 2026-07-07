@@ -15,9 +15,9 @@ Le système SCanADS-SNPSR a été installé dans le Système national de prévis
 
 ### Comment accéder aux données
 
-Ces données sont respectivement disponibles via les services web [GeoMet du SMC](https://eccc-msc.github.io/open-data/msc-geomet/readme_fr/) et sur le serveur [Datamart du SMC](../../msc-datamart/index.md) :
+Ces données sont respectivement disponibles via les services web [GeoMet du SMC](../../msc-geomet/index.md) et sur le serveur [Datamart du SMC](../../msc-datamart/index.md) :
 
-* [Données disponibles via les services web géospatiaux GeoMet-Météo](https://eccc-msc.github.io/open-data/msc-geomet/readme_fr/)
+* [Données disponibles via les services web géospatiaux GeoMet-Météo](../../msc-geomet/index.md)
 * [Données NetCDF disponibles sur le Datamart du SMC](readme_caldas-nsrps-datamart.md)   
 
 Un [survol et exemples pour accéder et utiliser les données ouvertes du Service météorologique du Canada](../../usage/index.md) est disponible.

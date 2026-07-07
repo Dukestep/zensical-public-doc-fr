@@ -112,7 +112,7 @@ Finalement, nous vous recommandons fortement de vous inscrire à nos listes de d
 
 Il arrive parfois que les données de modèle de prévision numérique du temps soient en retard ou même absentes de nos services de dissémination de données. Afin de savoir si ce délai ou cette absence est dû à un problème de production, vous pouvez consulter les bulletins AACN01 CWAO. Ces derniers sont des bulletins émis par le Centre de prévision météorologique et environnementale du Canada (CPMEC) pour informer les bureaux du SMC et d'autres clients de tout problème pouvant perturber ou retarder l'émission et/ou la distribution des produits opérationnels.
 
-Pour consulter les derniers bulletins AACN01 CWAO, vous pouvez faire une requête via nos services web [GeoMet-OGC-API du SMC](https://eccc-msc.github.io/open-data/msc-geomet/readme_fr/#services)
+Pour consulter les derniers bulletins AACN01 CWAO, vous pouvez faire une requête via nos services web [GeoMet-OGC-API du SMC](../msc-geomet/index.md#services)
 
 Voici un exemple de requête pour obtenir tous les bulletins AACN01 émis pour une date donnée (à ajuster selon la date recherchée):
 

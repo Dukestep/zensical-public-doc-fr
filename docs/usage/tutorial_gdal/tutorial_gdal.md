@@ -1,10 +1,10 @@
-![ECCC logo](https://eccc-msc.github.io/open-data/img_eccc-logo.png)  
+![ECCC logo](../../img_eccc-logo.png)  
 
 # Tutoriel GDAL en ligne de commande avec des données météorologiques
 
 ## Introduction
 
-Les données de [GeoMet du SMC](https://eccc-msc.github.io/open-data/msc-geomet/readme_fr/) et du [Datamart du SMC](https://eccc-msc.github.io/open-data/msc-datamart/readme_fr/) peuvent être manipulées via la ligne de commande utilisant [GDAL](https://gdal.org/), un bibliothèque logicielle très connue utilisée pour lire et écrire des données géospatiales matricielles et vectorielles. Dans les exemples qui suivent, vous utiliserez un fichier GeoTIFF récupéré via une requête _Web Coverage Service_ (WCS) sur GeoMet du SMC. Ce tutoriel vous montrera comment:
+Les données de [GeoMet du SMC](../../msc-geomet/index.md) et du [Datamart du SMC](../../msc-datamart/index.md) peuvent être manipulées via la ligne de commande utilisant [GDAL](https://gdal.org/), un bibliothèque logicielle très connue utilisée pour lire et écrire des données géospatiales matricielles et vectorielles. Dans les exemples qui suivent, vous utiliserez un fichier GeoTIFF récupéré via une requête _Web Coverage Service_ (WCS) sur GeoMet du SMC. Ce tutoriel vous montrera comment:
 * Afficher la version de GDAL installée sur votre système
 * Enregistrer la sortie d'une requête WCS sur votre ordinateur
 * Lister les informations/metadonnées reliées au fichier matriciel
@@ -36,7 +36,7 @@ gdalinfo --version
 
 ## Sauvegarder une sortie de requête WCS sur le disque
 
-Les requêtes de l'_OGC Web Coverage Service_ permettent au client de récupérer les informations de couverture d'un fichier matriciel pour une zone d'intérêt donnée. Les requêtes WCS sont effectuées sur Internet (HTTPS) et donnent à l'utilisateur plus de flexibilité lorsqu'il demande des informations sur la couverture d'une couche par rapport à la méthode plus traditionnelle de télécharger des fichiers statiques. Le _Web Coverage Service_ permet de nombreux types de requêtes, chacune d'entre elle étant décrite en plus ample détails ci-dessous. Pour plus d'informations sur les paramètres des requêtes WCS, veuillez vous référer à la [page _WCS GetCoverage_ de GeoMet du SMC](https://eccc-msc.github.io/open-data/msc-geomet/wcs_fr/#wcs-getcoverage).
+Les requêtes de l'_OGC Web Coverage Service_ permettent au client de récupérer les informations de couverture d'un fichier matriciel pour une zone d'intérêt donnée. Les requêtes WCS sont effectuées sur Internet (HTTPS) et donnent à l'utilisateur plus de flexibilité lorsqu'il demande des informations sur la couverture d'une couche par rapport à la méthode plus traditionnelle de télécharger des fichiers statiques. Le _Web Coverage Service_ permet de nombreux types de requêtes, chacune d'entre elle étant décrite en plus ample détails ci-dessous. Pour plus d'informations sur les paramètres des requêtes WCS, veuillez vous référer à la [page _WCS GetCoverage_ de GeoMet du SMC](../../msc-geomet/wcs.md#wcs-getcoverage).
 
 Nous allons utiliser une commande `curl` pour enregistrer le résultat de la requête WCS sur le disque, le fichier sera nommé `CMC_glb_TMP.tif`. Le résultat est un fichier GeoTIFF, montrant la température (°C) d'un sous-ensemble du Système Global de Prévision Déterministe (SGPD) du SMC.
 

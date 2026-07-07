@@ -16,7 +16,7 @@ L'indice de risque de submersion côtière au format GeoJSON est un produit poly
 
 Ces données sont respectivement disponibles via l'API / les services web [GeoMet du SMC](../../msc-geomet/index.md) et le serveur de données [Datamart du SMC](../../msc-datamart/index.md) :
 
-* [Données d'indice de risque de submersion côtière disponibles via les services web géospatiaux GeoMet-Météo](https://eccc-msc.github.io/open-data/msc-geomet/readme_fr/)
+* [Données d'indice de risque de submersion côtière disponibles via les services web géospatiaux GeoMet-Météo](../../msc-geomet/index.md)
 * [Données d'indice de risque de submersion côtière en format GeoJSON disponibles sur le Datamart du SMC](readme_coastal-flooding-risk-index-datamart.md)
 
 Un [survol et exemples pour accéder et utiliser les données ouvertes du Service météorologique du Canada](../../usage/index.md) est disponible. 

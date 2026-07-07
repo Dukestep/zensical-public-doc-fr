@@ -1,14 +1,14 @@
 [In English](../use-case_arthur_en/)  
 
-![ECCC logo](https://eccc-msc.github.io/open-data/img_eccc-logo.png)  
+![ECCC logo](../../img_eccc-logo.png)  
 
-[TdM](https://eccc-msc.github.io/open-data/readme_fr/) > [Aperçu de l'utilisation](https://eccc-msc.github.io/open-data/usage/readme_fr/) > Requêtes WMS en Python
+[TdM](../../index.md) > [Aperçu de l'utilisation](../index.md) > Requêtes WMS en Python
 
 # Cas d'utilisation : profits anticipés selon la probabilité de précipitations
 
 ## Introduction
 
-Les données météorologiques, climatiques et hydrométriques des services web géospatiaux [GeoMet du SMC](https://eccc-msc.github.io/open-data/msc-geomet/readme_fr/) peuvent aisément être utilisées pour prévoir la demande associée à certains produits ou services. Cet exemple de cas d'utilisation démontre comment extraire et traiter les données météorologiques brutes à l'aide du langage de programmation [Python](https://www.python.org/) afin de créer un outil qui permet de calculer les profits anticipés de la vente d'un produit dont la demande est affectée par les conditions météorologiques. Il permet d'apprendre comment :
+Les données météorologiques, climatiques et hydrométriques des services web géospatiaux [GeoMet du SMC](../../msc-geomet/index.md) peuvent aisément être utilisées pour prévoir la demande associée à certains produits ou services. Cet exemple de cas d'utilisation démontre comment extraire et traiter les données météorologiques brutes à l'aide du langage de programmation [Python](https://www.python.org/) afin de créer un outil qui permet de calculer les profits anticipés de la vente d'un produit dont la demande est affectée par les conditions météorologiques. Il permet d'apprendre comment :
 * Accéder aux données météorologiques de GeoMet du SMC et les interroger;
 * Effectuer des requêtes pour obtenir les données d'une couche spécifique à un lieu précis; 
 * Effectuer des requêtes temporelles;
@@ -23,7 +23,7 @@ La [version interactive du code source de ce Jupyter Notebook est disponible](ht
 
 Prenons la situation suivante : un propriétaire de kiosque de souvenirs à Vancouver souhaite calculer les profits qu'il anticipe faire grâce à la vente de parapluies à l'aide des prévisions météorologiques d'Environnement et Changement climatique Canada. En effet, ses ventes de parapluies augmentent drastiquement les jours où la probabilité qu'il y ait un minimum de 5 mm de précipitations est de 30% et plus. Considérant que le kiosque est ouvert de 9:00 le matin à 9:00 le soir, celui-ci souhaite calculer les profits qu'il prévoit faire dans les prochains jours selon les prévisions météorologiques obtenues avec les services web géospatiaux GeoMet du SMC.
 
-Afin de déterminer le nombre de parapluies qui devraient être vendus, la première étape est d'effectuer une requête avec le [standard Web Map Service (WMS)](https://eccc-msc.github.io/open-data/msc-geomet/web-services_fr/#web-map-service-wms) du SMC afin d'obtenir la probabilité qu'il y ait 5 mm ou plus de précipitations pour l'heure, la date et le lieu désiré à l'aide du langage de programmation Python. Pour réaliser cette étape, il faut tout d'abord importer les modules Python nécessaires et déterminer les paramètres de la requête comme la couche de données désirée, le lieu et le fuseau horaire local. La couche qui sera utilisée est celle du [Système régional de prévision d'ensemble (SRPE)](https://eccc-msc.github.io/open-data/msc-data/nwp_reps/readme_reps_fr/) qui contient la probabilité en pourcentage que la quantité de précipitations soit égale ou supérieure à 5 mm (``REPS.DIAG.3_PRMM.ERGE5``).
+Afin de déterminer le nombre de parapluies qui devraient être vendus, la première étape est d'effectuer une requête avec le [standard Web Map Service (WMS)](../../msc-geomet/wms.md) du SMC afin d'obtenir la probabilité qu'il y ait 5 mm ou plus de précipitations pour l'heure, la date et le lieu désiré à l'aide du langage de programmation Python. Pour réaliser cette étape, il faut tout d'abord importer les modules Python nécessaires et déterminer les paramètres de la requête comme la couche de données désirée, le lieu et le fuseau horaire local. La couche qui sera utilisée est celle du [Système régional de prévision d'ensemble (SRPE)](../../msc-data/nwp_reps/readme_reps.md) qui contient la probabilité en pourcentage que la quantité de précipitations soit égale ou supérieure à 5 mm (``REPS.DIAG.3_PRMM.ERGE5``).
 
 
 ```python

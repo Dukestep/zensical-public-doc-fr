@@ -383,7 +383,7 @@ CQL2: ?filter=properties.STATION_NAME LIKE '%t'
 </br>
 
 
-**2.6)** Recherche de bulletins météorologiques par identifiant. Il n'est pas possible d'effectuer une recherche manuelle par `id` sur l'interface. Les utilisateurs peuvent utiliser des filtres CQL2 et s'appuyer sur la documentation de la [nomenclature des noms de fichiers des bulletins](https://eccc-msc.github.io/open-data/msc-data/bulletins/readme_bulletins-datamart_fr/#nomenclature-des-repertoires-et-noms-de-fichiers).</br>
+**2.6)** Recherche de bulletins météorologiques par identifiant. Il n'est pas possible d'effectuer une recherche manuelle par `id` sur l'interface. Les utilisateurs peuvent utiliser des filtres CQL2 et s'appuyer sur la documentation de la [nomenclature des noms de fichiers des bulletins](../msc-data/bulletins/readme_bulletins-datamart.md#nomenclature-des-repertoires-et-noms-de-fichiers).</br>
 ```
 CQL2 : ?filter=properties.identifier LIKE '%WWCN70%'
 ```

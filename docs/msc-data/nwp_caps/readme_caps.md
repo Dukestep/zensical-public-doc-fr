@@ -17,7 +17,7 @@ Le Système canadien de prévision de l'Arctique (SCPA) est un système de prév
 
 Ces données expérimentales sont respectivement disponibles via l'API / les services web [GeoMet du SMC](../../msc-geomet/index.md) et le serveur de données [Datamart du SMC](../../msc-datamart/index.md) :
 
-* [Données disponibles via les services web géospatiaux GeoMet-Météo](https://eccc-msc.github.io/open-data/msc-geomet/readme_fr/)
+* [Données disponibles via les services web géospatiaux GeoMet-Météo](../../msc-geomet/index.md)
 * [Données GRIB2 et NetCDF disponibles sur le Datamart du SMC](readme_caps-datamart.md)
 * [Données GRIB2 d'éléments du temps sur grille disponibles sur DD-Alpha, le site Web d'essai de données du Datamart du SMC](readme_caps-weong-datamart.md)
 

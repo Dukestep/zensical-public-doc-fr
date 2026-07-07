@@ -16,7 +16,7 @@ Le Système de simulation hydrodynamique opérationnelle (SHOP) est un système 
 
 Ces données sont disponibles sur les services du serveur de données [Datamart du SMC](../../msc-datamart/index.md):
 
-* [Données disponibles via les services web géospatiaux GeoMet-Météo](https://eccc-msc.github.io/open-data/msc-geomet/readme_fr/)
+* [Données disponibles via les services web géospatiaux GeoMet-Météo](../../msc-geomet/index.md)
 * [Données NetCDF disponibles sur le Datamart du SMC](readme_ohps-datamart.md) 
 
 Un [survol et exemples pour accéder et utiliser les données ouvertes du Service météorologique du Canada](../../usage/index.md) est disponible.

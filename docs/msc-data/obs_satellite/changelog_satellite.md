@@ -10,4 +10,4 @@ Le lundi 7 avril 2025, le Centre météorologique canadien (CMC) du Service mét
 
 Annonce officielle: https://www.noaa.gov/news-release/noaas-goes-19-satellite-now-operational-providing-critical-new-data-to-forecasters
 
-Les [images](https://meteo.gc.ca/satellite/index_f.html) sont désormais disponibles sur le site web de ECCC et les données sont utilisées dans la chaine opérationnelle. Les [données ouvertes](https://eccc-msc.github.io/open-data/msc-data/obs_satellite/readme_satellite_fr/) bénéficient également de cette migration. 
+Les [images](https://meteo.gc.ca/satellite/index_f.html) sont désormais disponibles sur le site web de ECCC et les données sont utilisées dans la chaine opérationnelle. Les [données ouvertes](readme_satellite.md) bénéficient également de cette migration. 

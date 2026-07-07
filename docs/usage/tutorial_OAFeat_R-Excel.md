@@ -2,7 +2,7 @@
 
 # Tutoriel: faire une requête à l'aide de OGC API - Features en utilisant les langages de programmation R et VBA
 
-Les services web [OGC API - Features](https://eccc-msc.github.io/open-data/msc-geomet/ogc_api_en/#ogc-api-features) disponibles dans GeoMet-OGC-API offrent la possibilité d'envoyer une requête pour obtenir les données géospatiales vectorielles et de les récupérer aux formats CSV et GeoJSON. Le fichier de sortie peut ensuite être utilisé pour l'affichage ou le traitement ultérieur des données. Ce tutoriel vous montrera comment vous pouvez :
+Les services web [OGC API - Features](../msc-geomet/ogc_api.md#ogc-api-features) disponibles dans GeoMet-OGC-API offrent la possibilité d'envoyer une requête pour obtenir les données géospatiales vectorielles et de les récupérer aux formats CSV et GeoJSON. Le fichier de sortie peut ensuite être utilisé pour l'affichage ou le traitement ultérieur des données. Ce tutoriel vous montrera comment vous pouvez :
 
 * Interroger et récupérer des données géospatiales vectorielles à partir de GeoMet-OGC-API avec [R](https://www.r-project.org/) et Excel [VBA](https://learn.microsoft.com/fr-fr/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
 * Charger les données dans l'éditeur de code [R](https://www.r-project.org/) et afficher des données de séries temporelles avec un graphique simple

@@ -31,7 +31,7 @@ Le mercredi 1er décembre 2021, à compter de la passe de 1200 UTC, le Centre m�
 
 Résumé des éléments que comporte cette mise à jour:
 
-* Les analyses météorologiques et le modèle pilote proviennent maintenant du [SRPD v8.0.0](https://eccc-msc.github.io/open-data/msc-data/nwp_rdps/changelog_rdps_en/) plutôt que du SRPD v7.1.0.
+* Les analyses météorologiques et le modèle pilote proviennent maintenant du [SRPD v8.0.0](../nwp_rdps/changelog_rdps.md) plutôt que du SRPD v7.1.0.
 * Nouveaux inventaires d'émission anthropogéniques:
     * Canada:  De la version 2013 de l'inventaire des émission de polluants atmosprériques (IEPA) à la version projetée 2020.
     * U.S.:    de la version 2017 de l'inventaire national des émissions à la version projetée 2023.
