@@ -67,7 +67,7 @@ En date du mercredi 3 juillet 2019, le Centre météorologique canadien (CMC) va
 
 Les modifications au SRPEOT v1.2.0 comparativement au précédent système opérationnel sont résumées comme suit:
 
-* Le [SGPE v6.0.0](/../nwp_geps/changelog_geps.md) remplace le SGPE v5.0.0 comme modèle pilote.
+* Le [SGPE v6.0.0](../nwp_geps/changelog_geps.md) remplace le SGPE v5.0.0 comme modèle pilote.
 
 Pour plus d'informations, veuillez consulter le document des spécifications techniques pour le SRPEOT 1.2.0 qui est disponible [via ce lien](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_specifications/tech_specifications_RESPS_1.2.0_f.pdf).
 

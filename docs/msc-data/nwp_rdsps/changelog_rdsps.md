@@ -50,7 +50,7 @@ En date du mercredi 3 juillet 2019, le Centre météorologique canadien (CMC) va
 
 Les modifications au SRPDOT v1.6.0 comparativement au précédent système opérationnel sont résumées comme suit :
 
-* Le [SGPD v7.0.0](/../nwp_gdps/changelog_gdps.md) remplace le SGPD v6.0.0 comme modèle pilote.
+* Le [SGPD v7.0.0](../nwp_gdps/changelog_gdps.md) remplace le SGPD v6.0.0 comme modèle pilote.
 
 Pour plus d'informations, veuillez consulter le document des spécifications techniques pour le SRPDOT 1.6.0 qui est disponible [via ce lien](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_specifications/tech_specifications_RDSPS_1.6.0_f.pdf).
 

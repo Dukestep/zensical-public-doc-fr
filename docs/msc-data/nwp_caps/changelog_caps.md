@@ -40,7 +40,7 @@ Le jeudi 28 juin 2018, à compter de la passe de 1200 UTC, le Centre météorolo
 
 Résumé des éléments majeurs que comporte cette mise à jour :
 
-* __Couplage bi-directionnel avec un modèle océan-glace__. Avec le nouveau SCPA 1.1.0, les conditions de surface marine évolue dans le temps du au couplace avec un modèle océan-glace. Ce modèle océan-glace est aussi utilisé dans le [SRPOG](/../nwp_riops/changelog_riops.md).
+* __Couplage bi-directionnel avec un modèle océan-glace__. Avec le nouveau SCPA 1.1.0, les conditions de surface marine évolue dans le temps du au couplace avec un modèle océan-glace. Ce modèle océan-glace est aussi utilisé dans le [SRPOG](../nwp_riops/changelog_riops.md).
 
 Une courte documentation technique sur ce système (en anglais) est disponible [via ce lien](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_specifications/CAPS-100_factsheet.pdf). (Version française à venir)
 

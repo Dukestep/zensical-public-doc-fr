@@ -103,7 +103,7 @@ Le mardi 18 septembre 2018, à compter de la passe de 1200 UTC, le Centre mété
 
 Résumé des éléments que comporte cette mise à jour :
 
-* Les analyses météorologiques et le modèle pilote proviennent maintenant du [SRPD v6.0.0](/../nwp_rdps/changelog_rdps.md#le-mardi-18-septembre-2018) plutôt que du SRPD v5.1.0.
+* Les analyses météorologiques et le modèle pilote proviennent maintenant du [SRPD v6.0.0](../nwp_rdps/changelog_rdps.md#le-mardi-18-septembre-2018) plutôt que du SRPD v5.1.0.
 * Adoption de la configuration SRPD v6.0.0, comprenant le recyclage des principales variables physiques et l'approche incrémentale 4D de mise à jour de l'analyse (IAU:Incremental Analysis Update).
 * L'implementation de la nouvelle version du code du modèle (v2.3.1), pour améliorer la vitesse de traitement et augmenter la robustesse, ainsi que l'amélioration de la chimie (dépôt sec en phase gazeuse sur les surfaces enneigées et la glace marine).
 * Introduction d’un nouvel ensemble d'émissions basé sur des inventaires nationaux d’émissions plus récents.
@@ -143,7 +143,7 @@ La note officielle annonçant ce changement est disponible [en cliquant ici](htt
 
 Le mercredi 7 septembre 2016, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour le système de prévision FireWork. FireWork est un système de prévision saisonnier qui est basé sur le système régional de prévision déterministe de la qualité de l'air (SRPDQA) qui incorpore des émissions provenant des feux de forêts en Amérique du Nord. Il est en fonction durant la saison des feux de forêts en Amérique du Nord, qui se termine normalement à la fin du mois d'octobre.
 
-Les changements inclus dans cette mise en œuvre sont équivalent à ceux décrit pour le [SRPDQA016](/../nwp_raqdps/changelog_raqdps.md).
+Les changements inclus dans cette mise en œuvre sont équivalent à ceux décrit pour le [SRPDQA016](../nwp_raqdps/changelog_raqdps.md).
 
 La note officielle annonçant ce changement est disponible [en cliquant ici](https://dd.meteo.gc.ca/doc/genots/2016/04/13/NOCN03_CWAO_131900___00844).
 

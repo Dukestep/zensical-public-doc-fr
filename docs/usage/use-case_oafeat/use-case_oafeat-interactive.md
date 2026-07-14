@@ -285,9 +285,9 @@ def choose_station(station):
 graph = interact(choose_station, station=stations)
 ```
 
-
-    interactive(children=(Dropdown(description='station', options=('08GA010', '08GA030', '08GA077', '08GA079', '08…
-
+```text
+interactive(children=(Dropdown(description='station', options=('08GA010', '08GA030', '08GA077', '08GA079', '08…
+```
 
 Un widget de menu déroulant similaire peut également être utilisé pour sélectionner la station hydrométrique à afficher dans le tableau interactif.
 
@@ -323,9 +323,9 @@ def choose_station_table(station):
 table = interact(choose_station_table, station=stations)
 ```
 
-
-    interactive(children=(Dropdown(description='station', options=('08GA010', '08GA030', '08GA077', '08GA079', '08…
-
+```text
+interactive(children=(Dropdown(description='station', options=('08GA010', '08GA030', '08GA077', '08GA079', '08…
+```
 
 Finalement, une carte interactive peut être créée avec [ipyleaflet](https://ipyleaflet.readthedocs.io/) pour afficher l'ensemble des stations hydrométriques situées dans un rayon de 100 km de Chilliwack ainsi que leur dernière moyenne journalière disponible pour la période de trois mois sélectionnée.
 
@@ -392,12 +392,13 @@ for station in stations:
 display(m)
 ```
 
+```text
+HTML(value="<h4>Moyenne journalière du niveau d'eau la plus récente pour la période se terminant le 2018-08-31…
+```
 
-    HTML(value="<h4>Moyenne journalière du niveau d'eau la plus récente pour la période se terminant le 2018-08-31…
-
-
-
-    Map(center=[49.34332084655762, -121.958943], controls=(ZoomControl(options=['position', 'zoom_in_text', 'zoom_…
+```text
+Map(center=[49.34332084655762, -121.958943], controls=(ZoomControl(options=['position', 'zoom_in_text', 'zoom_…
+```
 
 
 ## Conclusion

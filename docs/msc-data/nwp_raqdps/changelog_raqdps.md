@@ -79,7 +79,7 @@ Le mercredi 3 juillet 2019, à compter de la passe de 1200 UTC, le Centre mété
 
 Résumé des éléments que comporte cette mise à jour :
 
-* Les analyses météorologiques et le modèle pilote proviennent maintenant du [SRPD v7.0.0](/../nwp_rdps/changelog_rdps.md#le-mercredi-3-juillet-2019) plutôt que du SRPD v6.0.0.
+* Les analyses météorologiques et le modèle pilote proviennent maintenant du [SRPD v7.0.0](../nwp_rdps/changelog_rdps.md#le-mercredi-3-juillet-2019) plutôt que du SRPD v6.0.0.
 * Mise à jour de GEM de la version v4.8-LTS.16 à la version GEM v5.0.0. Pour plus d'informations sur GEM-5, veuillez consulter ce [document (en anglais)](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_notes/GEM5_paper_submitted_JAMES_20190614.pdf).
 * Amélioration dans le calcul de la chimie du modèle.
 
@@ -94,7 +94,7 @@ Une note technique pour SRPDQA avec plus de détails sur ces changements est dis
 Le mardi 18 septembre 2018, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour le système régional de prévision déterministe de la qualité de l'air (SRPDQA) et le système complémentaire FireWork en remplaçant la version 019 par la version 020.
 
 Résumé des éléments que comporte cette mise à jour :
-* Les analyses météorologiques et le modèle pilote proviennent maintenant du [SRPD v6.0.0](/../nwp_rdps/changelog_rdps.md#le-mardi-18-septembre-2018) plutôt que du SRPD v5.1.0.
+* Les analyses météorologiques et le modèle pilote proviennent maintenant du [SRPD v6.0.0](../nwp_rdps/changelog_rdps.md#le-mardi-18-septembre-2018) plutôt que du SRPD v5.1.0.
 * Adoption de la configuration SRPD v6.0.0, comprenant le recyclage des principales variables physiques et l'approche incrémentale 4D de mise à jour de l'analyse (IAU:Incremental Analysis Update).
 * L'implementation de la nouvelle version du code du modèle (v2.3.1), pour améliorer la vitesse de traitement et augmenter la robustesse, ainsi que l'amélioration de la chimie (dépôt sec en phase gazeuse sur les surfaces enneigées et la glace marine).
 * Introduction d’un nouvel ensemble d'émissions basé sur des inventaires nationaux d’émissions plus récents.
@@ -115,7 +115,7 @@ Résumé des éléments majeurs que comporte cette mise à jour :
 
 * Les analyses météorologiques et le modèle pilote sont dorénavant liés au SRPD 5.0.0 plutôt qu'au SRPD 4.2.0.
 
-* La grille a été tournée pour correspondre à la nouvelle grille du SRPD 5.0.0 (voir la [description du SRPD 5.0.0¸](/../nwp_rdps/changelog_rdps.md#le-mercredi-7-septembre-2016)).
+* La grille a été tournée pour correspondre à la nouvelle grille du SRPD 5.0.0 (voir la [description du SRPD 5.0.0¸](../nwp_rdps/changelog_rdps.md#le-mercredi-7-septembre-2016)).
 
 * Un changement important à été fait dans l'utilisation du paramètre de Monin-Obukov.
 
@@ -199,7 +199,7 @@ Une copie de la note officielle annoncant ce changement est disponible [via ce l
 
 Une note technique à incluant des détails sur la version 1.5.0 et la version 1.5.1 est disponible [en cliquant ici](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/lib/op_systems/doc_opchanges/technote_raqdps_20121003_f.pdf).
 
-Finalement, notez que cette mise à jour du SRPDQA est nécessaire à cause des changements majeurs qu'on apporte au système régional de prévision déterministe (SRPD) qui fournit les conditions initiales au SRPDQA. Des informations sur les changements au SRPD sont disponibles via ce lien [en cliquant ici](/../nwp_rdps/changelog_rdps.md).
+Finalement, notez que cette mise à jour du SRPDQA est nécessaire à cause des changements majeurs qu'on apporte au système régional de prévision déterministe (SRPD) qui fournit les conditions initiales au SRPDQA. Des informations sur les changements au SRPD sont disponibles via ce lien [en cliquant ici](../nwp_rdps/changelog_rdps.md).
 
 ## Le jeudi 22 décembre 2011
 
