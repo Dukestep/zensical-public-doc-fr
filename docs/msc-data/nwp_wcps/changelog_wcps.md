@@ -4,14 +4,12 @@
 
 ## Le mardi 14 avril 2026
 
-### Mise à jour du SPCE à la version 3.4.0 suite à la nouvelle infrastructure de calcul haute performance.
-
+#### Mise à jour du SPCE à la version 3.4.0 suite à la nouvelle infrastructure de calcul haute performance.
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour du Système de prévision du cycle de l'eau (SPCE) 3.3.0 du Centre météorologique canadien
-
+#### Mise à jour du Système de prévision du cycle de l'eau (SPCE) 3.3.0 du Centre météorologique canadien
 Le mardi 11 juin 2024, à compter de la passe 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise à jour du Système de prévision du cycle de l'eau (SPCE) vers la version 3.3.0.
 
 Principaux changements :
@@ -31,16 +29,14 @@ Un document avec des détails techniques à ce sujet [est disponible via ce lien
 Le document des spécifications techniques du SCPE 3.3.0 [est disponible ici](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_specifications/tech_specifications_WCPS_3.3.0_f.pdf).
 
 
-# Le mardi 28 juin 2022
+## Le mardi 28 juin 2022
 
-### Mise à jour du SPCE à la version 3.2.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour du SPCE à la version 3.2.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le jeudi 24 février 2022
 
-### Mise à jour du Système de prévision du cycle de l'eau (SPCE) 3.1.0 du Centre météorologique canadien
-
+#### Mise à jour du Système de prévision du cycle de l'eau (SPCE) 3.1.0 du Centre météorologique canadien
 En date du jeudi 24 février 2021, le Centre météorologique canadien (CMC) va procéder à la mise à jour du Système de prévision du cycle de l'eau (SPCE) vers la version 3.1.0.
 
 Les modifications au SPCE v3.1.0 comparativement au précédent système opérationnel sont résumées comme suit:
@@ -59,8 +55,7 @@ Une note technique avec plus de détails sur ces changements est disponible [sur
 
 ## Le mercredi 1er décembre 2021
 
-### Mise à jour du Système de prévision du cycle de l'eau (SPCE) 3.0.0 du Centre météorologique canadien
-
+#### Mise à jour du Système de prévision du cycle de l'eau (SPCE) 3.0.0 du Centre météorologique canadien
 En date du mercredi 1er décembre 2021, le Centre météorologique canadien (CMC) va procéder à la mise à jour du Système de prévision du cycle de l'eau (SPCE) vers la version 3.0.0.
 
 Les modifications au SPCE v3.0.0 comparativement au précédent système opérationnel sont résumées comme suit:
@@ -86,14 +81,12 @@ Une note technique avec plus de détails sur ces changements est disponible [sur
 
 ## Le mardi 21 janvier 2020
 
-### Mise à jours du SPCE à la version 2.2.1 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jours du SPCE à la version 2.2.1 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 3 juillet 2019
 
-### Mise à jour du Système de prévision du cycle de l'eau (SPCE) 2.1.0 du Centre météorologique canadien
-
+#### Mise à jour du Système de prévision du cycle de l'eau (SPCE) 2.1.0 du Centre météorologique canadien
 En date du mercredi 3 juillet 2019, le Centre météorologique canadien (CMC) va procéder à la mise à jour du Système de prévision du cycle de l'eau (SPCE) vers la version 2.1.0.
 
 Les modifications au SPCE v2.1.0 comparativement au précédent système opérationnel sont résumées comme suit:
@@ -106,8 +99,7 @@ Une note technique avec plus de détails sur ces changements est disponible [sur
 
 ## Le lundi 4 mars 2019
 
-### Nouveau Système de prévision du cycle de l’eau (SPCE) déclaré opérationnel au Centre météorologique canadien (CMC)
-
+#### Nouveau Système de prévision du cycle de l’eau (SPCE) déclaré opérationnel au Centre météorologique canadien (CMC)
 Le lundi 4 mars 2019, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) déclare opérationnel le nouveau Système de prévision du cycle de l’eau (SPCE v2.0.0), après avoir exécuté en mode expérimental pendant près de 3 ans.
 
 La note officielle annonçant cette implantation importante est disponible [via ce lien](http://dd.meteo.gc.ca/doc/genots/2019/03/04/NOCN03_CWAO_041525___40141).

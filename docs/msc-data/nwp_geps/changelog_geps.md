@@ -4,14 +4,12 @@
 
 ## Le mardi 14 avril 2026
 
-### Mise à jour du SGPE à la version 8.1.0 suite à la nouvelle infrastructure de calcul haute performance.
-
+#### Mise à jour du SGPE à la version 8.1.0 suite à la nouvelle infrastructure de calcul haute performance.
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
-### Le lundi 26 mai 2025
+## Le lundi 26 mai 2025
 
-### Ajout des observations ATMS et CrIS du satellite NOAA-21 dans le SGPE
-
+#### Ajout des observations ATMS et CrIS du satellite NOAA-21 dans le SGPE
 Le lundi 26 mai 2025, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 8.0.0 de son Système global de prévision d'ensemble (SGPE).
 
 Seulement la composante d'assimilation des données a été modifiée afin d'ajouter les sources d’observations satellitaires suivantes:
@@ -20,8 +18,7 @@ Seulement la composante d'assimilation des données a été modifiée afin d'ajo
 
 ## Le mercredi 2 avril 2025
 
-### Mise à jour technique des systèmes d'assimilation atmosphérique
-
+#### Mise à jour technique des systèmes d'assimilation atmosphérique
 Le mercredi 2 avril 2025, à compter de la passe de 0600UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 8.0.0 de son Système global de prévision d'ensemble (SGPE).
 
 Seule la composante de l'assimilation des données a été modifiée avec:
@@ -31,8 +28,7 @@ Seule la composante de l'assimilation des données a été modifiée avec:
 
 ## Le mercredi 23 octobre 2024
 
-### Ajout de nouvelles sources d’observations satellitaires dans le SGPE
-
+#### Ajout de nouvelles sources d’observations satellitaires dans le SGPE
 Le mercredi 23 octobre 2024, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 8.0.0 de son Système global de prévision d’ensemble (SGPE).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'ajouter les sources d’observations satellitaires suivantes:
@@ -41,8 +37,7 @@ Seulement la composante de l'assimilation des données a été modifiée afin d'
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour du Système global de prévision d'ensemble (SGPE) 8.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système global de prévision d'ensemble (SGPE) 8.0.0 du Centre météorologique canadien (CMC)
 Le mardi 11 juin 2024, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 8.0.0 de son Système global de prévision d'ensemble (SGPE).
 
 Principaux changements :
@@ -62,8 +57,7 @@ Le document des spécifications techniques du SGPE v8.0.0 est disponible [via ce
 
 ## Le jeudi 14 septembre 2023
 
-### Ajout d’observations commerciales GNSS-RO de PlanetIQ dans le SGPE
-
+#### Ajout d’observations commerciales GNSS-RO de PlanetIQ dans le SGPE
 Le jeudi 14 septembre 2023, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 7.1.1 de son Système global de prévision d’ensemble (SGPE).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -72,8 +66,7 @@ Ajout des observations commerciales GNSS-RO (Global Navigation Satellite System 
 
 ## Le mercredi 5 juillet 2023
 
-### Ajout d’observations commerciales GNSS-RO de Spire dans le SGPE
-
+#### Ajout d’observations commerciales GNSS-RO de Spire dans le SGPE
 Le mercredi 5 juillet 2023, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 7.1.1 de son Système global de prévision d’ensemble (SGPE).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -82,8 +75,7 @@ Ajout des observations commerciales GNSS-RO (Global Navigation Satellite System 
 
 ## Le mercredi 8 mars 2023
 
-### Correction au contrôle de qualité des observations d'épaisseur de neige provenant des stations automatiques canadiennes dans le SGPE
-
+#### Correction au contrôle de qualité des observations d'épaisseur de neige provenant des stations automatiques canadiennes dans le SGPE
 Le mercredi 8 mars 2023, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 7.1.1 de son Système global de prévision d’ensemble (SGPE).
 
 Une modification au contrôle de qualité des observations d'épaisseur de neige provenant des stations automatiques canadiennes utilisée dans l'analyse de neige a été installée dans le SGPE.
@@ -94,8 +86,7 @@ La note officielle annonçant ce changement est disponible [via ce lien](https:/
 
 ## Le mercredi 15 février 2023
 
-### Ajout des observations GPSRO du satellite Sentinel-6A dans le SGPE
-
+#### Ajout des observations GPSRO du satellite Sentinel-6A dans le SGPE
 Le mercredi 15 février 2023, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 7.1.0 de son Système global de prévision d’ensemble (SGPE).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -104,8 +95,7 @@ Ajout des observations GPSRO (Global Positioning System Radio Occultation) du sa
 
 ## Le mercredi 4 janvier 2023
 
-### Remplacement des vecteurs vents dérivés à partir d’images satellites (Atmospheric Motion wind Vector) de GOES-17 par ceux de GOES-18 dans le SGPE
-
+#### Remplacement des vecteurs vents dérivés à partir d’images satellites (Atmospheric Motion wind Vector) de GOES-17 par ceux de GOES-18 dans le SGPE
 Le mercredi 4 janvier 2023, à compter de la passe de 1800 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 7.1.0 de son Système global de prévision d'ensemble (SGPE).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -114,8 +104,7 @@ Remplacement des vecteurs vents dérivés à partir d’images satellites proven
 
 ## Le jeudi 3 novembre 2022
 
-### Ajout des observations de surface provenant des bateaux en format BUFR dans le SGPE
-
+#### Ajout des observations de surface provenant des bateaux en format BUFR dans le SGPE
 Le jeudi 3 novembre 2022, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 7.1.0 de son Système global de prévision d'ensemble (SGPE).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -124,14 +113,12 @@ Ajout des observations de surface provenant des bateaux en format BUFR (Binary U
 
 ## Le mardi 28 juin 2022
 
-### Mise à jour du SGPE à la version 7.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour du SGPE à la version 7.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 16 février 2022
 
-### Ajout des observations GPSRO des satellites GRACE-C et GRACE-D dans le SGPE
-
+#### Ajout des observations GPSRO des satellites GRACE-C et GRACE-D dans le SGPE
 Le mercredi 16 février 2022, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 7.0.0 de son Système global de prévision d'ensemble (SGPE).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -140,8 +127,7 @@ Ajout des observations GPSRO (Global Positioning System Radio Occultation) des s
 
 ## Le mercredi 1er décembre 2021
 
-### Mise à jour du Système global de prévision d'ensemble (SGPE) 7.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système global de prévision d'ensemble (SGPE) 7.0.0 du Centre météorologique canadien (CMC)
 Le mercredi 1er décembre 2021, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 7.0.0 de son Système global de prévision d'ensemble (SGPE).
 
 Un résumé des innovations incluses dans cette mise à jour ainsi que de leurs impacts sur la performance du système [est disponible ici](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/fact_sheets/factsheet_geps-700_f.pdf).
@@ -154,8 +140,7 @@ Le document des spécifications techniques du SGPE v7.0.0 est disponible [via ce
 
 ## Le mardi 26 janvier 2021
 
-### Remplacement d’observations de radiances satellitaires
-
+#### Remplacement d’observations de radiances satellitaires
 Le mardi 26 janvier 2021, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 6.1.0 de son système global de prévision d'ensemble (SGPE).
 
 Seulement la composante de l'assimilation des données a été modifiée afin de substituer les observations suivantes:
@@ -164,8 +149,7 @@ Seulement la composante de l'assimilation des données a été modifiée afin de
 
 ## Le mardi 8 décembre 2020
 
-### Ajouts d’observations de radiances satellitaires
-
+#### Ajouts d’observations de radiances satellitaires
 Le mardi 8 décembre 2020, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 6.1.0 de son système global de prévision d'ensemble (SGPE).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes dans son analyse 4DEnVar, tandis que l’analyse EnKF est demeurée inchangée:
@@ -176,8 +160,7 @@ Seulement la composante de l'assimilation des données a été modifiée afin d'
 
 ## Le vendredi 26 juin 2020
 
-### Ajout des observations GPSRO des satellites COSMIC-II
-
+#### Ajout des observations GPSRO des satellites COSMIC-II
 Le vendredi 26 juin 2020, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 6.1.0 de son système global de prévision d'ensemble (SGPE).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -186,8 +169,7 @@ Ajout des observations GPSRO (Global Positioning System Radio Occultation) des s
 
 ## Le mercredi 29 avril 2020
 
-### Ajout des observations GPSRO des satellites PAZ et KOMPSAT-5
-
+#### Ajout des observations GPSRO des satellites PAZ et KOMPSAT-5
 Le mercredi 29 avril 2020, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 6.1.0 de son système global de prévision d'ensemble (SGPE).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -196,8 +178,7 @@ Ajout des observations GPSRO (Global Positioning System Radio Occultation) des s
 
 ## Le mardi 28 avril 2020
 
-### Ajout des observations AMV du satellite MetOp-3/C
-
+#### Ajout des observations AMV du satellite MetOp-3/C
 Le mardi 28 avril 2020, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 6.1.0 de son système global de prévision d'ensemble (SGPE).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -206,14 +187,12 @@ Ajout des observations AMV (Atmospheric Motion Vector) du satellite MetOp-3/C.
 
 ## Le mardi 21 janvier 2020
 
-### Mise à jours du SGPE à la version 6.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jours du SGPE à la version 6.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mardi 23 juillet 2019
 
-### Ajout d'observations satellitaires dans les systèmes de prévision suivants du Centre météorologique canadien (CMC): Le système global de prévision d'ensemble (SGPE)
-
+#### Ajout d'observations satellitaires dans les systèmes de prévision suivants du Centre météorologique canadien (CMC): Le système global de prévision d'ensemble (SGPE)
 Le mardi 23 juillet 2019, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) a procédé à une mise à jour du système global de prévision d'ensemble (SGPE).
 
 Les composantes d'assimilation de données du SGPE ont été modifiées pour utiliser des observations supplémentaires dans sept familles d'observations. Toutes ces familles étaient déjà utilisées, ces ajouts observations visent principalement à augmenter la robustesse des systèmes d'assimilation.
@@ -224,8 +203,7 @@ Les détails de cette mise à jour sont disponibles dans la copie de la note off
 
 ## Le mercredi 3 juillet 2019
 
-#### Mise à jour majeure du système global de prévision d'ensemble (SGPE version 6.0.0) du Centre météorologique canadien (CMC)
-
+##### Mise à jour majeure du système global de prévision d'ensemble (SGPE version 6.0.0) du Centre météorologique canadien (CMC)
 Le mercredi 3 juillet 2019, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 6.0.0 de son système global de prévision d'ensemble (SGPE). Résumé des éléments majeurs que comporte cette mise à jour :
 
 * Changements à la composante composante de prévision :
@@ -248,8 +226,7 @@ Le document des spécifications techniques du SGPE 6.0.0 [est disponible ici](ht
 
 ## Le mardi 18 septembre 2018
 
-#### Mise à jour majeure du système global de prévision d'ensemble (SGPE version 5.0.0) du Centre météorologique canadien (CMC)
-
+##### Mise à jour majeure du système global de prévision d'ensemble (SGPE version 5.0.0) du Centre météorologique canadien (CMC)
 Le mardi 18 septembre 2018, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 5.0.0 de son système global de prévision d'ensemble (SGPE). Résumé des éléments majeurs que comporte cette mise à jour :
 
 * Changements communs entre la composante d'assimilation et prévision
@@ -278,8 +255,7 @@ Le document des spécifications techniques du SGPE 5.0.0 [est disponible ici](ht
 
 ## Le mardi 15 décembre 2015
 
-#### Mise à jour du système global de prévision d'ensemble (SGPE version 4.1.1) du Centre météorologique canadien (CMC)
-
+##### Mise à jour du système global de prévision d'ensemble (SGPE version 4.1.1) du Centre météorologique canadien (CMC)
 Le mardi 15 décembre 2015, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 4.1.1 de son système global de prévision d'ensemble (SGPE).
 
 Résumé des éléments majeurs que comporte cette mise à jour :
@@ -300,8 +276,7 @@ Le document des spécifications techniques du GEPS 4.1.1 [est disponible ici](ht
 
 ## Le mardi 18 novembre 2014
 
-#### Mise à jour majeure du système global de prévision d'ensemble (SGPE version 4.0.0) du Centre météorologique canadien (CMC)
-
+##### Mise à jour majeure du système global de prévision d'ensemble (SGPE version 4.0.0) du Centre météorologique canadien (CMC)
 Le mardi 18 novembre 2014, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 4.0.0 de son système global de prévision d'ensemble (SGPE).
 
 Résumé des éléments majeurs que comporte cette mise à jour :
@@ -322,8 +297,7 @@ Une note technique à propos des améliorations au système de re-prévisions [e
 
 ## Le mercredi 4 décembre 2013
 
-#### Mise à jour majeure du système global de prévision d'ensemble (SGPE version 3.1.0) du Centre météorologique canadien (CMC)
-
+##### Mise à jour majeure du système global de prévision d'ensemble (SGPE version 3.1.0) du Centre météorologique canadien (CMC)
 Le mercredi 4 décembre 2013, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 3.1.0 de son système global de prévision d'ensemble (SGPE).
 
 Dans cette nouvelle version du SGPE, une nouvelle version du modèle gem (de 4.4.1 vers 4.4.5) sera utilisée contenant des options additionnelles.  Ce changement de nature purement technique n’engendre aucune différence dans les prévisions du SGPE, mais permet un entretien plus facile du système et une plus grande cohérence avec les autres systèmes de prévisions du CMC.
@@ -343,8 +317,7 @@ Une note technique à ce sujet [est disponible via ce lien](https://collaboratio
 
 ## Le mercredi, 13 février 2013
 
-#### Mise à jour majeure du système global de prévision d'ensemble (SGPE version 3.0.0) du Centre météorologique canadien (CMC)
-
+##### Mise à jour majeure du système global de prévision d'ensemble (SGPE version 3.0.0) du Centre météorologique canadien (CMC)
 Le mercredi 13 février 2013, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 3.0.0 de son système global de prévision d'ensemble (SGPE).
 
 Des changements majeurs sont faits tant à la portion d'assimilation de données (filtre kalman d'ensemble ou FKEn) qu'à celle de pévision du système.

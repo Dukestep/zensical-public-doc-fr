@@ -4,14 +4,12 @@
 
 ## Le mardi 14 avril 2026
 
-### Mise à jour du SIPI à la version 2.5.0 suite à la nouvelle infrastructure de calcul haute performance.
-
+#### Mise à jour du SIPI à la version 2.5.0 suite à la nouvelle infrastructure de calcul haute performance.
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour du Système intégré de prévision immédiate (SIPI) 2.3.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système intégré de prévision immédiate (SIPI) 2.3.0 du Centre météorologique canadien (CMC)
 Le mardi 11 juin 2024, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 2.3.0 de son Système intégré de prévision immédiate (SIPI).
 
 Principaux changements :
@@ -29,8 +27,7 @@ Le document des spécifications techniques du SIPI 2.3.0 [est disponible ici](ht
 
 ## Le lundi 19 février 2024
 
-### Mise à jour du Système intégré de prévisions immédiates (SIPI) 2.2.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système intégré de prévisions immédiates (SIPI) 2.2.0 du Centre météorologique canadien (CMC)
 Le lundi 19 février 2024, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 2.2.0 de son Système intégré de prévisions immédiates (SIPI).
 
 Les modifications incluses dans cette mise à jour se résument comme suit :
@@ -40,8 +37,7 @@ Les modifications incluses dans cette mise à jour se résument comme suit :
 
 ## Le jeudi 23 mars 2023
 
-### Mise à jour de SIPI à la version 2.1.0 pour introduire le traitement des données radars de bande-S du Canada
-
+#### Mise à jour de SIPI à la version 2.1.0 pour introduire le traitement des données radars de bande-S du Canada
 Le jeudi 23 mars 2023, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 2.1.0 de son Système intégré de prévisions immédiates (SIPI).
 
 Les modifications incluses dans cette mise à jour se résument comme suit :
@@ -57,14 +53,12 @@ Une note technique à ce sujet est disponible via [ce lien](https://collaboratio
 
 ## Le mardi 28 juin 2022
 
-### Mise à jour de SIPI à la version 1.10.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour de SIPI à la version 1.10.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 1er décembre 2021
 
-### Mise à jour du Système intégré de prévisions immédiates (SIPI) 1.9.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système intégré de prévisions immédiates (SIPI) 1.9.0 du Centre météorologique canadien (CMC)
 Le mercredi 1er décembre 2021, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 1.9.0 de son Système intégré de prévisions immédiates (SIPI).
 
 Les modifications incluses dans cette mise à jour sont résumées comme suit :
@@ -81,14 +75,12 @@ Le document des spécifications techniques du SIPI v1.9.0 est disponible [via ce
 
 ## Le mardi 21 janvier 2020
 
-### Mise à jours de SIPI suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jours de SIPI suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le jeudi 9 juillet 2015
 
-### Le Centre Météorologique Canadien améliore son système SIPI à version 1.5
-
+#### Le Centre Météorologique Canadien améliore son système SIPI à version 1.5
 Le jeudi 09 juillet 2015 à partir de 1400 UTC, le Centre Météorologique Canadien (CMC) a procédé à une mise à jour son système intégré de prévisions immédiates (SIPI). Ce système fournit à la fois des données d'observations ainsi que des prévisions à très court terme au système de production des prévisions Scribe. Cette mise à jour, amèliore, entre autres, principalement la qualité de la composante qui traite les données radar de ce système.
 
 Une copie de la note officielle annoncant ce changement [est disponible en cliquant ici](http://dd.weather.gc.ca/doc/genots/2015/07/08/NOCN03_CWAO_081635___00168).
@@ -97,8 +89,7 @@ Une note technique à ce sujet sera disponible sous peu.
 
 ## Le mercredi 20 novembre 2013
 
-### Le Centre Météorologique Canadien améliore son système SIPI à version 1.4
-
+#### Le Centre Météorologique Canadien améliore son système SIPI à version 1.4
 Le mercredi 20 novembre 2013 à partir de 1400 UTC le Centre Météorologique Canadien (CMC) a procédé à une mise à jour son système intégré de prévisions immédiates (SIPI). Ce système fournit à la fois des données d'observations ainsi que des prévisions à très court terme au système de production des prévisions Scribe. Cette mise à jour, qui amène entre autres, l'intégration des observations radar dans le SIPI, fait passer la version du système de 1.1. à la version 1.4.
 
 Les modifications suivantes ont été faites au système :
@@ -125,8 +116,7 @@ Une note technique à ce sujet est disponible via le lien suivant : [Note Techni
 
 ## Le mardi 7 août 2012
 
-### Le Centre Météorologique Canadien améliore son système SIPI à version 1.1
-
+#### Le Centre Météorologique Canadien améliore son système SIPI à version 1.1
 Le mardi 7 août 2012 à partir de 1400 UTC le Centre Météorologique Canadien (CMC) a mis à jour son système intégré de prévisions immédiates (SIPI). Ce système fournit à la fois des données d'observations ainsi que des prévisions à très court terme au système de production des prévisions Scribe. Avec cette mise à jour le numéro de version du système SIPI passe de 1.0. à 1.1.
 
 Les modifications suivantes ont été faites au système:

@@ -4,8 +4,7 @@
 
 ## Le jeudi 17 septembre 2015
 
-### Mise à jour du Système régional de prévision de glace (SRPG version 2.2) au Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système régional de prévision de glace (SRPG version 2.2) au Centre météorologique canadien (CMC)
 Le jeudi 17 septembre 2015 à partir de 0600 UTC, le Centre Météorologique Canadien (CMC) a procédé à une mise à jour du Système régional de prévision de glace (SRPG version 2.2). Voici la liste des changements inclus dans cette mise à jour:
 
 * Assimilation des données AMSR2
@@ -20,16 +19,14 @@ Une note technique avec de plus amples détails est disponible [via ce lien](htt
 
 ## Le mardi 23 juillet 2013
 
-### Le Centre Météorologique Canadien (CMC) installe la composante prévision du Système régional de prévision de glace (SRPG-F)
-
+#### Le Centre Météorologique Canadien (CMC) installe la composante prévision du Système régional de prévision de glace (SRPG-F)
 Le 23 juillet 2013, le CMC a implanté, en mode expérimental, pour la première fois, la composante prévision du Système régional de prévision de glace (SRPG-F), version 2.0. Notons que SRPG-F est la composante de prévision de SRPG 2.0.0, basée sur le modèle de glace CICE v4.1 (Los-Alamos sea-ice model). Tous les 6 heures (4 x jour), après la production de l'analyse dans SRPG-A, SRPG-F génère des conditions initiales pour la concentration de glace (analyse), la température de surface de mer (analyse CMC à 00Z), la vitesse de glace (prévision précédente), et l'épaisseur de glace et la profondeur de la couche de mélange (climatologie GLORYS1v1). Le forçage de surface pendant la prévision de 48h vient du système régional SPRD pour l'atmosphère et de courants de surface interpolé dans le temps (climatologie mensuelle GLORYS1v1). Il n'y a pas de conditions frontières pour la glace.
 
 Pour plus d'informations sur ce système, une note technique (Anglais seulement, pour le moment) est disponible [via ce lien](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/lib/technote_ripsf_20140506_e.pdf).
 
 ## Le vendredi 17 mai, 2013
 
-### Le Centre Météorologique Canadien (CMC) a mis à jour la composante analyse du Système régional de prévision de glace (SRPG-A) en passant à la version 2.0
-
+#### Le Centre Météorologique Canadien (CMC) a mis à jour la composante analyse du Système régional de prévision de glace (SRPG-A) en passant à la version 2.0
 Le 17 mai 2013, le CMC a implanté, en mode expérimental, une nouvelle version de la composante analyse du Système régional de prévision de glace (SRPG-A). Rappelons que le système SRPG-A fournit des estimés aux points de grille presque en temps réel de concentration de glace pour toutes les zones touchées par la glace autour de l'Amérique du Nord et le Groenland, et vise essentiellement à répondre aux besoins opérationnels du Service canadien des glaces. Trois modifications importantes ont été apportées dans cette nouvelle version :
 
     1. La première modification est l'assimilation de données micro-ondes passives de trois plates-formes satellites pour compléter les données "Special Sensor Microwave / Imager" déjà assimilées à partir d'une plateforme.

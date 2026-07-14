@@ -4,14 +4,12 @@
 
 ## Le mardi 14 avril 2026
 
-### Mise à jour du SRPE à la version 5.1.0 suite à la nouvelle infrastructure de calcul haute performance.
-
+#### Mise à jour du SRPE à la version 5.1.0 suite à la nouvelle infrastructure de calcul haute performance.
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour du Système régional de prévision d'ensemble (SRPE) 5.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système régional de prévision d'ensemble (SRPE) 5.0.0 du Centre météorologique canadien (CMC)
 Le mardi 11 juin 2024, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 5.0.0 de son Système régional de prévision d'ensemble (SRPE).
 
 Principaux changements :
@@ -32,14 +30,12 @@ Le document des spécifications techniques du SRPE 5.0.0 [est disponible ici](ht
 
 ## Le mardi 28 juin 2022
 
-### Mise à jour du SRPE à la version 4.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour du SRPE à la version 4.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 1er décembre 2021
 
-### Mise à jour du Système régional de prévision d'ensemble (SRPE) 4.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système régional de prévision d'ensemble (SRPE) 4.0.0 du Centre météorologique canadien (CMC)
 Le mercredi 1er décembre 2021, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 4.0.0 de son Système régional de prévision d'ensemble (SRPE).
 
 Un résumé des innovations incluses dans cette mise à jour ainsi que de leurs impacts sur la performance du système est disponible ici: [SRPE_4.0.0_innovations](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/fact_sheets/factsheet_reps-400_e.pdf). Pour une description complète veuillez consulter la [Note technique](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_notes/technote_reps-400_f.pdf).
@@ -54,14 +50,12 @@ Notes :
 
 ## Le mardi 21 janvier 2020
 
-### Mise à jour du SRPE à la version 3.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour du SRPE à la version 3.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 3 juillet 2019
 
-### Mise à jour du Système régional de prévision d'ensemble (SRPE) 3.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système régional de prévision d'ensemble (SRPE) 3.0.0 du Centre météorologique canadien (CMC)
 Le mercredi 3 juillet 2019, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 3.0.0 de son Système régional de prévision d'ensemble (SRPE).
 Résumé des éléments majeurs que comporte cette mise à jour:
 
@@ -83,8 +77,7 @@ Le document des spécifications techniques du SRPE 3.0.0 [est disponible ici](ht
 
 ## Le mardi 18 septembre 2018
 
-### Mise à jour du système régional de prévision d'ensemble (SRPE) 2.4.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du système régional de prévision d'ensemble (SRPE) 2.4.0 du Centre météorologique canadien (CMC)
 Le mardi 18 septembre 2018, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 2.4.0 de son Système régional de prévision d'ensemble (SRPE).
 Résumé des éléments majeurs que comporte cette mise à jour:
 
@@ -99,8 +92,7 @@ Une note technique à ce sujet [est disponible via ce lien](https://collaboratio
 
 ## Le mardi 15 décembre 2015
 
-### Mise à jour du système régional de prévision d'ensemble (SRPE version 2.2.0) du Centre météorologique canadien (CMC)
-
+#### Mise à jour du système régional de prévision d'ensemble (SRPE version 2.2.0) du Centre météorologique canadien (CMC)
 Le mardi 15 décembre 2015, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 2.2.0 de son système régional de prévision d'ensemble (SRPE).
 
 La seule modification au SRPE est que maintenant il est piloté par le SGPE 4.1.1 (voir [ici](../nwp_geps/changelog_geps.md) pour plus de détails), plutôt que par la version précedente du SGPE 4.0.0.
@@ -110,8 +102,7 @@ Le document des spécifications techniques du SRPE 2.2.0 [est disponible ici](ht
 
 ## Le mercredi, 4 décembre 2013
 
-### Mise à jour majeure du système régional de prévision d'ensemble (SRPE version 2.0.1) du Centre météorologique canadien (CMC)
-
+#### Mise à jour majeure du système régional de prévision d'ensemble (SRPE version 2.0.1) du Centre météorologique canadien (CMC)
 Le mercredi 4 décembre 2013, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 2.0.1 de son système régional de prévision d'ensemble (SRPE).
 
 D'important changements ont été apportés à la dynamique du modèle utilisé dans le REPS 2.0.1.

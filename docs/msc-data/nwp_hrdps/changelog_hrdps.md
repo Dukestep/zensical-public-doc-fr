@@ -4,14 +4,12 @@
 
 ## Le mardi 14 avril 2026
 
-### Mise à jour du SHRPD à la version 7.1.0 suite à la nouvelle infrastructure de calcul haute performance.
-
+#### Mise à jour du SHRPD à la version 7.1.0 suite à la nouvelle infrastructure de calcul haute performance.
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le jeudi 24 juillet 2025
 
-### Mise en œuvre d'un système de post-traitement statistique PROGNOS v1.0.0 du Système à haute résolution de prévision déterministe (SHRPD) 7.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise en œuvre d'un système de post-traitement statistique PROGNOS v1.0.0 du Système à haute résolution de prévision déterministe (SHRPD) 7.0.0 du Centre météorologique canadien (CMC)
 Le jeudi 24 juillet 2025, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle d'un système de post-traitement statistique PROGNOS.
 
 La note officielle annonçant ce changement [est disponible via ce lien](https://dd.meteo.gc.ca/doc/genots/2025/07/22/NOCN03_CWAO_221850___51676).
@@ -20,8 +18,7 @@ Le document des spécifications techniques de PROGNOS v1.0.0 est disponible [via
 
 ## Le lundi 26 mai 2025
 
-### Ajout des observations ATMS et CrIS du satellite NOAA-21 et des observations RARS-MWHS2 des satellites FY-3D et FY-3E dans le SHRPD
-
+#### Ajout des observations ATMS et CrIS du satellite NOAA-21 et des observations RARS-MWHS2 des satellites FY-3D et FY-3E dans le SHRPD
 Le lundi 26 mai 2025, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 7.0.0 de son Système à haute résolution de prévision déterministe (SHRPD).
 
 Seulement la composante d'assimilation des données a été modifiée afin d'ajouter les sources d’observations satellitaires suivantes:
@@ -31,8 +28,7 @@ Seulement la composante d'assimilation des données a été modifiée afin d'ajo
 
 ## Le mercredi 2 avril 2025
 
-### Mise à jour technique des systèmes d'assimilation atmosphérique
-
+#### Mise à jour technique des systèmes d'assimilation atmosphérique
 Le mercredi 2 avril 2025, à compter de la passe de 0600UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 7.0.0 de son Système à haute résolution de prévision déterministe (SHRPD).
 
 Seule la composante de l'assimilation des données a été modifiée avec:
@@ -42,8 +38,7 @@ Seule la composante de l'assimilation des données a été modifiée avec:
 
 ## Le mercredi 23 octobre 2024
 
-### Ajout de nouvelles sources d’observations satellitaires dans le SHRPD
-
+#### Ajout de nouvelles sources d’observations satellitaires dans le SHRPD
 Le mercredi 23 octobre 2024, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 7.0.0 de son Système à haute résolution de prévision déterministe (SHRPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'ajouter les sources d’observations satellitaires suivantes:
@@ -52,8 +47,7 @@ Seulement la composante de l'assimilation des données a été modifiée afin d'
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour majeure vers la version 7.0.0 du Système à haute résolution de prévision déterministe (SHRPD) au Centre météorologique canadien
-
+#### Mise à jour majeure vers la version 7.0.0 du Système à haute résolution de prévision déterministe (SHRPD) au Centre météorologique canadien
 Le mardi 11 juin 2024, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour son Système à haute résolution de prévision déterministe (SHRPD) à la version 7.0.0.
 
 Principaux changements :
@@ -72,8 +66,7 @@ Le document des spécifications techniques du SHRPD v7.0.0 est disponible [via c
 
 ## Le jeudi 2 novembre 2023
 
-### Ajout des observations CSR du satellite GOES-18 dans le SHRPD
-
+#### Ajout des observations CSR du satellite GOES-18 dans le SHRPD
 Le jeudi 2 novembre 2023, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 6.1.0 de son Système à haute résolution de prévision déterministe (SHRPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -82,8 +75,7 @@ Ajout des radiances infrarouges CSR (Clear-Sky Radiance) du satellite GOES-18.
 
 ## Le mardi 12 décembre 2023
 
-### Mise à jour vers la version 2.2.0 des éléments du temps sur grille (WEonG) du Système à haute résolution de prévision déterministe (SHRPD) au Centre météorologique canadien
-
+#### Mise à jour vers la version 2.2.0 des éléments du temps sur grille (WEonG) du Système à haute résolution de prévision déterministe (SHRPD) au Centre météorologique canadien
 Le mardi 12 décembre 2023, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) a mis à jour les éléments du temps sur grille (WEonG) du Système à haute résolution de prévision déterministe (SHRPD) à la version 2.2.0.
 
 Résumé des modifications que comporte cette mise à jour :
@@ -100,8 +92,7 @@ Une note technique à ce sujet est disponible [via ce lien](https://collaboratio
 
 ## Le jeudi 14 septembre 2023
 
-### Ajout d’observations commerciales GNSS-RO de PlanetIQ dans le SHRPD
-
+#### Ajout d’observations commerciales GNSS-RO de PlanetIQ dans le SHRPD
 Le jeudi 14 septembre 2023, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 6.1.0 de son Système à haute résolution de prévision déterministe (SHRPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -110,18 +101,15 @@ Ajout des observations commerciales GNSS-RO (Global Navigation Satellite System 
 
 ## Le mercredi 5 juillet 2023
 
-### Ajout d’observations commerciales GNSS-RO de Spire dans le SHRPD
-
+#### Ajout d’observations commerciales GNSS-RO de Spire dans le SHRPD
 Le mercredi 5 juillet 2023, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 6.1.0 de son Système à haute résolution de prévision déterministe (SHRPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
 
 Ajout des observations commerciales GNSS-RO (Global Navigation Satellite System Radio Occultation) de la constellation de nanosatellites LEMUR de Spire.
 
-### Le mercredi 15 février 2023
-
-### Ajout des observations GPSRO du satellite Sentinel-6A dans le SHRPD
-
+## Le mercredi 15 février 2023
+#### Ajout des observations GPSRO du satellite Sentinel-6A dans le SHRPD
 Le mercredi 15 février 2023, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 6.1.0 de son Système à haute résolution de prévision déterministe (SHRPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -130,8 +118,7 @@ Ajout des observations GPSRO (Global Positioning System Radio Occultation) du sa
 
 ## Le jeudi 4 janvier 2023
 
-### Remplacement des vecteurs vents dérivés à partir d’images satellites (Atmospheric Motion wind Vector) de GOES-17 par ceux de GOES-18 dans le SHRPD
-
+#### Remplacement des vecteurs vents dérivés à partir d’images satellites (Atmospheric Motion wind Vector) de GOES-17 par ceux de GOES-18 dans le SHRPD
 Le mercredi 4 janvier 2023, à compter de la passe de 1800 UTC, le centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 6.1.0 de son Système à haute résolution de prévision déterministe (SHRPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -140,8 +127,7 @@ Remplacement des vecteurs vents dérivés à partir d’images satellites proven
 
 ## Le jeudi 3 novembre 2022
 
-### Ajout des observations de surface provenant des bateaux en format BUFR dans le SHRPD
-
+#### Ajout des observations de surface provenant des bateaux en format BUFR dans le SHRPD
 Le jeudi 3 novembre 2022, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 6.1.0 de son Système à haute résolution de prévision déterministe (SHRPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -150,14 +136,12 @@ Ajout des observations de surface provenant des bateaux en format BUFR (Binary U
 
 ## Le mardi 28 juin 2022
 
-### Mise à jour du SHRPD à la version 6.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour du SHRPD à la version 6.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 16 février 2022
 
-### Ajout des observations GPSRO des satellites GRACE-C et GRACE-D dans le SHRPD
-
+#### Ajout des observations GPSRO des satellites GRACE-C et GRACE-D dans le SHRPD
 Le mercredi 16 février 2022, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 6.0.0 de son système à haute résolution de prévision déterministe (SHRPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -166,8 +150,7 @@ Ajout des observations GPSRO (Global Positioning System Radio Occultation) des s
 
 ## Le mercredi 1er décembre 2021
 
-### Mise à jour majeure vers la version 6.0.0 du Système à haute résolution de prévision déterministe (SHRPD) au Centre météorologique canadien
-
+#### Mise à jour majeure vers la version 6.0.0 du Système à haute résolution de prévision déterministe (SHRPD) au Centre météorologique canadien
 Le mercredi 1er décembre 2021, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour le Système à haute résolution de prévision déterministe (SHRPD) à la version 6.0.0.
 
 Un résumé des innovations incluses dans cette mise à jour ainsi que de leurs impacts sur la performance du système [est disponible ici](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/fact_sheets/factsheet_hrdps-600_f.pdf).
@@ -180,14 +163,12 @@ Le document des spécifications techniques du SHRPD v6.0.0 est disponible [via c
 
 ## Le mardi 21 janvier 2020
 
-### Mise à jours du SHRPD à la version 5.2.0 suite à la nouvelle infrastructure de calcul haute performance 
-
+#### Mise à jours du SHRPD à la version 5.2.0 suite à la nouvelle infrastructure de calcul haute performance 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 3 juillet 2019
 
-### Mise à jour majeure vers la version 5.1.0 du Système à haute résolution de prévision déterministe (SHRPD) au Centre météorologique canadien
-
+#### Mise à jour majeure vers la version 5.1.0 du Système à haute résolution de prévision déterministe (SHRPD) au Centre météorologique canadien
 Le mercredi 3 juillet 2019, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour le Système à haute résolution de prévision déterministe (SHRPD) à la version 5.1.0.
 
 Résumé des modifications que comporte cette mise à jour :
@@ -205,8 +186,7 @@ Une note technique à ce sujet [est disponible via ce lien](https://collaboratio
 
 ## Le mardi 18 septembre 2018
 
-### Mise à jour majeure vers la version 5.0.0 du Système à haute résolution de prévision déterministe (SHRPD) au Centre météorologique canadien
-
+#### Mise à jour majeure vers la version 5.0.0 du Système à haute résolution de prévision déterministe (SHRPD) au Centre météorologique canadien
 Le mardi 18 septembre 2018, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour le Système à haute résolution de prévision déterministe (SHRPD) à la version 5.0.0.
 Résumé des modifications que comporte cette mise à jour:
 
@@ -222,8 +202,7 @@ Une note technique avec plus de détails sur SHRPD 5.0.0 est disponible [via ce 
 
 ## Le jeudi 14 décembre 2017
 
-### Le Système à haute résolution de prévision déterministe (SHRPD) est déclaré opérationnel au Centre météorologique canadien
-
+#### Le Système à haute résolution de prévision déterministe (SHRPD) est déclaré opérationnel au Centre météorologique canadien
 En date du 14 décembre 2017, suite à plusieurs ans d’exécution en mode expérimental, le Centre météorologique canadien (CMC) déclare opérationnel le Système à haute résolution de prévision déterministe (SHRPD v4.4.0).
 
 La note officielle annonçant ce changement [est disponible via ce lien](http://dd.meteo.gc.ca/doc/genots/2017/12/13/NOCN03_CWAO_132058___00004).
@@ -233,8 +212,7 @@ Une note technique avec plus de détails sur la version 4.2.0 de ce système (en
 
 ## Le mercredi 7 septembre 2016
 
-### Mise à jour du Système à haute résolution de prévision déterministe (SHRPD) 4.2.0 du Centre météorologique canadien
-
+#### Mise à jour du Système à haute résolution de prévision déterministe (SHRPD) 4.2.0 du Centre météorologique canadien
 Le mercredi 7 septembre 2016, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 4.2.0 de son Système à haute résolution de prévision déterministe (SHRPD).
 
 Résumé des éléments majeurs que comporte cette mise à jour :
@@ -256,8 +234,7 @@ Une note technique à ce sujet (en anglais) [est disponible en cliquant ici](htt
 
 ## Le mardi 15 décembre 2015
 
-### Mise à jour du Système à haute résolution de prévision déterministe (SHRPD) 4.1.0 du Centre météorologique canadien
-
+#### Mise à jour du Système à haute résolution de prévision déterministe (SHRPD) 4.1.0 du Centre météorologique canadien
 Le mardi 15 décembre 2015, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 4.1.0 de son Système à haute résolution de prévision déterministe (SHRPD).
 
 Résumé des éléments majeurs que comporte cette mise à jour :
@@ -272,8 +249,7 @@ Une note technique à ce sujet (en anglais) [est disponible en cliquant ici](htt
 
 ## Le mardi 18 novembre 2014
 
-### Mise à jour majeure du Système à haute résolution de prévision déterministe (SHRPD) 4.0.0 au Centre météorologique Canadien
-
+#### Mise à jour majeure du Système à haute résolution de prévision déterministe (SHRPD) 4.0.0 au Centre météorologique Canadien
 Le mardi 18 novembre 2014, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à une mise à jour majeure de son système expérimental à haute résolution de prévision déterministe (SHRPD) version 4.0.0.
 
 Une copie de la note officielle annonçant ce changement [est disponible via ce lien](http://dd.meteo.gc.ca/doc/genots/2014/11/17/NOCN03_CWAO_171924___00922).
@@ -283,8 +259,7 @@ Une note technique à ce sujet [est disponible via ce lien](https://collaboratio
 
 ## Le vendredi, 12 juillet 2013
 
-### Ajustements au cacul du temps violent d'été et au domaine arctique du Système à haute résolution de prévision déterministe (SHRPD - version 3.0.1) au Centre meteorologique canadien
-
+#### Ajustements au cacul du temps violent d'été et au domaine arctique du Système à haute résolution de prévision déterministe (SHRPD - version 3.0.1) au Centre meteorologique canadien
 Le CMC a récemment implanté 2 ajustements au SHRPD. Avec ces changements la version est maintenant 3.0.1
 
 Le premier ajustement à partir de 18Z le 21 juin 2013, est une correction au code utilisé par tous les domaines SHRPD pour le calcul des paramètres de temps violent d`été.
@@ -304,8 +279,7 @@ Une copie de la note officielle annoncant ce changement [est disponible via ce l
 
 ## Le mercredi, 3 octobre 2012
 
-### Mise à jour du Système à haute résolution de prévision déterministe (SHRPD - version 3.0.0) au Centre meteorologique canadien
-
+#### Mise à jour du Système à haute résolution de prévision déterministe (SHRPD - version 3.0.0) au Centre meteorologique canadien
 Le mercredi 3 octobre 2012, debutant avec le lancement d'une nouvelle passe de 1800 UTC pour le domaine ouest, le Centre météorologique Canadien (CMC) effectuera une mise à jour du Système à haute résolution de prévision détérministe (SHRPD) à 2.5 km de résolution.
 
 Ces modifications impliquent un changement de version du modèle GEM pour tous les domaines de prévision du SHRPD. Pour le domaine ouest, la configuration de pilotage, la frequence des passes et la periode de prevision sont aussi modifiées.
@@ -325,8 +299,7 @@ Une note technique à ce sujet [sera disponible sous peu en cliquant ici](https:
 
 ## Le jeudi 22 décembre 2011
 
-### Le Centre Météorologique Canadien corrige l'analyse de neige du SHRPD
-
+#### Le Centre Météorologique Canadien corrige l'analyse de neige du SHRPD
 Un correctif à la grille de l'analyse de neige du Système à haute résolution de prévision déterministe (SHRPD) a été fait commencant avec l'analyse de 06 UTC du 22 décembre 2011.
 
 Avec ce correctif, le SHRPD sera maintenant identifié comme la version 2.2.1

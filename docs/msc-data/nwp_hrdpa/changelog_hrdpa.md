@@ -5,14 +5,12 @@
 
 ## Le mardi 14 avril 2026
 
-### Mise à jour de l'AHRPD à la version 6.1.0 suite à la nouvelle infrastructure de calcul haute performance.
-
+#### Mise à jour de l'AHRPD à la version 6.1.0 suite à la nouvelle infrastructure de calcul haute performance.
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 11 septembre 2024
 
-### Retrait temporaire des observations du réseau Fire Weather (OMNRF) du système d'assimilation de l'Analyse à haute résolution déterministe de précipitation (AHRDP) au Centre météorologique canadien (CMC)
-
+#### Retrait temporaire des observations du réseau Fire Weather (OMNRF) du système d'assimilation de l'Analyse à haute résolution déterministe de précipitation (AHRDP) au Centre météorologique canadien (CMC)
 À compter du 11 septembre 2024, les observations du réseau Fire Weather du ministère des Richesses naturelles et des Forêts de l'Ontario (OMNRF) ont été temporairement retirées de l'ensemble des observations assimilées dans l'Analyse à haute résolution déterministe de précipitation (AHRDP). Cette mise à jour est effective à 06UTC pour l'analyse finale et à 12UTC pour l'analyse préliminaire.
 
 Cette mise à jour était nécessaire pour éviter l'impact de certaines observations erronées du réseau OMNRF sur l'AHRDP finale sur certaines régions du sud de l'Ontario - en particulier dans les régions de Kingston-Ottawa et Huron-Erie. Cela n'a qu'un impact mineur sur la performance du système, puisque dans la plupart des cas, les lacunes sont correctement comblées par les observations des autres réseaux, en particulier les jauges synoptiques, ainsi que les QPE radar et satellite.
@@ -21,8 +19,7 @@ Une enquête est en cours pour identifier les stations problématiques et les ex
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour de l'Analyse à haute résolution déterministe de précipitation (AHRDP) 6.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour de l'Analyse à haute résolution déterministe de précipitation (AHRDP) 6.0.0 du Centre météorologique canadien (CMC)
 Le mardi 11 juin 2024, à compter de la passe 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 6.0.0 de son Analyse à haute résolution déterministe de précipitation (AHRDP).
 
 Principaux changements :
@@ -37,8 +34,7 @@ Le document des spécifications techniques de AHRDP 6.0.0 est disponible [via ce
 
 ## Le mercredi 3 mai 2023
 
-### Mise à jour de AHRDP suite au remplacement de GOES-17 par GOES-18
-
+#### Mise à jour de AHRDP suite au remplacement de GOES-17 par GOES-18
 Depuis le 4 janvier 2023 à 18Z, le satellite GOES-18 a pris le relais du satellite GOES-17 en tant que satellite occidental opérationnel. Au sein du système opérationnel AHRDP, les observations du satellite GOES sont utilisées pour effectuer une partie du post-traitement des estimés de précipitation radar. En particulier, les données GOES sont utilisées pour créer un masque de nuages afin de nettoyer les données radar.
 
 Depuis la disparition du satellite GOES-17 le 4 janvier, le système AHRDP s'est appuyé sur le champ NT du modèle de prévision SHRPD pour construire le masque de nuages. Cette solution de contingence a permis d'effectuer le post-traitement des estimés de précipitation radar, mais avec une fiabilité moindre qu'avec les données GOES.
@@ -47,14 +43,12 @@ Afin d'optimiser de nouveau le post-traitement des estimés de précipitation ra
 
 ## Le mardi 28 juin 2022
 
-### Mise à jour du AHRDP à la version 5.2.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour du AHRDP à la version 5.2.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 1er décembre 2021
 
-### Mise à jour vers la version 5.1.0 du Système d'analyse à haute résolution déterministe de précipitation (CaPA-AHRDP) au Centre météorologique canadien
-
+#### Mise à jour vers la version 5.1.0 du Système d'analyse à haute résolution déterministe de précipitation (CaPA-AHRDP) au Centre météorologique canadien
 Le mercredi 1er décembre 2021, le Centre météorologique canadien (CMC) mettra à jour son Système d'analyse à haute résolution déterministe de précipitation (CaPA-AHRDP (2.5km)) à la version 5.1.0.
 
 Les modifications incluses dans cette mise à jour sont résumées comme suit :
@@ -74,14 +68,12 @@ Le document des spécifications techniques du AHRDP v5.1.0 est disponible [via c
 
 ## Le mardi 21 janvier 2020
 
-### Mise à jours de CaPA-AHRDP à la version 4.7.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jours de CaPA-AHRDP à la version 4.7.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 3 juillet 2019
 
-### Mise en œuvre de la version 4.6.0 du Système d'analyse à haute résolution déterministe de précipitation (CaPA-AHRDP) au Centre météorologique canadien (CMC)
-
+#### Mise en œuvre de la version 4.6.0 du Système d'analyse à haute résolution déterministe de précipitation (CaPA-AHRDP) au Centre météorologique canadien (CMC)
 Le mercredi 3 juillet 2019, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) mettra à jour le Système d'analyse à haute régionale déterministe de précipitation (CaPA-AHRDP) en le faisant passer à la version 4.6.0.
 
 Résumé des changements :
@@ -92,8 +84,7 @@ Une copie de la note officielle annonçant ce changement [est disponible via ce 
 
 ## Le mardi 18 septembre, 2018
 
-### Mise à jour vers la version 4.5.0 du Système d'analyse à haute résolution déterministe de précipitation (CaPA-AHRDP) au Centre météorologique canadien
-
+#### Mise à jour vers la version 4.5.0 du Système d'analyse à haute résolution déterministe de précipitation (CaPA-AHRDP) au Centre météorologique canadien
 Le mardi 18 septembre 2018, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour son système d'analyse à haute résolution déterministe de précipitation (CaPA-AHRDP) à la version 4.5.0.
 
 Les modifications incluses dans cette mise à jour sont résumées comme suit :
@@ -113,8 +104,7 @@ Une note technique avec plus de détails sur ces changements est disponible via 
 
 ## Le vendredi 2 mars 2018
 
-### Mise en oeuvre du Système d'analyse à haute résolution déterministe de précipitation (CaPA-AHRDP version 4.1.0) au Centre météorologique canadien (CMC)
-
+#### Mise en oeuvre du Système d'analyse à haute résolution déterministe de précipitation (CaPA-AHRDP version 4.1.0) au Centre météorologique canadien (CMC)
 Le vendredi 2 mars 2018 à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour son Système d'analyse régionale déterministe de précipitation (CaPA-ARDP) en ajoutant une nouvelle configuration des analyses à plus haute résolution (CAPA-AHRDP). Cette nouvelle version aura desormais 2.5km de resolution et ces analyses s'ajoutent à celles déjà produites en mode operationnel depuis 2011 à 15km de résolution et depuis octobre 2012 à celles de 10km de resolution.
 
 Une copie de la note officielle annonçant ce changement [est disponible via ce lien](http://dd.meteo.gc.ca/doc/genots/2018/03/02/NOCN03_CWAO_022008___00002).

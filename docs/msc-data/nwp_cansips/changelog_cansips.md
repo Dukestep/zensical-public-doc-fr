@@ -4,14 +4,12 @@
 
 ## Le mardi 14 avril 2026
 
-### Mise à jour du SPISCan à la version 3.1.0 suite à la nouvelle infrastructure de calcul haute performance.
-
+#### Mise à jour du SPISCan à la version 3.1.0 suite à la nouvelle infrastructure de calcul haute performance.
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour vers la version 3.0.0 du Système de prévision interannuelle et saisonnière canadien (SPISCan) du Centre météorologique canadien (CMC)
-
+#### Mise à jour vers la version 3.0.0 du Système de prévision interannuelle et saisonnière canadien (SPISCan) du Centre météorologique canadien (CMC)
 Le mardi 11 juin 2024, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) procédera à la mise à jour du Système de prévision interannuelle et saisonnière canadien (SPISCan) vers la version 3.0.0
 
 Principaux changements :
@@ -33,14 +31,12 @@ Le document des spécifications techniques du SPISCan 3.0.0 est disponible [via 
 
 ## Le mardi 28 juin 2022
 
-### Mise à jour de SPISCan à la version 2.2.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour de SPISCan à la version 2.2.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mardi 30 novembre 2021
 
-### Mise à jour vers la version 2.1 du Système de prévision interannuelle et saisonnière canadien (SPISCan) du Centre météorologique canadien (CMC)
-
+#### Mise à jour vers la version 2.1 du Système de prévision interannuelle et saisonnière canadien (SPISCan) du Centre météorologique canadien (CMC)
 En date du mardi 30 novembre 2021, le Centre météorologique canadien (CMC) va procéder à la mise à jour du Système de prévision interannuelle et saisonnière canadien (SPISCan) vers la version 2.1.
 
 Les modifications majeures du SPISCan dans cette mise à jour sont: 
@@ -54,14 +50,12 @@ Le document des spécifications techniques du SPISCan version 2.1 [est disponibl
 
 ## Le mardi 21 janvier 2020
 
-### Mise à jour de SPISCan suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour de SPISCan suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 3 juillet 2019
 
-### Mise à jour vers la version 2 du Système de prévision interannuelle et saisonnière canadien (SPISCan) du Centre météorologique canadien (CMC)
-
+#### Mise à jour vers la version 2 du Système de prévision interannuelle et saisonnière canadien (SPISCan) du Centre météorologique canadien (CMC)
 En date du mercredi 3 juillet 2019, le Centre météorologique canadien (CMC) va procéder à la mise à jour du Système de prévision interannuelle et saisonnière canadien (SPISCan) vers la version 2.
 
 Les modifications majeures du SPISCan dans cette mise à jour sont dans la composante prévision
@@ -74,8 +68,7 @@ Une note technique avec plus de détails sur ces changements [est disponible sur
 
 ## Le mardi 21 juin 2016
 
-### Mise à jour du Système de prévision interannuelle et saisonnière canadien (SPISCan) du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système de prévision interannuelle et saisonnière canadien (SPISCan) du Centre météorologique canadien (CMC)
 Le mardi 21 juin 2016, le Centre météorologique canadien (CMC) va procéder à une mise à jour de son Système de prévision interannuelle et saisonnière canadien (SPISCan).
 
 Dans cette mise à jour les analyses océaniques 3D utilisées par le modèle océanique de SPISCan proviendront du Système global de prévision océan-glace (SGPOG) 2.1. Les analyses de SGPOG remplacent les analyses GODAS provenant du centre NCEP qui étaient utilisées auparavant.
@@ -85,15 +78,13 @@ La note officielle annonçant ce changement est disponible [en cliquant ici](htt
 
 ## Le mardi 23 juillet 2013
 
-### Ajustement à l'analyse de température de la mer (GODAS) utilisée par SPISCan
-
+#### Ajustement à l'analyse de température de la mer (GODAS) utilisée par SPISCan
 Le mardi 23 juillet 2013 le CMC a apporté un ajustement à l'analyse GODAS de la temperature de la mer utilisée par SPISCan. Cela a été rendu nécessaire car le 16 juillet 2013, les données GODAS arrivant à SPISCan avaient été interrompues. Un certain nombre de mesures ont été prises pour rétablir ce flux de donnees GODAS. En conséquence, l'accès à l'analyse de GODAS quotidien a été corrigé et rétabli le 23 Juillet 2013, avec la mise en place des analyses corrigées du 17-21 Juillet 2013. Il était prévu qu'à partir du 23 Juillet 2013, que la séquence normale pour l'importation et l'assimilation des données GODAS sera de retour à la normal à partir du 24 Juillet 2013.
 
 
 ## Le jeudi 1er décembre 2011
 
-### Le CMC introduit le système SPSICan de prévision mensuelle et saisonnière
-
+#### Le CMC introduit le système SPSICan de prévision mensuelle et saisonnière
 Le 1er décembre 2011, le Centre Météorologique Canadien a commencé à émettre des produits avec son nouveau système couplé de prévision multi-saison globale pour produire ses prévisions mensuelles et saisonnières de conditions climatiques.
 
 Ce nouveau système s'appelle SPISCan (Système de Prévision Interannuelle et Saisonnière Canadien).

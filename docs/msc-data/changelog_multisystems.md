@@ -5,8 +5,7 @@
 
 ## Le mardi 14 avril 2026
 
-### Nouvelle infrastructure de calcul haute performance
-
+#### Nouvelle infrastructure de calcul haute performance
 Un projet majeur de migration vers une nouvelle infrastructure de super-informatique utilisée par le Service météorologique du Canada a été effectué avec succès le 14 avril 2026. Cette migration a été le résultat d'un effort conjoint et soutenu pendant plusieurs mois par des experts du Centre météorologique canadien, de la branche des sciences et de la technologie et de Services partagés Canada.
 
 Au cours des prochaines années, cette mise à jour importante permettra d'autres transferts technologiques de la recherche et du développement vers les opérations, comme la mise en oeuvre d'approches innovatives basées sur l’intelligence artificielle. De telles mises à niveau sont essentielles afin de fournir une amélioration continue des services de prévisions numériques du temps et de l’environnement à la population canadienne, aux agences gouvernementales et autres partenaires.
@@ -15,8 +14,7 @@ La note officielle annonçant ce changement est disponible via [ce lien](https:/
 
 ## Le mardi 28 juin 2022
 
-### Nouvelle infrastructure de calcul haute performance
-
+#### Nouvelle infrastructure de calcul haute performance
 Un projet majeur de migration vers une nouvelle infrastructure de superinformatique utilisée par le Service météorologique du Canada a été effectué avec succès le 28 juin 2022. Cette migration a été le résultat d'un effort conjoint et soutenu pendant plusieurs mois par des experts du Centre météorologique canadien, de la branche des sciences et de la technologie et de Services partagés Canada.
 
 Au cours des prochaines années, cette mise à niveau importante permettra d'autres transferts technologiques de la recherche et du développement vers les opérations, ce qui favorisera l'amélioration continue des services de prévisions météorologiques et environnementales offerts aux Canadiens et aux autres organismes, utilisateurs et partenaires des gouvernements fédéral et provinciaux.
@@ -25,8 +23,7 @@ La note officielle annonçant ce changement est disponible via [ce lien](https:/
 
 ## Le mardi 21 janvier 2020
 
-### Nouvelle infrastructure de calcul haute performance
-
+#### Nouvelle infrastructure de calcul haute performance
 Un projet majeur de migration vers une nouvelle infrastructure de superinformatique utilisée par le Service météorologique du Canada a été effectué avec succès le 21 janvier 2020. Cette migration a été le résultat d'un effort conjoint et soutenu pendant plusieurs mois par des experts du Centre météorologique canadien, de la Direction des sciences et de la technologie et de Services partagés Canada.
 
 Au cours des prochaines années, cette mise à niveau importante permettra d'autres transferts technologiques de la recherche et du développement vers les opérations, ce qui favorisera l'amélioration continue des services de prévisions météorologiques et environnementales offerts aux Canadiens et aux autres organismes, utilisateurs et partenaires des gouvernements fédéral et provinciaux.
@@ -35,8 +32,7 @@ La note officielle annonçant ce changement est disponible via [ce lien](https:/
 
 ## Le jeudi 7 juin 2018
 
-### Remplacement du satellite GOES-13 par GOES-16 et remplacement du satellite Meteosat-10 par Meteosat-11
-
+#### Remplacement du satellite GOES-13 par GOES-16 et remplacement du satellite Meteosat-10 par Meteosat-11
 Le jeudi 7 juin 2018, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 6.0.0 de son système global de prévision déterministe (SGPD), de la version 4.3.0 de son système global de prévision d'ensemble (SGPE) et de la version 5.1.0 de son système régional de prévision déterministe (SRPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes :
@@ -52,8 +48,7 @@ La note officielle annonçant ce changement est disponible [en cliquant ici](htt
 
 ## Le jeudi 1 mars 2018
 
-### Remplacement des observations AMV du satellite Meteosat-10 par Meteosat-11
-
+#### Remplacement des observations AMV du satellite Meteosat-10 par Meteosat-11
 Le jeudi 1er mars 2018, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 6.0.0 de son système global de prévision déterministe (SGPD), de la version 4.3.0 de son système global de prévision d'ensemble (SGPE) et de la version 5.1.0 de son système régional de prévision déterministe (SRPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes :
@@ -64,8 +59,7 @@ La note officielle annonçant ce changement est disponible [en cliquant ici](htt
 
 ## Le mercredi 6 septembre 2017
 
-### Nouvelle infrastructure de calcul haute performance
-
+#### Nouvelle infrastructure de calcul haute performance
 La migration vers une nouvelle infrastructure de superinformatique utilisée par le Service météorologique du Canada a été effectuée avec succès le 6 septembre 2017. Cette migration a été le résultat de plusieurs mois d’efforts soutenus et conjoints de la part des artisans du Centre météorologique canadien, de la Direction générale des sciences et de la technologie et de Services partagés Canada.
 
 Notre capacité de calcul haute performance atteint maintenant le pétaflop (1015 flops), un niveau comparable à celui des principaux centres météorologiques mondiaux. Cette mise à jour majeure nous permettra dans les années à venir de transférer les technologiques de la recherche et du développement vers les opérations, soutenant ainsi l’amélioration en continue des services en prévisions météorologiques et environnementales offerts aux Canadiens et Canadiennes, aux agences gouvernementales fédérales et provinciales, ainsi qu’aux autres usagers et partenaires.
@@ -75,8 +69,7 @@ Un document avec des détails techniques à ce sujet est disponible via [ce lien
 
 ## Le mercredi 16 mars 2016
 
-### Remplacement du satellite MTSAT-2 par Himawari-8 ainsi que l'ajout des données AMV (de NPP) et ISS-RapidScat
-
+#### Remplacement du satellite MTSAT-2 par Himawari-8 ainsi que l'ajout des données AMV (de NPP) et ISS-RapidScat
 Le mercredi 16 mars 2016, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) procèdera à la mise en œuvre oprérationnelle de la version 5.1.0 de son système global de prévision déterministe (SGPD), de la version 4.2.0 de son système global de prévision d'ensemble (SGPE) et de la version 4.2.0 de son système régional de prévision déterministe (SRPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes :

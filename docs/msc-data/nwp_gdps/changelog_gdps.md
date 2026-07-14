@@ -4,8 +4,7 @@
 
 ## Le mardi 26 mai 2026
 
-### Mise à jour vers la version 10.0.0 du Système global de prévision déterministe (SGPD)  
- 
+#### Mise à jour vers la version 10.0.0 du Système global de prévision déterministe (SGPD)   
 Le mardi 26 mai 2026, à partir de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour le Système global de prévision déterministe (SGPD) vers la version 10.0.0.
 
 Changements importants : 
@@ -27,14 +26,12 @@ Le document des spécifications techniques est disponible [via ce lien](https:
 
 ## Le mardi 14 avril 2026
 
-### Mise à jour du SGPD à la version 9.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour du SGPD à la version 9.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 23 juillet 2025
 
-### Mise en œuvre d'un nouveau système de post-traitement statistique PROGNOS v1.0.0 du Système global de prévision déterministe (SGPD) 9.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise en œuvre d'un nouveau système de post-traitement statistique PROGNOS v1.0.0 du Système global de prévision déterministe (SGPD) 9.0.0 du Centre météorologique canadien (CMC)
 Le mercredi 23 juillet 2025, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle d'un nouveau système de post-traitement statistique : PROGNOS.
 
 Principal changement :
@@ -47,8 +44,7 @@ Le document des spécifications techniques de PROGNOS v1.0.0 est disponible [via
 
 ## Le jeudi 26 juin 2025
 
-### Ajout d'observations AMV provenant des satellites NOAA-21 et GOES19 dans le SGPD
-
+#### Ajout d'observations AMV provenant des satellites NOAA-21 et GOES19 dans le SGPD
 Le jeudi 26 juin 2025, à partir de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a déployé une mise à jour à la version 9.0.0 du Système global de prévision déterministe (SGPD).
 
 Seule la composante de l'assimilation des données a été modifiée avec:
@@ -57,8 +53,7 @@ Seule la composante de l'assimilation des données a été modifiée avec:
 
 ## Le mardi 17 juin 2025
 
-### Production et utilisation de listes d'autorisation dynamiques pour les observations de radiosondage, d'avions et de GNSS au sol dans le SGPD
-
+#### Production et utilisation de listes d'autorisation dynamiques pour les observations de radiosondage, d'avions et de GNSS au sol dans le SGPD
 Le mardi 17 juin 2025, à partir de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a déployé une mise à jour à la version 9.0.0 du Système global de prévision déterministe (SGPD).
 
 Seule la composante de l'assimilation des données a été modifiée avec:
@@ -68,8 +63,7 @@ Seule la composante de l'assimilation des données a été modifiée avec:
 
 ## Le lundi 26 mai 2025
 
-### Ajout des observations ATMS et CrIS du satellite NOAA-21 et des observations RARS-MWHS2 des satellites FY-3D et FY-3E dans le SGPD
-
+#### Ajout des observations ATMS et CrIS du satellite NOAA-21 et des observations RARS-MWHS2 des satellites FY-3D et FY-3E dans le SGPD
 Le lundi 26 mai 2025, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 9.0.0 de son Système global de prévision déterministe (SGPD).
 
 Seulement la composante d'assimilation des données a été modifiée afin d'ajouter les sources d’observations satellitaires suivantes:
@@ -79,8 +73,7 @@ Seulement la composante d'assimilation des données a été modifiée afin d'ajo
 
 ## Le mercredi 2 avril 2025
 
-### Mise à jour technique des systèmes d'assimilation atmosphérique
-
+#### Mise à jour technique des systèmes d'assimilation atmosphérique
 Le mercredi 2 avril 2025, à compter de la passe de 0600UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 9.0.0 de son Système global de prévision déterministe (SGPD).
 
 Seule la composante de l'assimilation des données a été modifiée avec:
@@ -90,8 +83,7 @@ Seule la composante de l'assimilation des données a été modifiée avec:
 
 ## Le lundi 3 mars 2025
 
-### Correction au traitement des observations TropOMI de colonne totale d'ozone 
-
+#### Correction au traitement des observations TropOMI de colonne totale d'ozone 
 Le lundi 3 mars 2025,  à compter de la passe de 0600UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 9.0.0 de son Système global de prévision déterministe (SGPD).
 
 Seule la composante de l'assimilation des données a été modifiée avec:
@@ -100,8 +92,7 @@ Seule la composante de l'assimilation des données a été modifiée avec:
 
 ## Le mercredi 23 octobre 2024
 
-### Ajout de nouvelles sources d’observations satellitaires dans le SGPD
-
+#### Ajout de nouvelles sources d’observations satellitaires dans le SGPD
 Le mercredi 23 octobre 2024, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 9.0.0 de son Système global de prévision déterministe (SGPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'ajouter les sources d’observations satellitaires suivantes:
@@ -111,8 +102,7 @@ Seulement la composante de l'assimilation des données a été modifiée afin d'
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour du Système global de prévision déterministe (SGPD) 9.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système global de prévision déterministe (SGPD) 9.0.0 du Centre météorologique canadien (CMC)
 Le mardi 11 juin 2024, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 9.0.0 de son Système global de prévision déterministe (SGPD).
 
 Principaux changements :
@@ -134,8 +124,7 @@ Le document des spécifications techniques du SGPD v9.0.0 est disponible [via ce
 
 ## Le jeudi 2 novembre 2023
 
-### Ajout des observations CSR du satellite GOES-18 dans le SGPD
-
+#### Ajout des observations CSR du satellite GOES-18 dans le SGPD
 Le jeudi 2 novembre 2023, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 8.1.1 de son Système global de prévision déterministe (SGPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -144,8 +133,7 @@ Ajout des radiances infrarouges CSR (Clear-Sky Radiance) du satellite GOES-18.
 
 ## Le jeudi 14 septembre 2023
 
-### Ajout d’observations commerciales GNSS-RO de PlanetIQ dans le SGPD
-
+#### Ajout d’observations commerciales GNSS-RO de PlanetIQ dans le SGPD
 Le jeudi 14 septembre 2023, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 8.1.1 de son Système global de prévision déterministe (SGPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -154,8 +142,7 @@ Ajout des observations commerciales GNSS-RO (Global Navigation Satellite System 
 
 ## Le mercredi 5 juillet 2023
 
-### Ajout d’observations commerciales GNSS-RO de Spire dans le SGPD
-
+#### Ajout d’observations commerciales GNSS-RO de Spire dans le SGPD
 Le mercredi 5 juillet 2023, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 8.1.1 de son Système global de prévision déterministe (SGPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -164,8 +151,7 @@ Ajout des observations commerciales GNSS-RO (Global Navigation Satellite System 
 
 ## Le mercredi 8 mars 2023
 
-### Correction au contrôle de qualité des observations d'épaisseur de neige provenant des stations automatiques canadiennes dans le SGPD
-
+#### Correction au contrôle de qualité des observations d'épaisseur de neige provenant des stations automatiques canadiennes dans le SGPD
 Le mercredi 8 mars 2023, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 8.1.1 de son Système global de prévision déterministe (SGPD).
 
 Une modification au contrôle de qualité des observations d'épaisseur de neige provenant des stations automatiques canadiennes utilisée dans l'analyse de neige a été installée dans le SGPD.
@@ -176,8 +162,7 @@ La note officielle annonçant ce changement est disponible [via ce lien](https:/
 
 ## Le mercredi 15 février 2023
 
-### Ajout des observations GPSRO du satellite Sentinel-6A dans le SGPD
-
+#### Ajout des observations GPSRO du satellite Sentinel-6A dans le SGPD
 Le mercredi 15 février 2023, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 8.1.0 de son Système global de prévision déterministe (SGPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -186,8 +171,7 @@ Ajout des observations GPSRO (Global Positioning System Radio Occultation) du sa
 
 ## Le mercredi 4 janvier 2023
 
-### Remplacement des vecteurs vents dérivés à partir d’images satellites (Atmospheric Motion wind Vector) de GOES-17 par ceux de GOES-18 dans le SGPD
-
+#### Remplacement des vecteurs vents dérivés à partir d’images satellites (Atmospheric Motion wind Vector) de GOES-17 par ceux de GOES-18 dans le SGPD
 Le mercredi 4 janvier 2023, à compter de la passe de 1800 UTC, le centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 8.1.0 de son Système global de prévision déterministe (SGPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -196,8 +180,7 @@ Remplacement des vecteurs vents dérivés à partir d’images satellites proven
 
 ## Le jeudi 3 novembre 2022
 
-### Ajout des observations de surface provenant des bateaux en format BUFR dans le SGPD
-
+#### Ajout des observations de surface provenant des bateaux en format BUFR dans le SGPD
 Le jeudi 3 novembre 2022, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 8.1.0 de son Système global de prévision déterministe (SGPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -206,14 +189,12 @@ Ajout des observations de surface provenant des bateaux en format BUFR (Binary U
 
 ## Le mardi 28 juin 2022
 
-### Mise à jour du SGPD à la version 8.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour du SGPD à la version 8.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 16 février 2022
 
-### Ajout des observations GPSRO des satellites GRACE-C et GRACE-D dans le SGPD
-
+#### Ajout des observations GPSRO des satellites GRACE-C et GRACE-D dans le SGPD
 Le mercredi 16 février 2022, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 8.0.0 de son système global de prévision déterministe (SGPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -222,8 +203,7 @@ Ajout des observations GPSRO (Global Positioning System Radio Occultation) des s
 
 ## Le mercredi 1er décembre 2021
 
-### Mise à jour du Système global de prévision déterministe (SGPD) 8.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système global de prévision déterministe (SGPD) 8.0.0 du Centre météorologique canadien (CMC)
 Le mercredi 1er décembre 2021, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 8.0.0 de son Système global de prévision déterministe (SGPD).
 
 Un résumé des innovations incluses dans cette mise à jour ainsi que de leurs impacts sur la performance du système est disponible ici: [SGPD_8.0.0_innovations](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/fact_sheets/factsheet_gdps-800_f.pdf). Pour une description complète veiullez consulter la [Note technique](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_notes/technote_gdps-800_f.pdf).
@@ -236,8 +216,7 @@ Notes :
 
 ## Le mardi 26 janvier 2021
 
-### Ajout et remplacement d’observations de radiances satellitaires
-
+#### Ajout et remplacement d’observations de radiances satellitaires
 Le mardi 26 janvier 2021, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 7.1.0 de son système global de prévision déterministe (SGPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure et de substituer les observations suivantes:
@@ -247,8 +226,7 @@ Seulement la composante de l'assimilation des données a été modifiée afin d'
 
 ## Le mardi 8 décembre 2020
 
-### Ajouts d’observations de radiances satellitaires
-
+#### Ajouts d’observations de radiances satellitaires
 Le mardi 8 décembre 2020, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 7.1.0 de son système global de prévision déterministe (SGPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -259,8 +237,7 @@ Seulement la composante de l'assimilation des données a été modifiée afin d'
 
 ## Le vendredi 26 juin 2020
 
-### Ajout des observations GPSRO des satellites COSMIC-II
-
+#### Ajout des observations GPSRO des satellites COSMIC-II
 Le vendredi 26 juin 2020, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 7.1.0 de son système global de prévision déterministe (SGPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -269,8 +246,7 @@ Ajout des observations GPSRO (Global Positioning System Radio Occultation) des s
 
 ## Le mercredi 29 avril 2020
 
-### Ajout des observations GPSRO des satellites PAZ et KOMPSAT-5
-
+#### Ajout des observations GPSRO des satellites PAZ et KOMPSAT-5
 Le mercredi 29 avril 2020, à compter de la passe de 0000 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 7.1.0 de son système global de prévision déterministe (SGPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -279,8 +255,7 @@ Ajout des observations GPSRO (Global Positioning System Radio Occultation) des s
 
 ## Le mardi 28 avril 2020
 
-### Ajout des observations AMV du satellite MetOp-3/C
-
+#### Ajout des observations AMV du satellite MetOp-3/C
 Le mardi 28 avril 2020, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) a procédé à une mise à jour de la version 7.1.0 de son système global de prévision déterministe (SGPD).
 
 Seulement la composante de l'assimilation des données a été modifiée afin d'inclure les observations suivantes:
@@ -289,15 +264,13 @@ Ajout des observations AMV (Atmospheric Motion Vector) du satellite MetOp-3/C.
 
 ## Le mardi 21 janvier 2020
 
-### Mise à jour du GDPS à la version 7.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour du GDPS à la version 7.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 
 ## Le mardi 23 juillet 2019
 
-### Ajout d'observations satellitaires dans les systèmes de prévision suivants du Centre météorologique canadien (CMC): Le système global de prévision déterministe (SGPD)
-
+#### Ajout d'observations satellitaires dans les systèmes de prévision suivants du Centre météorologique canadien (CMC): Le système global de prévision déterministe (SGPD)
 Le mardi 23 juillet 2019, à compter de la passe de 0600 UTC, le Centre météorologique canadien (CMC) a procédé à une mise à jour du système global de prévision déterministe (SGPD).
 
 Les composantes d'assimilation de données du SGPD ont été modifiées pour utiliser des observations supplémentaires dans sept familles d'observations. Toutes ces familles étaient déjà utilisées, ces ajouts observations visent principalement à augmenter la robustesse des systèmes d'assimilation.
@@ -308,8 +281,7 @@ Les détails de cette mise à jour sont disponibles dans la [note officielle ann
 
 ## Le mercredi 3 juillet 2019
 
-### Mise à jour du Système global de prévision déterministe (SGPD) 7.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système global de prévision déterministe (SGPD) 7.0.0 du Centre météorologique canadien (CMC)
 Le mercredi 3 juillet 2019, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 7.0.0 de son Système global de prévision déterministe (SGPD).
 Résumé des éléments majeurs que comporte cette mise à jour :
 
@@ -333,8 +305,7 @@ Notes:
 
 ## Le mardi 18 septembre 2018
 
-### Mise à jour du Système global de prévision déterministe (SGPD) 6.1.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système global de prévision déterministe (SGPD) 6.1.0 du Centre météorologique canadien (CMC)
 Le mardi 18 septembre 2018, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 6.1.0 de son Système global de prévision déterministe (SGPD).
 Résumé des éléments majeurs que comporte cette mise à jour :
 
@@ -354,8 +325,7 @@ Notes:
 
 ## Le mercredi 1er novembre 2017
 
-### Mise à jour majeure du Système global de prévision déterministe (SGPD) 6.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour majeure du Système global de prévision déterministe (SGPD) 6.0.0 du Centre météorologique canadien (CMC)
 Le mercredi 1er novembre 2017, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 6.0.0 de son Système global de prévision déterministe (SGPD).
 Résumé des éléments majeurs que comporte cette mise à jour :
 
@@ -372,8 +342,7 @@ Notes:
 
 ## Le mardi 15 décembre 2015
 
-### Mise à jour majeure du système global de prévision déterministe (SGPD) 5.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour majeure du système global de prévision déterministe (SGPD) 5.0.0 du Centre météorologique canadien (CMC)
 Le mardi 15 décembre 2015, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 5.0.0 de son système global de prévision déterministe (SGPD).
 Résumé des éléments majeurs que comporte cette mise à jour :
 
@@ -399,8 +368,7 @@ Notes:
 
 ## Le mardi 18 novembre 2014
 
-### Mise à jour majeure du système global de prévision déterministe (SGPD version 4.0.0) du Centre météorologique canadien (CMC)
-
+#### Mise à jour majeure du système global de prévision déterministe (SGPD version 4.0.0) du Centre météorologique canadien (CMC)
 Le mardi 18 novembre 2014, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 4.0.0 de son système global de prévision déterministe (SGPD).
 Résumé des éléments majeurs que comporte cette mise à jour :
 
@@ -422,8 +390,7 @@ Notes:
 
 ## Le mardi 6 mai 2014
 
-### Incorporation des observations IASI de METOP-B/1 aux données operationnelles des systèmes SGPD
-
+#### Incorporation des observations IASI de METOP-B/1 aux données operationnelles des systèmes SGPD
 Le 30 avril, à partir de la passe du champs d'essai de 0600 UTC du système global de prévisions déterministes (SGPD), le Centre meteorologique canadien (CMC) d'environnement Canada a ajouté les observations de radiances de l'instrument IASI du satellite METOP-B/1 au système d'assimilation de données opérationnel. Cet instrument (IASI) est le dernier du satellite METOP-B/1 à faire l'objet d'une mise en œuvre opérationnelle.
 
 Motivation pour l'incorporation des observations IASI de METOP-B/1 aux données opérationnelles du SGPD :
@@ -437,8 +404,7 @@ Vous pouvez accéder à la page du SGPD [en cliquant ici](readme_gdps.md).
 
 ## Le jeudi 7 novembre 2013
 
-### Ajout de données satellitaires additionnelles (CSR, ATOVS, vents polaires) au système d'assimilation du SGPD
-
+#### Ajout de données satellitaires additionnelles (CSR, ATOVS, vents polaires) au système d'assimilation du SGPD
 Le jeudi 7 novembre 2013 à partir de la prévision produite des données de 12Z, des données satellitaires additionnelles ont été ajoutées au système d'assimilation de données du Système global de prévision déterministe (SGPD).
 
 Les changements incluent: l'ajout des radiances CSR (radiance en ciel clair) de MétéoSat10, l'ajout des radiances ATOVS de Metop-B et des vents polaires AVHRR de Metop-B.
@@ -449,12 +415,10 @@ Avec l'installation de tous ces changements, le SGPD opérationnel devient donc 
 
 ## Le lundi 12 août 2013
 
-### Matrices globales Scribes maintenant disponibles environ 30 minutes plus tôt.
-
+#### Matrices globales Scribes maintenant disponibles environ 30 minutes plus tôt.
 ## Le mercredi, 13 février 2013
 
-### Mise à jour majeure du système global de prévision déterministe (SGPD) version 3.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour majeure du système global de prévision déterministe (SGPD) version 3.0.0 du Centre météorologique canadien (CMC)
 Le mercredi 13 février 2013, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 3.0.0 de son système global de prévision déterministe (SGPD). Cette nouvelle version amène une augmentation de la résolution de 33 à 25 km, incorpore un système d'assimilation 4D-VAR. Ceci résulte en une amélioration notable des prévisions, notamment pour l'hiver.
 
 Dans cette version une coordonnée vertical hybride décalée est utilisée. De l'[information au sujet de cette coordonnée est disponible dans cette courte note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/HybridVerticalCoordinateDefinitions_20130213.pdf) ainsi que sur [cette image](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/VerticalCoordinatesDiagram_afsysed_20130213.jpg).
@@ -470,8 +434,7 @@ Notes:
 
 ## Le mercredi 16 novembre 2011
 
-### Améliorations apportées au système global de prévision déterministe (SGPD v 2.2.0) du Centre Météorologique Canadien.
-
+#### Améliorations apportées au système global de prévision déterministe (SGPD v 2.2.0) du Centre Météorologique Canadien.
 À partir du cycle d'assimilation de 06 UTC le 16 novembre 2011, le Centre Météorologique Canadien (CMC) implantera des changements aux systèmes d'assimilation global et régional en y ajoutant des données satellitaires et en introduisant une nouvelle analyse de température de la surface de la mer.
 
 Voici un sommaire des changements apportés au système d'assimilation déterministe global

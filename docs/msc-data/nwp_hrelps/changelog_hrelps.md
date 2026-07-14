@@ -4,14 +4,12 @@
 
 ## Le jeudi 1er mai 2025
 
-### Le Système de prévision d'ensemble à haute résolution de la surface terrestre (SPEHRS) est déclaré opérationnel au Centre météorologique canadien (CMC)
-
+#### Le Système de prévision d'ensemble à haute résolution de la surface terrestre (SPEHRS) est déclaré opérationnel au Centre météorologique canadien (CMC)
 En date du 1er mai 2025, le Centre météorologique canadien (CMC) du Service météorologique du Canada déclare opérationnel le Système de prévision d'ensemble à haute résolution de la surface terrestre (SPEHRS, v1.2.2).
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour du Système de prévision d'ensemble à haute résolution de la surface terrestre (SPEHRS) 1.2.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système de prévision d'ensemble à haute résolution de la surface terrestre (SPEHRS) 1.2.0 du Centre météorologique canadien (CMC)
 Le mardi 11 juin 2024, à compter de la passe 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 1.2.0 de son Système de prévision d'ensemble à haute résolution de la surface terrestre (SPEHRS).
 
 Principaux changements :

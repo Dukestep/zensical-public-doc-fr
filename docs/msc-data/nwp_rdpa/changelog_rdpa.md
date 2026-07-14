@@ -4,14 +4,12 @@
 
 ## Le mardi 14 avril 2026
 
-### Mise à jour de l'ARPD à la version 6.1.0 suite à la nouvelle infrastructure de calcul haute performance.
-
+#### Mise à jour de l'ARPD à la version 6.1.0 suite à la nouvelle infrastructure de calcul haute performance.
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 11 septembre 2024
 
-### Retrait temporaire des observations du réseau Fire Weather (OMNRF) du système d'assimilation de l'Analyse régionale déterministe de précipitation (ARDP) au Centre météorologique canadien (CMC)
-
+#### Retrait temporaire des observations du réseau Fire Weather (OMNRF) du système d'assimilation de l'Analyse régionale déterministe de précipitation (ARDP) au Centre météorologique canadien (CMC)
 À compter du 11 septembre 2024, les observations du réseau Fire Weather du ministère des Richesses naturelles et des Forêts de l'Ontario (OMNRF) ont été temporairement retirées de l'ensemble des observations assimilées dans l'Analyse régionale déterministe de précipitation (ARDP). Cette mise à jour est effective à 06UTC pour l'analyse finale et à 12UTC pour l'analyse préliminaire.
 
 Cette mise à jour était nécessaire pour éviter l'impact de certaines observations erronées du réseau OMNRF sur l'ARDP finale sur certaines régions du sud de l'Ontario - en particulier dans les régions de Kingston-Ottawa et Huron-Erie. Cela n'a qu'un impact mineur sur la performance du système, puisque dans la plupart des cas, les lacunes sont correctement comblées par les observations des autres réseaux, en particulier les jauges synoptiques, ainsi que les QPE radar et satellite.
@@ -20,8 +18,7 @@ Une enquête est en cours pour identifier les stations problématiques et les ex
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour de l'Analyse régionale déterministe de précipitation (ARDP) 6.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour de l'Analyse régionale déterministe de précipitation (ARDP) 6.0.0 du Centre météorologique canadien (CMC)
 Le mardi 11 juin 2024, à compter de la passe 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 6.0.0 de son Analyse régionale déterministe de précipitation (ARDP).
 
 Principaux changements :
@@ -38,8 +35,7 @@ Une note technique à ce sujet est disponible [via ce lien](https://collaboratio
 
 ## Le mercredi 3 mai 2023
 
-### Mise à jour de ARDP suite au remplacement de GOES-17 par GOES-18
-
+#### Mise à jour de ARDP suite au remplacement de GOES-17 par GOES-18
 Depuis le 4 janvier 2023 à 18Z, le satellite GOES-18 a pris le relais du satellite GOES-17 en tant que satellite occidental opérationnel. Au sein du système opérationnel ARDP, les observations du satellite GOES sont utilisées pour effectuer une partie du post-traitement des estimés de précipitation radar. En particulier, les données GOES sont utilisées pour créer un masque de nuages afin de nettoyer les données radar.
 
 Depuis la disparition du satellite GOES-17 le 4 janvier, le système ARDP s'est appuyé sur le champ NT du modèle de prévision SRPD pour construire le masque de nuages. Cette solution de contingence a permis d'effectuer le post-traitement des estimés de précipitation radar, mais avec une fiabilité moindre qu'avec les données GOES.
@@ -48,14 +44,12 @@ Afin d'optimiser de nouveau le post-traitement des estimés de précipitation ra
 
 ## Le mardi 28 juin 2022
 
-### Mise à jour de ARDP à la version 5.3.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour de ARDP à la version 5.3.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 1er décembre 2021
 
-### Mise à jour vers la version 5.2.0 du système d'Analyse régionale déterministe de précipitation (CaPA-ARDP) au Centre météorologique canadien
-
+#### Mise à jour vers la version 5.2.0 du système d'Analyse régionale déterministe de précipitation (CaPA-ARDP) au Centre météorologique canadien
 Le mercredi 1er décembre 2021, le Centre météorologique canadien (CMC) mettra à jour son système d'Analyse régionale déterministe de précipitation (CaPA-ARDP (10km)) à la version 5.2.0.
 
 Les modifications incluses dans cette mise à jour sont résumées comme suit :
@@ -74,8 +68,7 @@ Le document des spécifications techniques du ARDP v5.2.0 est disponible [via ce
 
 ## Le mercredi 9 juin 2021
 
-### Mise à jour vers la version 5.0.0 du système d'Analyse régionale déterministe de précipitation (CaPA-ARDP) au Centre météorologique canadien (CMC)
-
+#### Mise à jour vers la version 5.0.0 du système d'Analyse régionale déterministe de précipitation (CaPA-ARDP) au Centre météorologique canadien (CMC)
 Le mercredi 9 juin 2021, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour son système d'Analyse régionale déterministe de précipitation (CaPA-ARDP) à la version 5.0.0.
 
 Les modifications incluses dans cette mise à jour sont résumées comme suit :
@@ -95,14 +88,12 @@ Une note technique avec plus de détails sur ces changements est disponible via 
 
 ## Le mardi 21 janvier 2020
 
-### Mise à jours de CaPA-ARDP à la version 4.7.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jours de CaPA-ARDP à la version 4.7.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 3 juillet 2019
 
-### Mise en œuvre de la version 4.6.0 du système d'Analyse Régionale Déterministe de Précipitation (CaPA-ARDP) au Centre météorologique canadien (CMC)
-
+#### Mise en œuvre de la version 4.6.0 du système d'Analyse Régionale Déterministe de Précipitation (CaPA-ARDP) au Centre météorologique canadien (CMC)
 Le mercredi 3 juillet 2019, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) mettra à jour le système d'Analyse Régionale Déterministe de Précipitation (CaPA-ARDP) en le faisant passer à la version 4.6.0.
 
 Résumé des changements :
@@ -115,8 +106,7 @@ Une copie de la note officielle annonçant ce changement [est disponible via ce 
 
 ## Le mardi 18 septembre, 2018
 
-### Mise à jour vers la version 4.5.0 du système d'analyse régionale déterministe de précipitation (CaPA-ARDP) au Centre météorologique canadien (CMC)
-
+#### Mise à jour vers la version 4.5.0 du système d'analyse régionale déterministe de précipitation (CaPA-ARDP) au Centre météorologique canadien (CMC)
 Le mardi 18 septembre 2018,  à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour son système d'analyses régionales déterministes de précipitation (CaPA-ARDP) à la version 4.5.0.
 
 Les modifications incluses dans cette mise à jour sont résumées comme suit :
@@ -138,8 +128,7 @@ Une note technique avec plus de détails sur ces changements est disponible via 
 
 ## Le mercredi 9 novembre 2016
 
-### Mise à jour du système d'analyse régionale déterministe de précipitation (CaPA-ARDP version 4.0.0) au Centre météorologique canadien (CMC)
-
+#### Mise à jour du système d'analyse régionale déterministe de précipitation (CaPA-ARDP version 4.0.0) au Centre météorologique canadien (CMC)
 Le mercredi 09 novembre 2016 à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour son système d'analyse régionale déterministe de précipitation (CaPA-ARDP) en remplaçant la version CaPA-ARDP-3.2.0 par la version 4.0.0. Cette nouvelle version assimile des observations de précipitation provenant de deux réseaux de stations nouvellement disponibles au CMC. Des pseudo-observations de 0 mm déduites du réseau METAR américain sont ajoutées au jeu d'observations soumis au système. Cette nouvelle version assimile aussi 33 radars météorologiques américains ajoutés à la présente composite des quantités de précipitation estimées (QPE). Toutes ces modifications permettent de produire une meilleure analyse de précipitation.
 
 Une copie de la note officielle annonçant ce changement [est disponible via ce lien](http://dd.meteo.gc.ca/doc/genots/2016/11/09/NOCN03_CWAO_091420___00557).
@@ -149,8 +138,7 @@ Une note technique à ce sujet [est disponible via ce lien](https://collaboratio
 
 ## Le mardi 15 décembre 2015
 
-### Mise à jour du système d'analyse régionale déterministe de précipitation (CaPA-ARDP version 3.2.0) au Centre météorologique canadien (CMC)
-
+#### Mise à jour du système d'analyse régionale déterministe de précipitation (CaPA-ARDP version 3.2.0) au Centre météorologique canadien (CMC)
 Le mardi 15 décembre 2015,  à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour son système d'analyse régionale déterministe de précipitation (CaPA-ARDP) en remplaçant la version CaPA-ARDP-3.1.0 par la version 3.2.0. Cette nouvelle version corrigera deux problèmes mineurs : Un au niveau du traitement des relevès de précipitation et un second qui affecte l'encodage en GRIB2 en ajoutant un masque pour bien représenter les zones "No-Data".
 
 Une copie de la note officielle annonçant ce changement [est disponible via ce lien](http://dd.meteo.gc.ca/doc/genots/2015/12/10/NOCN03_CWAO_102100___00779).
@@ -160,8 +148,7 @@ Un feuillet d'information à ce sujet [est disponible via ce lien](https://colla
 
 ## Le mercredi 03 juin 2015
 
-### Mise à jour du système d'analyse régionale déterministe de précipitation (ARDP version 3.1.0) au Centre météorologique canadien (CMC)
-
+#### Mise à jour du système d'analyse régionale déterministe de précipitation (ARDP version 3.1.0) au Centre météorologique canadien (CMC)
 Le mercredi 03 juin 2015,  à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour son système d'analyse régionale déterministe de précipitation (ARDP) en remplaçant la version CaPA-ARDP-3.0.0 par la version 3.1.0. Cette nouvelle version favorisera principalement l'assimilation d'un nombre accru d'observations de précipitation solide.
 
 Une copie de la note officielle annonçant ce changement [est disponible via ce lien](http://dd.meteo.gc.ca/doc/genots/2015/06/03/NOCN03_CWAO_031904___00791).
@@ -171,8 +158,7 @@ Un feuillet d'information à ce sujet [est disponible via ce lien](https://colla
 
 ## Le mardi 18 novembre 2014
 
-### Mise à jour majeure du système d'analyse régionale déterministe de précipitations (ARDP version 3.0.0) au Centre météorologique Canadien (CMC)
-
+#### Mise à jour majeure du système d'analyse régionale déterministe de précipitations (ARDP version 3.0.0) au Centre météorologique Canadien (CMC)
 Le mardi 18 novembre 2014, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 3.0.0 de son système d'analyse régionale déterministe de précipitations (ARDP). Ci-dessous les changements les plus importants:
 
 * Cette version assimilera une source importante d'information supplémentaire, soit les quantités de précipitation estimées (QPE) par les radars météorologiques canadiens.
@@ -185,12 +171,10 @@ Un feuillet d'information à ce sujet [est disponible via ce lien](https://colla
 
 ## Le mardi 20 août 2013
 
-### Mise en place de la version 2.4 de CaPA (ARDP)
-
+#### Mise en place de la version 2.4 de CaPA (ARDP)
 ## Le mercredi 3 octobre 2012
 
-### Améliorations au système d'analyse régionale déterministe de précipitations (ARDP version 2.3.0) au Centre météorologique Canadien (CMC)
-
+#### Améliorations au système d'analyse régionale déterministe de précipitations (ARDP version 2.3.0) au Centre météorologique Canadien (CMC)
 Le mercredi 3 octobre 2012, débutant avec la passe de 1200 UTC, le Centre météorologique Canadien (CMC) mettra à jour son système d'analyse régionale déterministe de précipitations avec la version 2.3.0 (ARDP-230).
 
 Cette mise à jour se fait conjointement avec celle du nouveau système régional de prévision déterministe version 3.0.0 qui fournira au système ARDP un champ d'essai à plus haute résolution. [Des informations sur les changements au SRPD-300 sont disponibles via ce lien en cliquant ici](../nwp_rdps/changelog_rdps.md).

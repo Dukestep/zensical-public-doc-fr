@@ -4,8 +4,7 @@
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour du Système de prévision hydrologique déterministe (SPHD) 3.5.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système de prévision hydrologique déterministe (SPHD) 3.5.0 du Centre météorologique canadien (CMC)
 Le mardi 11 juin 2024, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 3.5.0 de son Système de prévision hydrologique déterministe (SPHD).
 
 Principaux changements :
@@ -25,8 +24,7 @@ Le document des spécifications techniques du SPHD v3.5.0 est disponible [via ce
 
 ## Le mercredi 21 juin 2023
 
-### Mise à jour du Système de prévision hydrologique déterministe (SPHD) 3.4.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système de prévision hydrologique déterministe (SPHD) 3.4.0 du Centre météorologique canadien (CMC)
 Le mercredi 21 juin 2023, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) a procéder à la mise en œuvre opérationnelle de la version 3.4.0 de son Système de prévision hydrologique déterministe (SPHD).  
 
 Principaux changements :
@@ -45,14 +43,12 @@ Le document des spécifications techniques du SPHD v3.4.0 est disponible [via ce
 
 ## Le mardi 28 juin 2022
 
-### Mise à jour du SPHD à la version 3.2.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour du SPHD à la version 3.2.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 1er décembre 2021
 
-### Mise à jour du Système de prévision hydrologique déterministe (SPHD) 3.1.0 du Centre météorologique canadien
-
+#### Mise à jour du Système de prévision hydrologique déterministe (SPHD) 3.1.0 du Centre météorologique canadien
 En date du mercredi 1er décembre 2021, le Centre météorologique canadien (CMC) va procéder à la mise à jour du Système de prévision hydrologique déterministe (SPHD) vers la version 3.1.0.
 
 La note officielle annoncant cette implantation est disponible en cliquant [via ce lien](https://dd.meteo.gc.ca/doc/genots/2021/11/26/NOCN03_CWAO_262118___50159).

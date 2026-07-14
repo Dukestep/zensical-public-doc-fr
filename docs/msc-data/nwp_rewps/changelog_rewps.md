@@ -4,14 +4,12 @@
 
 ## Le mardi 14 avril 2026
 
-### Mise à jour du SRPEV à la version 1.8.0 suite à la nouvelle infrastructure de calcul haute performance.
-
+#### Mise à jour du SRPEV à la version 1.8.0 suite à la nouvelle infrastructure de calcul haute performance.
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour du  Système régional de prévision d'ensemble de vague (SRPEV) 1.7.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du  Système régional de prévision d'ensemble de vague (SRPEV) 1.7.0 du Centre météorologique canadien (CMC)
 Le mardi 11 juin 2024, à compter de la passe 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 1.7.0 de son Système régional de prévision d'ensemble de vague (SRPEV).
 
 Principaux changements :
@@ -29,16 +27,14 @@ Un document avec des détails techniques à ce sujet est disponible [via ce lien
 
 Le document des spécifications techniques du SRPEV est disponible [via ce lien](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_specifications/tech_specifications_REWPS_1.7.0_f.pdf).
 
-# Le mardi 28 juin 2022
+## Le mardi 28 juin 2022
 
-### Mise à jour du SRPEV à la version 1.6.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour du SRPEV à la version 1.6.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 1er décembre 2021
 
-### Mise à jour du Système régional de prévision d'ensemble de vague (SRPEV) 1.5.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système régional de prévision d'ensemble de vague (SRPEV) 1.5.0 du Centre météorologique canadien (CMC)
 Le mercredi 1er décembre 2021, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 1.5.0 de son Système régional de prévision d'ensemble de vague (SRPEV).
 
 Les modifications incluses dans cette mise à niveau sont résumées comme suit :
@@ -53,14 +49,12 @@ Notes :
 
 ## Le mardi 21 janvier 2020
 
-### Mise à jour du SRPEV à la version 1.4.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour du SRPEV à la version 1.4.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le lundi 4 mars 2019
 
-### Mise à jour du Système régional de prévision d'ensemble de vague (SRPEV) au Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système régional de prévision d'ensemble de vague (SRPEV) au Centre météorologique canadien (CMC)
 Le lundi 4 mars 2019, le Centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) va procéder à la mise en œuvre opérationnelle de la version 1.2.0 de son Système régional de prévision d'ensemble de vague (SRPEV).
 
 Le changement au SRPEV v1.2.0 comparativement aux précédents systèmes opérationnels est au niveau de l'analyse de glace en entrée. Celle-ci est remplacée par une prévision de glace provenant du [Système de prévision du cycle de l’eau (SPCE v2.0.0)](../nwp_wcps/changelog_wcps.md), qui est opérationnelle depuis le 4 mars 2019.
@@ -71,8 +65,7 @@ Le document des spécifications techniques pour le SRPEV 1.2.0 est disponible [v
 
 ## Le mercredi 4 avril 2018
 
-### Le nouveau Système régional de prévision d'ensemble de vague (SRPEV) est déclaré opérationnel au Centre météorologique canadien (CMC)
-
+#### Le nouveau Système régional de prévision d'ensemble de vague (SRPEV) est déclaré opérationnel au Centre météorologique canadien (CMC)
 En date du 4 avril 2018, le Centre météorologique canadien (CMC) du Service météorologique du Canada déclare opérationnel le nouveau Système régional de prévision d'ensemble de vague (SRPEV v1.0.0).
 
 La note officielle annonçant ce changement est disponible [via ce lien](https://dd.meteo.gc.ca/doc/genots/2018/04/03/NOCN03_CWAO_032022___00001).

@@ -4,8 +4,7 @@
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour du Système de prévision hydrologique ensembliste (SPHE) 1.3.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système de prévision hydrologique ensembliste (SPHE) 1.3.0 du Centre météorologique canadien (CMC)
 Le mardi 11 juin 2024, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 1.3.0 de son Système de prévision hydrologique ensembliste (SPHE).
 
 Principaux changements :

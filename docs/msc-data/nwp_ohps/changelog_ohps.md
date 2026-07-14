@@ -4,8 +4,7 @@
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour du Système de simulation hydrodynamique opérationnelle (SHOP) 3.4.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour du Système de simulation hydrodynamique opérationnelle (SHOP) 3.4.0 du Centre météorologique canadien (CMC)
 Le mardi 11 juin 2024, à compter de la passe 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 3.4.0 de son Système de simulation hydrodynamique opérationnelle (SHOP).
 
 Principaux changements :
@@ -23,16 +22,14 @@ Une note technique à ce sujet est disponible [via ce lien](https://collaboratio
 
 ## Le mercredi 20 septembre 2023
 
-### Le Système de simulation hydrodynamique opérationnelle (SHOP) 3.3.0 est déclaré opérationnel au Centre météorologique canadien
-
+#### Le Système de simulation hydrodynamique opérationnelle (SHOP) 3.3.0 est déclaré opérationnel au Centre météorologique canadien
 À compter du 20 septembre 2023, le Centre météorologique canadien (CMC) d'Environnement et Changement climatique Canada déclare opérationnel le Système de simulation hydrodynamique opérationnelle (SHOP v3.3.0), suite à sa période de statut expérimental depuis 2013.
 
 Une copie de la note officielle annonçant la mise en œuvre de ces changements est disponible [via ce lien](https://dd.meteo.gc.ca/doc/genots/2023/09/19/NOCN03_CWAO_191340___27844)
 
 ## Le jeudi 3 août 2023
 
-### Passage à la version 3.3.0 du Système de simulation hydrodynamique opérationnelle (SHOP) au Centre météorologique canadien
-
+#### Passage à la version 3.3.0 du Système de simulation hydrodynamique opérationnelle (SHOP) au Centre météorologique canadien
 À compter du 3 août 2023, le Centre météorologique canadien (CMC) d'Environnement et Changement climatique Canada met à jour le Système de simulation hydrodynamique opérationnelle (SHOP) à la version 3.3.0.
 
 Afin de préparer la demande de statut opérationnel de SHOP, les deux changements scientifiques suivants sont mis en œuvre dans cette version :
@@ -46,14 +43,12 @@ Le diagramme de dépendance mis à jour est disponible [via ce lien](https://col
 
 ## Le mardi 28 juin 2022
 
-### Mise à jour de SHOP à la version 3.1.0 suite à la nouvelle infrastructure de calcul haute performance 
-
+#### Mise à jour de SHOP à la version 3.1.0 suite à la nouvelle infrastructure de calcul haute performance 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 1er décembre 2021
 
-### Mise à jour du Système de simulation hydrodynamique opérationnelle (SHOP) 3.0.0 du Centre météorologique canadien
-
+#### Mise à jour du Système de simulation hydrodynamique opérationnelle (SHOP) 3.0.0 du Centre météorologique canadien
 En date du mercredi 1er décembre 2021, le Centre météorologique canadien (CMC) va procéder à la mise à jour du Système de simulation hydrodynamique opérationnelle (SHOP) vers la version 3.0.0.
 
 Les modifications au SHOP v3.0.0 comparativement au précédent système opérationnel sont résumées comme suit:
@@ -68,6 +63,5 @@ La note officielle annoncant cette implantation est disponible en cliquant [via 
 
 ## Le lundi 13 mai 2013
 
-### Le CMC implante version 1.0.0 du Système de simulation hydrodynamique opérationnel (SHOP)
-
+#### Le CMC implante version 1.0.0 du Système de simulation hydrodynamique opérationnel (SHOP)
 Le lundi 13 mai 2013, le CMC a implanté le système de simulation hydrodynamique opérationnel (SHOP) version 1.0.0 qui produira une fois par jour une analyse de la portion du fleuve St-Laurent entre le port de Montréal et Trois-Rivières. Vous pouvez consulter la page d'information de SHOP dans le guide de produits du CMC [via ce lien](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/submenus/shop_f.html) pour plus d'informations.

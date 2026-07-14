@@ -4,14 +4,12 @@
 
 ## Le mardi 14 avril 2026
 
-### Mise à jour de l'ARDQA à la version 2.3.0 suite à la nouvelle infrastructure de calcul haute performance.
-
+#### Mise à jour de l'ARDQA à la version 2.3.0 suite à la nouvelle infrastructure de calcul haute performance.
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour de l'Analyse régionale déterministe de qualité de l’air (ARDQA) version 2.2.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour de l'Analyse régionale déterministe de qualité de l’air (ARDQA) version 2.2.0 du Centre météorologique canadien (CMC)
 Le mardi 11 juin 2024, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 2.2.0 de son Analyse régionale déterministe de qualité de l’air (ARDQA).
 
 Principaux changements :
@@ -29,14 +27,12 @@ Le document des spécifications techniques du ARDQA 2.2.0 [est disponible ici](h
 
 ## Le mardi 28 juin 2022
 
-### Mise à jour de ARDQA à la version 2.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour de ARDQA à la version 2.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 1er décembre 2021
 
-### Mise à jour de l'Analyse régionale déterministe de qualité de l’air (ARDQA) version 2.0.0 du Centre météorologique canadien (CMC)
-
+#### Mise à jour de l'Analyse régionale déterministe de qualité de l’air (ARDQA) version 2.0.0 du Centre météorologique canadien (CMC)
 Le mercredi 1er décembre 2021, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 2.0.0 de son Analyse régionale déterministe de qualité de l’air (ARDQA).
 
 Résumé des innovations majeures:

@@ -4,14 +4,12 @@
 
 ## Le mardi 14 avril 2026
 
-### Mise à jour du SRPDQA à la version 25.1.0 suite à la nouvelle infrastructure de calcul haute performance.
-
+#### Mise à jour du SRPDQA à la version 25.1.0 suite à la nouvelle infrastructure de calcul haute performance.
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mardi 11 juin 2024
 
-### Mise à jour du Système régional de prévision déterministe de la qualité de l'air à la version 25
-
+#### Mise à jour du Système régional de prévision déterministe de la qualité de l'air à la version 25
 Le mardi 11 juin 2024, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour le Système régional de prévision déterministe de la qualité de l'air en remplaçant la version 24 par la version 25.
 
 
@@ -35,14 +33,12 @@ Une note technique du SRPDQA version 25 avec plus de détails sur ces changement
 
 ## Le mardi 28 juin 2022
 
-### Mise à jour de SRPDQA à la version 24 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jour de SRPDQA à la version 24 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 1er décembre 2021
 
-### Mise à jour du Système régional de prévision déterministe de la qualité de l'air
-
+#### Mise à jour du Système régional de prévision déterministe de la qualité de l'air
 Le mercredi 1er décembre 2021, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour le Système régional de prévision déterministe de la qualité de l'air en remplaçant la version 22 par la version 23.
 
 Résumé des éléments que comporte cette mise à jour:
@@ -67,14 +63,12 @@ Une note technique du SRPDQA version 23 avec plus de détails sur ces changement
 
 ## Le mardi 21 janvier 2020
 
-### Mise à jours de SRPDQA à la version 22.0.0 suite à la nouvelle infrastructure de calcul haute performance. 
-
+#### Mise à jours de SRPDQA à la version 22.0.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
 ## Le mercredi 3 juillet 2019
 
-### Mise à jour du système régional de prévision déterministe de la qualité de l'air (SRPDQA)
-
+#### Mise à jour du système régional de prévision déterministe de la qualité de l'air (SRPDQA)
 Le mercredi 3 juillet 2019, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour le système régional de prévision déterministe de la qualité de l'air (SRPDQA) en remplaçant la version 020 par la version 021.
 
 Résumé des éléments que comporte cette mise à jour :
@@ -89,8 +83,7 @@ Une note technique pour SRPDQA avec plus de détails sur ces changements est dis
 
 ## Le mardi 18 septembre, 2018
 
-### Mise à jour du système régional de prévision déterministe de la qualité de l'air (SRPDQA) et du système de prévision FireWork
-
+#### Mise à jour du système régional de prévision déterministe de la qualité de l'air (SRPDQA) et du système de prévision FireWork
 Le mardi 18 septembre 2018, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour le système régional de prévision déterministe de la qualité de l'air (SRPDQA) et le système complémentaire FireWork en remplaçant la version 019 par la version 020.
 
 Résumé des éléments que comporte cette mise à jour :
@@ -105,8 +98,7 @@ Une note technique avec plus de détails sur ces changements est disponible [sur
 
 ## Le mercredi 7 septembre 2016
 
-### Mise à jour majeure du système régional de prévision déterministe de la qualité de l'air (SRPDQA)
-
+#### Mise à jour majeure du système régional de prévision déterministe de la qualité de l'air (SRPDQA)
 Le mercredi 7 septembre 2016, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) mettra à jour le système régional de prévision déterministe de la qualité de l'air (SRPDQA) en remplaçant la version 015 par la version 016.
 
 Résumé des éléments majeurs que comporte cette mise à jour :
@@ -127,8 +119,7 @@ Une note technique avec plus de détails sur ces changements reste à venir sur 
 
 ## Le jeudi 7 avril 2016
 
-### Mise à jour majeure du système régional de prévision déterministe de la qualité de l'air (SRPDQA)
-
+#### Mise à jour majeure du système régional de prévision déterministe de la qualité de l'air (SRPDQA)
 Le jeudi 7 avril 2016, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) du service météorologique du Canada (SMC) mettra à jour le système régional de prévision déterministe de la qualité de l'air (SRPDQA) en remplaçant la version 013 (antérieurement version 1.5.4) par la version 015.
 
 Résumé des éléments majeurs que comporte cette mise à jour :
@@ -147,8 +138,7 @@ Une note technique avec plus de détails sur ces changements reste à venir sur 
 
 ## Le jeudi 11 juin 2015
 
-### Mise à jour du système régional de prévision déterministe de la qualité de l'air (SRPDQA) au Centre météorologique canadien (CMC)
-
+#### Mise à jour du système régional de prévision déterministe de la qualité de l'air (SRPDQA) au Centre météorologique canadien (CMC)
 Le Centre météorologique canadien (CMC) a implémenté un nouveau jeu de fichiers d'émissions pour le système régional de prévision déterministe de la qualité de l'air (SRPDQA). Les nouvelles émissions sont basé sur l'inventaire national 2010 du Canada / l'inventaire national 2011 des États-Unis, ce qui est une mise à jour de l'inventaire national 2006 du Canada / l'inventaire national 2005 des États-Unis.
 
 Une copie de la note officielle annonçant ce changement est disponible [via ce lien](https://dd.meteo.gc.ca/doc/genots/2015/06/10/NOCN03_CWAO_101245___00612).
@@ -157,8 +147,7 @@ Plus d'information technique/scientifique sur ce système est disponible [via ce
 
 ## Le mardi 18 novembre 2014
 
-### Mise à jour mineure du Système régional de prévision déterministe qualité de l'air (SRPDQA) 1.5.3 au Centre météorologique Canadien (CMC)
-
+#### Mise à jour mineure du Système régional de prévision déterministe qualité de l'air (SRPDQA) 1.5.3 au Centre météorologique Canadien (CMC)
 Le mardi 18 novembre 2014, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à une mise à jour mineure Système régional de prévision déterministe qualité de l'air. La version du système passe de 1.5.2 à 1.5.3. Ci-dessous les changements inclus dans cette mise à jour:
 
 1. Le système s'alimente maintenant du système régional de prévision déterministe (SRPD) 4.0.0.
@@ -167,8 +156,7 @@ Le mardi 18 novembre 2014, à compter de la passe de 1200 UTC, le Centre météo
 
 ## Le mardi 26 février 2013
 
-### Mise à jour du système régional de prévision déterministe de la qualité de l'air (SRPDQA - version 1.5.1) au Centre météorologique canadien (CMC)
-
+#### Mise à jour du système régional de prévision déterministe de la qualité de l'air (SRPDQA - version 1.5.1) au Centre météorologique canadien (CMC)
 Le mardi 26 février 2013 débutant a partir de l'intégration de 1200 UTC, le Centre météorologique canadien (cmc) mettra en opération la version 1.5.1 du SRPDQA celle-ci remplace la version 1.5.0 (SRPDQA-1.5.0). La nouvelle version contient trois correctifs à la chimie qui apportent une amélioration significative au système opérationnel de prévision de la qualité de l'air.
 
 Durant l'été 2012, trois bogues ont été découverts dans le SRPDQA, ceux-ci étaient présents depuis l'implantation opérationnelle de 2009. Ces bogues affectaient le dépôt humide des espèces chimiques par la précipitation convective, ainsi que le mélange vertical. Ce dernier se manifestant particulièrement lors de conditions atmosphériques stables.
@@ -185,8 +173,7 @@ Une note technique à ce sujet est disponible [via ce lien](https://collaboratio
 
 ## Le mercredi 3 octobre 2012
 
-### Le Centre Météorologique Canadien améliore son système régional de prévision déterministe de qualité de l'air (SRPDQA-version 1.5.0)
-
+#### Le Centre Météorologique Canadien améliore son système régional de prévision déterministe de qualité de l'air (SRPDQA-version 1.5.0)
 Le mercredi 3 octobre 2012, débutant avec l'integration de 1200 UTC, le Centre météorologique canadien (CMC) mettra en operation la version 1.5.0 du système régional de prévision déterministe de qualité de l'air (SRPDQA-150). Des changements dans l'espacement horizontal (de 15 à 10 km de résolution) et vertical des points de grille, une mise à jour de la version du modèle GEM, ainsi que des fichiers d'émissions améliorés, s'allient pour améliorer le système de prévision de la qualité de l'air.
 
 En résumé, les changements principaux sont: SRPDQA-150 utilise la version GEM 3.3.8 dévelopée au CMC, le modèle a maintenent un espacement horizontal de 10 km entre les points de grille, le nombre de niveaux verticaux du augmente de 58 à 80 et le nouveau système incorpore un nouveau jeu de fichiers d'émissions anthropogéniques horaires.
@@ -203,6 +190,5 @@ Finalement, notez que cette mise à jour du SRPDQA est nécessaire à cause des 
 
 ## Le jeudi 22 décembre 2011
 
-### Le Centre Météorologique Canadien implante un correctif à GEM-MACH15
-
+#### Le Centre Météorologique Canadien implante un correctif à GEM-MACH15
 À partir de la passe 12 UTC du 22 décembre 2011, une mise à jour a été installée dans GEM-MACH15 afin de mieux traiter l'humidité et l'information des nuages dans les hauts niveaux de l'atmosphère perçus par ce modèle. Avec ce correctif la version de GEM-MACH15 est maintenant la version 1.4.5.
