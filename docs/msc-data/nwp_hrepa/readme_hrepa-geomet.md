@@ -55,16 +55,16 @@ Récupération de la liste des derniers pas de temps disponibles :
 
 * Les utilisateurs peuvent ajouter le paramètre `layer` à une requête WMS GetCapabilities afin de pointer à une couche spécifique et obtenir une réponse XML plus simple avec les dimensions temporelles à jour (voir les balises `<Dimension>`).
     - Exemple pour la couche `HREPA.6P_2.5km_PCT25` `[mm]` : [https://geo.meteo.gc.ca/geomet?lang=fr&service=WMS&version=1.3.0&request=GetCapabilities&layer=HREPA.6P_2.5km_PCT25](https://geo.meteo.gc.ca/geomet?lang=fr&service=WMS&version=1.3.0&request=GetCapabilities&layer=HREPA.6P_2.5km_PCT25)
-* Davantage d'information est disponible dans la section sur [la spécification du temps avec les services WMS](../../../msc-geomet/wms#specification-du-temps).
+* Davantage d'information est disponible dans la section sur [la spécification du temps avec les services WMS](../../msc-geomet/wms.md#specification-du-temps).
 
 Styles WMS :
 
 * En plus du style WMS par défaut, plusieurs styles WMS alternatifs avec des échelles de couleurs différentes sont disponibles. La liste des styles WMS est fournie dans la réponse d'une requête WMS GetCapabilities
-* Par ailleurs, les utilisateurs peuvent visualiser les couches avec leurs propres styles en utilisant le standard *Styled Layer Descriptor* (SLD). Veuillez vous référer à la [documentation technique sur le SLD](../../../msc-geomet/wms#specification-des-styles).
+* Par ailleurs, les utilisateurs peuvent visualiser les couches avec leurs propres styles en utilisant le standard *Styled Layer Descriptor* (SLD). Veuillez vous référer à la [documentation technique sur le SLD](../../msc-geomet/wms.md#specification-des-styles).
 
 Légendes :
 
-* Les légendes sont disponibles pour tous les styles WMS. Les détails sont disponibles dans la [documentation technique des légendes WMS](../../../msc-geomet/wms#wms-getlegendgraphic).
+* Les légendes sont disponibles pour tous les styles WMS. Les détails sont disponibles dans la [documentation technique des légendes WMS](../../msc-geomet/wms.md#wms-getlegendgraphic).
 * Exemple d'une requête pour récupérer une légende :  [https://geo.meteo.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=HREPA.6P_2.5km_PCT25&format=image/png&STYLE=PRECIPMM&lang=fr](https://geo.meteo.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=HREPA.6P_2.5km_PCT25&format=image/png&STYLE=PRECIPMM&lang=fr)
 
 ![La légende PRECIPMM de la couche HREPA.6P_2.5km_PCT25 PRECIPMM](https://geo.meteo.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=HREPA.6P_2.5km_PCT25&format=image/png&STYLE=PRECIPMM&lang=fr)

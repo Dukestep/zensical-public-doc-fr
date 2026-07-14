@@ -17,7 +17,7 @@
     - [X] Créer et partager des animations personnalisées
     - [X] Accéder à des services WMS tiers (CEPMMT, NASA, NOAA, et plus)
 
--   :material-layers: **[Tutoriel : afficher, interagir et animer des couches WMS dans QGIS](tutorial_WMS_QGIS/)**
+-   :material-layers: **[Tutoriel : afficher, interagir et animer des couches WMS dans QGIS](tutorial_WMS_QGIS.md)**
 
     ---
 
@@ -26,7 +26,7 @@
     - [X] Déplacer, zoomer et interroger les valeurs de pixel (GetFeatureInfo)
     - [X] Animer la dimension temporelle de la couche
 
--   :material-web: **[Tutoriel : créer des cartes interactives sur le web avec OpenLayers et Leaflet](tutorial_web-maps/)**
+-   :material-web: **[Tutoriel : créer des cartes interactives sur le web avec OpenLayers et Leaflet](tutorial_web-maps.md)**
 
     ---
 
@@ -67,7 +67,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-earth: **[Accéder et utiliser les données dans le logiciel de bureau QGIS](tutorial_OAFeat_QGIS/)**
+-   :material-earth: **[Accéder et utiliser les données dans le logiciel de bureau QGIS](tutorial_OAFeat_QGIS.md)**
 
     ---
 
@@ -75,7 +75,7 @@
     - [X] Construire et filtrer les données avec une requête personnalisée
     - [X] Afficher la couche vectorielle obtenue
 
--   :material-chart-bar: **[Utiliser OGC API - Features dans Power BI](tutorial_OAFeat_Power-BI/)**
+-   :material-chart-bar: **[Utiliser OGC API - Features dans Power BI](tutorial_OAFeat_Power-BI.md)**
 
     ---
 
@@ -93,7 +93,7 @@
 
     [:lucide-download: Télécharger le carnet Jupyter](use-case_oafeat/use-case_oafeat-script.ipynb){ .md-button .md-button--primary }
 
--   :material-table: **[Faire des requêtes OGC API - Features avec VBA dans Excel et R](tutorial_OAFeat_R-Excel/)**
+-   :material-table: **[Faire des requêtes OGC API - Features avec VBA dans Excel et R](tutorial_OAFeat_R-Excel.md)**
 
     ---
 
@@ -107,7 +107,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-layers: **[Tutoriel : ajout de fichier brut géospatial dans QGIS](tutorial_raw-data_QGIS/)**
+-   :material-layers: **[Tutoriel : ajout de fichier brut géospatial dans QGIS](tutorial_raw-data_QGIS.md)**
 
     ---
 

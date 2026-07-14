@@ -2,7 +2,7 @@
 
 # Tutoriel : interroger et utiliser les données avec OGC API - Features en utilisant Power BI
 
-Les services web [OGC API - Features](../msc-geomet/ogc_api.md#ogc-api-features) disponibles dans GeoMet-OGC-API permettent d'interroger des données géospatiales vectorielles et de les récupérer aux formats GeoJSON et CSV. Le fichier de sortie peut alors être utilisé pour l'affichage ou le traitement ultérieur des données ([voir les exemples R et Excel/VBA utilisant ces mêmes fichiers!](tutorial_OAFeat_R-Excel/)) Ce tutoriel vous montrera comment vous pouvez :
+Les services web [OGC API - Features](../msc-geomet/ogc_api.md#ogc-api-features) disponibles dans GeoMet-OGC-API permettent d'interroger des données géospatiales vectorielles et de les récupérer aux formats GeoJSON et CSV. Le fichier de sortie peut alors être utilisé pour l'affichage ou le traitement ultérieur des données ([voir les exemples R et Excel/VBA utilisant ces mêmes fichiers!](tutorial_OAFeat_R-Excel.md)) Ce tutoriel vous montrera comment vous pouvez :
 
 * Interroger et récupérer les données géospatiales vectorielles de GeoMet-OGC-API avec [Power BI](https://www.microsoft.com/fr-fr/power-platform/products/power-bi/) au format CSV
 * Spécifier les données que vous voulez à partir des [Collections des données ouvertes](https://api.meteo.gc.ca/collections?lang=fr)
