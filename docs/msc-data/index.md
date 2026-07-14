@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 ![ECCC logo](../img_eccc-logo.png)
 
 # Données ouvertes du Service météorologique du Canada

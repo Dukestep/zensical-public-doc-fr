@@ -13,6 +13,14 @@
   display: none;
 }
 
+/* Bold navigation sections/collapsible group titles in the sidebar so
+   they're visually distinct from plain leaf page links */
+.md-nav__item--nested > .md-nav__link,
+.md-nav__item--nested > .md-nav__container > .md-nav__link {
+  font-weight: 700;
+  color: var(--md-default-fg-color);
+}
+
 /* Consistent image height for theme cards */
 .theme-cards img {
   width: 100%;

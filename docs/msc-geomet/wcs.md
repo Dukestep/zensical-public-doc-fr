@@ -156,7 +156,7 @@ Notez que la limite pour une seule requête WCS GetCoverage est de 256 bandes à
 
 #### <span class="badge badge-light">GeoMet-Météo</span>
 
-Pour les requêtes temporelles WCS avec GeoMet-Météo, veuillez vous référer à section sur [la spécification du temps dans les requêtes WMS](../WMS_fr/#specification-du-temps) puisque l'utilisation des paramètres `TIME` et `DIM_REFERENCE_TIME` demeure la même.
+Pour les requêtes temporelles WCS avec GeoMet-Météo, veuillez vous référer à section sur [la spécification du temps dans les requêtes WMS](../wms/#specification-du-temps) puisque l'utilisation des paramètres `TIME` et `DIM_REFERENCE_TIME` demeure la même.
 
 Les dimensions temporelles pour les requêtes WCS sur GeoMet-Météo ne sont pas fournies par les requêtes WCS GetCapabilities ou WCS DesbcribeCoverage. Les dimensions temporelles de ce service WCS ne sont accessibles que dans une requête WMS GetCapabilities.
 </br></br>

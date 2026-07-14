@@ -13,7 +13,7 @@
 
 ### 14 avril 2026
 
-* [Nouvelle infrastructure de calcul haute performance](../changelog_multisystems_fr#le-mardi-14-avril-2026)
+* [Nouvelle infrastructure de calcul haute performance](../changelog_multisystems#le-mardi-14-avril-2026)
 
 ## 2025
 
@@ -233,7 +233,7 @@ Eau, océan et glace
 
 ### 28 juin 2022
 
-* [Nouvelle infrastructure de calcul haute performance](../changelog_multisystems_fr#le-mardi-28-juin-2022)
+* [Nouvelle infrastructure de calcul haute performance](../changelog_multisystems#le-mardi-28-juin-2022)
 
 ### 31 mars 2022
 
@@ -309,279 +309,279 @@ Eau, océan et glace
 
 ### 9 juin 2021
 
-* [Mise à jour vers la version 5.0.0 du système d'Analyse régionale déterministe de précipitation (CaPA-ARDP) au Centre météorologique canadien (CMC)](../nwp_rdpa/changelog_rdpa_fr#le-mercredi-9-juin-2021)
+* [Mise à jour vers la version 5.0.0 du système d'Analyse régionale déterministe de précipitation (CaPA-ARDP) au Centre météorologique canadien (CMC)](../nwp_rdpa/changelog_rdpa#le-mercredi-9-juin-2021)
 
 ### 26 janvier 2021
 
-* [Remplacement d’observations de radiances satellitaires dans le SGPE](../nwp_geps/changelog_geps_fr#le-mardi-26-janvier-2021)
-* [Ajout et remplacement d’observations de radiances satellitaires dans le SGPD](../nwp_gdps/changelog_gdps_fr#le-mardi-26-janvier-2021)
-* [Ajout et remplacement d’observations de radiances satellitaires dans le SRPD](../nwp_rdps/changelog_rdps_fr#le-mardi-26-janvier-2021)
+* [Remplacement d’observations de radiances satellitaires dans le SGPE](../nwp_geps/changelog_geps#le-mardi-26-janvier-2021)
+* [Ajout et remplacement d’observations de radiances satellitaires dans le SGPD](../nwp_gdps/changelog_gdps#le-mardi-26-janvier-2021)
+* [Ajout et remplacement d’observations de radiances satellitaires dans le SRPD](../nwp_rdps/changelog_rdps#le-mardi-26-janvier-2021)
 
 ## 2020
 
 ### 8 décembre 2020
 
-* [Ajouts d’observations de radiances satellitaires dans le SGPE](../nwp_geps/changelog_geps_fr#le-mardi-8-decembre-2020)
-* [Ajouts d’observations de radiances satellitaires dans le SGPD](../nwp_gdps/changelog_gdps_fr#le-mardi-8-decembre-2020)
-* [Ajouts d’observations de radiances satellitaires dans le SRPD](../nwp_rdps/changelog_rdps_fr#le-mardi-8-decembre-2020)
+* [Ajouts d’observations de radiances satellitaires dans le SGPE](../nwp_geps/changelog_geps#le-mardi-8-decembre-2020)
+* [Ajouts d’observations de radiances satellitaires dans le SGPD](../nwp_gdps/changelog_gdps#le-mardi-8-decembre-2020)
+* [Ajouts d’observations de radiances satellitaires dans le SRPD](../nwp_rdps/changelog_rdps#le-mardi-8-decembre-2020)
 
 ### 26 juin 2020
 
-* [Ajout des observations GPSRO des satellites COSMIC-II dans le SGPE](../nwp_geps/changelog_geps_fr#le-vendredi-26-juin-2020)
-* [Ajout des observations GPSRO des satellites COSMIC-II dans le SGPD](../nwp_gdps/changelog_gdps_fr#le-vendredi-26-juin-2020)
-* [Ajout des observations GPSRO des satellites COSMIC-II dans le SRPD](../nwp_rdps/changelog_rdps_fr#le-vendredi-26-juin-2020)
+* [Ajout des observations GPSRO des satellites COSMIC-II dans le SGPE](../nwp_geps/changelog_geps#le-vendredi-26-juin-2020)
+* [Ajout des observations GPSRO des satellites COSMIC-II dans le SGPD](../nwp_gdps/changelog_gdps#le-vendredi-26-juin-2020)
+* [Ajout des observations GPSRO des satellites COSMIC-II dans le SRPD](../nwp_rdps/changelog_rdps#le-vendredi-26-juin-2020)
 
 ### 29 avril 2020
 
-* [Ajout des observations GPSRO des satellites PAZ et KOMPSAT-5 dans le SGPE](../nwp_geps/changelog_geps_fr#le-mercredi-29-avril-2020)
-* [Ajout des observations GPSRO des satellites PAZ et KOMPSAT-5 dans le SGPD](../nwp_gdps/changelog_gdps_fr#le-mercredi-29-avril-2020)
-* [Ajout des observations GPSRO des satellites PAZ et KOMPSAT-5 dans le SRPD](../nwp_rdps/changelog_rdps_fr#le-mercredi-29-avril-2020)
+* [Ajout des observations GPSRO des satellites PAZ et KOMPSAT-5 dans le SGPE](../nwp_geps/changelog_geps#le-mercredi-29-avril-2020)
+* [Ajout des observations GPSRO des satellites PAZ et KOMPSAT-5 dans le SGPD](../nwp_gdps/changelog_gdps#le-mercredi-29-avril-2020)
+* [Ajout des observations GPSRO des satellites PAZ et KOMPSAT-5 dans le SRPD](../nwp_rdps/changelog_rdps#le-mercredi-29-avril-2020)
 
 ### 28 avril 2020
 
-* [Ajout des observations AMV du satellite MetPp-3/C dans le SGPE](../nwp_geps/changelog_geps_fr#le-mardi-28-avril-2020)
-* [Ajout des observations AMV du satellite MetPp-3/C dans le SGPD](../nwp_gdps/changelog_gdps_fr#le-mardi-28-avril-2020)
-* [Ajout des observations AMV du satellite MetPp-3/C dans le SRPD](../nwp_rdps/changelog_rdps_fr#le-mardi-28-avril-2020)
+* [Ajout des observations AMV du satellite MetPp-3/C dans le SGPE](../nwp_geps/changelog_geps#le-mardi-28-avril-2020)
+* [Ajout des observations AMV du satellite MetPp-3/C dans le SGPD](../nwp_gdps/changelog_gdps#le-mardi-28-avril-2020)
+* [Ajout des observations AMV du satellite MetPp-3/C dans le SRPD](../nwp_rdps/changelog_rdps#le-mardi-28-avril-2020)
 
 ### 1 avril 2020
 
-* [FireWork d'été 2020 - Début de la saison](../nwp_raqdps-fw/changelog_raqdps-fw_fr#le-mercredi-1-avril-2020)
+* [FireWork d'été 2020 - Début de la saison](../nwp_raqdps-fw/changelog_raqdps-fw#le-mercredi-1-avril-2020)
 
 ### 21 janvier 2020
 
-* [Nouvelle infrastructure de calcul haute performance](../changelog_multisystems_fr#le-mardi-21-janvier-2020)
+* [Nouvelle infrastructure de calcul haute performance](../changelog_multisystems#le-mardi-21-janvier-2020)
 
 ## 2019
 
 ### 23 juillet 2019
 
-* [Ajout de plusieurs observations satellitaires dans le SGPE](../nwp_geps/changelog_geps_fr#le-mardi-23-juillet-2019)
-* [Ajout de plusieurs observations satellitaires dans le SGPD](../nwp_gdps/changelog_gdps_fr#le-mardi-23-juillet-2019)
-* [Ajout de plusieurs observations satellitaires dans le SRPD](../nwp_rdps/changelog_rdps_fr#le-mardi-23-juillet-2019)
+* [Ajout de plusieurs observations satellitaires dans le SGPE](../nwp_geps/changelog_geps#le-mardi-23-juillet-2019)
+* [Ajout de plusieurs observations satellitaires dans le SGPD](../nwp_gdps/changelog_gdps#le-mardi-23-juillet-2019)
+* [Ajout de plusieurs observations satellitaires dans le SRPD](../nwp_rdps/changelog_rdps#le-mardi-23-juillet-2019)
 
 ### 3 juillet 2019
 
-* [Système global de prévision d'ensemble (SGPE) 6.0.0](../nwp_geps/changelog_geps_fr#le-mercredi-3-juillet-2019)
-* [Système global de prévision déterministe (SGPD) 7.0.0](../nwp_gdps/changelog_gdps_fr#le-mercredi-3-juillet-2019)
-* [Système global de prévision océan-glace (SGPOG) 3.0.0](../nwp_giops/changelog_giops_fr#le-mercredi-3-juillet-2019)
-* [Système régional de prévision déterministe (SRPD) 7.0.0](../nwp_rdps/changelog_rdps_fr#le-mercredi-3-juillet-2019)
-* [Système régional de prévision d'ensemble (SRPE) 3.0.0](../nwp_reps/changelog_reps_fr#le-mercredi-3-juillet-2019)
-* [Système régional de Prévision Océan-Glace (SRPOG) 2.0.0](../nwp_riops/changelog_riops_fr#le-mercredi-3-juillet-2019)
-* [Système haute résolution de prévision déterministe (SHRPD) 5.1.0](../nwp_hrdps/changelog_hrdps_fr/log_cansips_fr#le-mercredi-3-juillet-2019)
-* [Système régional de prévision déterministe de la qualité de l'air Firework (SRPDQA-FW) 21](../nwp_raqdps-fw/changelog_raqdps-fw_fr#le-mercredi-3-juillet-2019)
-* [Analyse Régionale Déterministe de Précipitation (ARPD (CaPA-10km)) 4.6.0](../nwp_rdpa/changelog_rdpa_fr#le-mercredi-3-juillet-2019)
-* [Analyse à Haute Résolution Déterministe de Précipitation (CaPA-AHRDP) 4.6.0](../nwp_hrdpa/changelog_hrdpa_fr#le-mercredi-3-juillet-2019)
-* [Système de prévision du cycle de l'eau (SPCE) 2.1.0](../nwp_wcps/changelog_wcps_fr#le-mercredi-3-juillet-2019)
-* [Système de Prévision Interannuelle et Saisonniere Canadien (SPISCAN)](../nwp_cansips/changelog_cansips_fr#le-mercredi-3-juillet-2019)
-* [Système Régional de Prévision Océan-Glace (SRPOG) 2.0.0](../nwp_riops/changelog_riops_fr#le-mercredi-3-juillet-2019)
-* [Système régional de prévision déterministe d’onde de tempête (SRPDOT) 1.6.0](../nwp_rdsps/changelog_rdsps_fr#le-mercredi-3-juillet-2019)
-* [Système régional de prévision d'ensemble d’onde de tempête (SRPEOT) 1.2.0](../nwp_resps/changelog_resps_fr#le-mercredi-3-juillet-2019)
+* [Système global de prévision d'ensemble (SGPE) 6.0.0](../nwp_geps/changelog_geps#le-mercredi-3-juillet-2019)
+* [Système global de prévision déterministe (SGPD) 7.0.0](../nwp_gdps/changelog_gdps#le-mercredi-3-juillet-2019)
+* [Système global de prévision océan-glace (SGPOG) 3.0.0](../nwp_giops/changelog_giops#le-mercredi-3-juillet-2019)
+* [Système régional de prévision déterministe (SRPD) 7.0.0](../nwp_rdps/changelog_rdps#le-mercredi-3-juillet-2019)
+* [Système régional de prévision d'ensemble (SRPE) 3.0.0](../nwp_reps/changelog_reps#le-mercredi-3-juillet-2019)
+* [Système régional de Prévision Océan-Glace (SRPOG) 2.0.0](../nwp_riops/changelog_riops#le-mercredi-3-juillet-2019)
+* [Système haute résolution de prévision déterministe (SHRPD) 5.1.0](../nwp_hrdps/changelog_hrdps_fr/log_cansips#le-mercredi-3-juillet-2019)
+* [Système régional de prévision déterministe de la qualité de l'air Firework (SRPDQA-FW) 21](../nwp_raqdps-fw/changelog_raqdps-fw#le-mercredi-3-juillet-2019)
+* [Analyse Régionale Déterministe de Précipitation (ARPD (CaPA-10km)) 4.6.0](../nwp_rdpa/changelog_rdpa#le-mercredi-3-juillet-2019)
+* [Analyse à Haute Résolution Déterministe de Précipitation (CaPA-AHRDP) 4.6.0](../nwp_hrdpa/changelog_hrdpa#le-mercredi-3-juillet-2019)
+* [Système de prévision du cycle de l'eau (SPCE) 2.1.0](../nwp_wcps/changelog_wcps#le-mercredi-3-juillet-2019)
+* [Système de Prévision Interannuelle et Saisonniere Canadien (SPISCAN)](../nwp_cansips/changelog_cansips#le-mercredi-3-juillet-2019)
+* [Système Régional de Prévision Océan-Glace (SRPOG) 2.0.0](../nwp_riops/changelog_riops#le-mercredi-3-juillet-2019)
+* [Système régional de prévision déterministe d’onde de tempête (SRPDOT) 1.6.0](../nwp_rdsps/changelog_rdsps#le-mercredi-3-juillet-2019)
+* [Système régional de prévision d'ensemble d’onde de tempête (SRPEOT) 1.2.0](../nwp_resps/changelog_resps#le-mercredi-3-juillet-2019)
 
 ### 15 avril 2019
 
-* [FireWork d'été 2019 - Début de la saison](../nwp_raqdps-fw/changelog_raqdps-fw_fr#le-lundi-15-avril-2019)
+* [FireWork d'été 2019 - Début de la saison](../nwp_raqdps-fw/changelog_raqdps-fw#le-lundi-15-avril-2019)
 
 ### 4 mars 2019
 
-* [Système régional de prévision déterministe des vagues (SRPDV) 3.2.0](../nwp_rdwps/changelog_rdwps_fr#le-lundi-4-mars-2019)
-* [Déclaration du statut opérationnel pour le Système de prévision du cycle de l'eau (SPCE) 2.0.0](../nwp_wcps/changelog_wcps_fr#le-lundi-4-mars-2019)
-* [Système régional de prévision d'ensemble des vagues (SRPEV) 1.2.0](../nwp_rewps/changelog_rewps_fr#le-lundi-4-mars-2019)
+* [Système régional de prévision déterministe des vagues (SRPDV) 3.2.0](../nwp_rdwps/changelog_rdwps#le-lundi-4-mars-2019)
+* [Déclaration du statut opérationnel pour le Système de prévision du cycle de l'eau (SPCE) 2.0.0](../nwp_wcps/changelog_wcps#le-lundi-4-mars-2019)
+* [Système régional de prévision d'ensemble des vagues (SRPEV) 1.2.0](../nwp_rewps/changelog_rewps#le-lundi-4-mars-2019)
 
 ### 30 janvier 2019
 
-* [Système régional de prévision déterministe d’onde de tempête (SRPDOT) 1.5.0](../nwp_rdsps/changelog_rdsps_fr#le-mercredi-30-janvier-2019)
+* [Système régional de prévision déterministe d’onde de tempête (SRPDOT) 1.5.0](../nwp_rdsps/changelog_rdsps#le-mercredi-30-janvier-2019)
 
 ## 2018
 
 ### 28 novembre 2018
 
-* [Système automatisé de prévisions à l'aviation (aTAGS) 1.1.0](../nwp_atags/changelog_atags_fr#le-mercredi-28-novembre-2018)
+* [Système automatisé de prévisions à l'aviation (aTAGS) 1.1.0](../nwp_atags/changelog_atags#le-mercredi-28-novembre-2018)
 
 
 ### 18 septembre 2018
 
-* [Système global de prévision d'ensemble (SGPE) 5.0.0](../nwp_geps/changelog_geps_fr#le-mardi-18-septembre-2018)
-* [Système global de prévision déterministe (SGPD) 6.1.0](../nwp_gdps/changelog_gdps_fr#le-mardi-18-septembre-2018)
-* [Système régional de prévision déterministe (SRPD) 6.0.0](../nwp_rdps/changelog_rdps_fr#le-mardi-18-septembre-2018)
-* [Système régional de prévision d'ensemble (SRPE) 2.4.0](../nwp_reps/changelog_reps_fr#le-mardi-18-septembre-2018)
-* [Système haute résolution de prévision déterministe (SHRPD) 5.0.0](../nwp_hrdps/changelog_hrdps_fr#le-mardi-18-septembre-2018)
-* [Système régional de prévision déterministe de la qualité de l'air FireWork version 20](../nwp_raqdps-fw/changelog_raqdps-fw_fr#le-mardi-18-septembre-2018)
-* [Analyse régionale déterministe de précipitation (ARDP (CaPA-10km)) 4.5.0](../nwp_rdpa/changelog_rdpa_fr#le-mardi-18-septembre-2018)
-* [Analyse déterministe de précipitation à haute résolution (AHRDP (CaPA-2.5km)) 4.5.0](../nwp_hrdpa/changelog_hrdpa_fr#le-mardi-18-septembre-2018)
-* [Fin du service pour le système de vague "WAM-Global"](../nwp_gdwps/changelog_gdwps_fr#le-mardi-18-septembre-2018)
-* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA) 020](../nwp_raqdps/changelog_raqdps_fr#le-mardi-18-septembre-2018)
+* [Système global de prévision d'ensemble (SGPE) 5.0.0](../nwp_geps/changelog_geps#le-mardi-18-septembre-2018)
+* [Système global de prévision déterministe (SGPD) 6.1.0](../nwp_gdps/changelog_gdps#le-mardi-18-septembre-2018)
+* [Système régional de prévision déterministe (SRPD) 6.0.0](../nwp_rdps/changelog_rdps#le-mardi-18-septembre-2018)
+* [Système régional de prévision d'ensemble (SRPE) 2.4.0](../nwp_reps/changelog_reps#le-mardi-18-septembre-2018)
+* [Système haute résolution de prévision déterministe (SHRPD) 5.0.0](../nwp_hrdps/changelog_hrdps#le-mardi-18-septembre-2018)
+* [Système régional de prévision déterministe de la qualité de l'air FireWork version 20](../nwp_raqdps-fw/changelog_raqdps-fw#le-mardi-18-septembre-2018)
+* [Analyse régionale déterministe de précipitation (ARDP (CaPA-10km)) 4.5.0](../nwp_rdpa/changelog_rdpa#le-mardi-18-septembre-2018)
+* [Analyse déterministe de précipitation à haute résolution (AHRDP (CaPA-2.5km)) 4.5.0](../nwp_hrdpa/changelog_hrdpa#le-mardi-18-septembre-2018)
+* [Fin du service pour le système de vague "WAM-Global"](../nwp_gdwps/changelog_gdwps#le-mardi-18-septembre-2018)
+* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA) 020](../nwp_raqdps/changelog_raqdps#le-mardi-18-septembre-2018)
 
 ### 28 juin 2018
 
-* [Couplage bi-directionnel avec une modèle océan-glace dans le système SCPA](../nwp_caps/changelog_caps_fr#le-jeudi-28-juin-2018)
+* [Couplage bi-directionnel avec une modèle océan-glace dans le système SCPA](../nwp_caps/changelog_caps#le-jeudi-28-juin-2018)
 
 ### 7 juin 2018
 
-* [Remplacement du satellite GOES-13 par GOES-16](../changelog_multisystems_fr#le-jeudi-7-juin-2018)
-* [Remplacement du satellite Meteosat-10 par Meteosat-11](../changelog_multisystems_fr#le-jeudi-7-juin-2018)
+* [Remplacement du satellite GOES-13 par GOES-16](../changelog_multisystems#le-jeudi-7-juin-2018)
+* [Remplacement du satellite Meteosat-10 par Meteosat-11](../changelog_multisystems#le-jeudi-7-juin-2018)
 
 ### 4 avril 2018
 
-* [Système régional de prévision déterministe des vagues (SRPDV) 3.0.0](../nwp_rdwps/changelog_rdwps_fr#le-mercredi-4-avril-2018)
-* [Système régional de prévision d'ensemble des vagues (SRPEV) 1.0.0](../nwp_rewps/changelog_rewps_fr#le-mercredi-4-avril-2018)
+* [Système régional de prévision déterministe des vagues (SRPDV) 3.0.0](../nwp_rdwps/changelog_rdwps#le-mercredi-4-avril-2018)
+* [Système régional de prévision d'ensemble des vagues (SRPEV) 1.0.0](../nwp_rewps/changelog_rewps#le-mercredi-4-avril-2018)
 
 ### 3 avril 2018
 
-* [FireWork d'été 2018 - Début de la saison](../nwp_raqdps-fw/changelog_raqdps-fw_fr#le-mardi-3-avril-2018)
+* [FireWork d'été 2018 - Début de la saison](../nwp_raqdps-fw/changelog_raqdps-fw#le-mardi-3-avril-2018)
 
 ### 2 mars 2018
 
-* [Analyse déterministe de précipitation à haute résolution (AHRDP (CaPA)) 4.1.0](../nwp_hrdpa/changelog_hrdpa_fr#le-vendredi-2-mars-2018)
+* [Analyse déterministe de précipitation à haute résolution (AHRDP (CaPA)) 4.1.0](../nwp_hrdpa/changelog_hrdpa#le-vendredi-2-mars-2018)
 
 ### 1 mars 2018
 
-* [Remplacement des observations AMV du satellite Meteosat-10 par Meteosat-11](../changelog_multisystems_fr#le-jeudi-1-mars-2018)
+* [Remplacement des observations AMV du satellite Meteosat-10 par Meteosat-11](../changelog_multisystems#le-jeudi-1-mars-2018)
 
 ### 24 janvier 2018
 
-* [Système canadien de prévision de l’Arctique (SCPA) 1.0.0](../nwp_caps/changelog_caps_fr#le-mercredi-24-janvier-2018)
+* [Système canadien de prévision de l’Arctique (SCPA) 1.0.0](../nwp_caps/changelog_caps#le-mercredi-24-janvier-2018)
 
 ## 2017
 
 ### 14 décembre 2017
 
-* [Système haute résolution de prévision déterministe (SHRPD) 4.4.0](../nwp_hrdps/changelog_hrdps_fr#le-jeudi-14-decembre-2017)
+* [Système haute résolution de prévision déterministe (SHRPD) 4.4.0](../nwp_hrdps/changelog_hrdps#le-jeudi-14-decembre-2017)
 
 ### 1er novembre 2017
 
-* [Système global de prévision déterministe (SGPD) 6.0.0](../nwp_gdps/changelog_gdps_fr#le-mercredi-1er-novembre-2017)
-* [Système global de prévision océan-glace (SGPOG) 2.3](../nwp_giops/changelog_giops_fr#le-mercredi-1er-novembre-2017)
-* [Système global de prévision déterministe des vagues (SGPDV) 1.3.0](../nwp_gdwps/changelog_gdwps_fr#le-mercredi-1er-novembre-2017)
-* [Système régional de prévision déterministe d’onde de tempête (SRPDOT) 1.3.0](../nwp_rdsps/changelog_rdsps_fr#le-mercredi-30-janvier-2017)
+* [Système global de prévision déterministe (SGPD) 6.0.0](../nwp_gdps/changelog_gdps#le-mercredi-1er-novembre-2017)
+* [Système global de prévision océan-glace (SGPOG) 2.3](../nwp_giops/changelog_giops#le-mercredi-1er-novembre-2017)
+* [Système global de prévision déterministe des vagues (SGPDV) 1.3.0](../nwp_gdwps/changelog_gdwps#le-mercredi-1er-novembre-2017)
+* [Système régional de prévision déterministe d’onde de tempête (SRPDOT) 1.3.0](../nwp_rdsps/changelog_rdsps#le-mercredi-30-janvier-2017)
 
 ### 6 septembre 2017
 
-* [Nouvelle infrastructure de calcul haute performance](../changelog_multisystems_fr#le-mercredi-6-septembre-2017)
+* [Nouvelle infrastructure de calcul haute performance](../changelog_multisystems#le-mercredi-6-septembre-2017)
 
 ## 2016
 
 ### 9 novembre 2016
 
-* [Analyse régionale déterministe de précipitation (ARDP (CaPA)) 4.0.0](../nwp_rdpa/changelog_rdpa_fr#le-mercredi-9-novembre-2016)
+* [Analyse régionale déterministe de précipitation (ARDP (CaPA)) 4.0.0](../nwp_rdpa/changelog_rdpa#le-mercredi-9-novembre-2016)
 
 ### 7 septembre 2016
 
-* [Système régional de prévision déterministe (SRPD) 5.0.0](../nwp_rdps/changelog_rdps_fr#le-mercredi-7-septembre-2016)
-* [Système haute résolution de prévision déterministe (SHRPD) 4.2.0](../nwp_hrdps/changelog_hrdps_fr#le-mercredi-7-septembre-2016)
-* [FireWork été 2016 - Mise à jour](../nwp_raqdps-fw/changelog_raqdps-fw_fr#le-mercredi-7-septembre-2016)
-* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA) 016](../nwp_raqdps/changelog_raqdps_fr#le-mercredi-7-septembre-2016)
-* [Système automatisé de prévisions à l'aviation (aTAGS) version 1.0.0](../nwp_atags/changelog_atags_fr#le-mercredi-7-septembre-2016)
+* [Système régional de prévision déterministe (SRPD) 5.0.0](../nwp_rdps/changelog_rdps#le-mercredi-7-septembre-2016)
+* [Système haute résolution de prévision déterministe (SHRPD) 4.2.0](../nwp_hrdps/changelog_hrdps#le-mercredi-7-septembre-2016)
+* [FireWork été 2016 - Mise à jour](../nwp_raqdps-fw/changelog_raqdps-fw#le-mercredi-7-septembre-2016)
+* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA) 016](../nwp_raqdps/changelog_raqdps#le-mercredi-7-septembre-2016)
+* [Système automatisé de prévisions à l'aviation (aTAGS) version 1.0.0](../nwp_atags/changelog_atags#le-mercredi-7-septembre-2016)
 
 ### 21 juin 2016
 
-* [Système Global de Prévision Océan-Glace (SGPOG) 2.1](../nwp_giops/changelog_giops_fr#le-mardi-21-juin-2016)
-* [Utilisation des analyses SGPOG par le Système de Prévision Interannuelle et Saisonniere Canadien (SPISCAN)](../nwp_cansips/changelog_cansips_fr#le-mardi-21-juin-2016)
-* [Système Régional de Prévision Océan-Glace (SRPOG) 1.1](../nwp_riops/changelog_riops_fr#le-mardi-21-juin-2016)
+* [Système Global de Prévision Océan-Glace (SGPOG) 2.1](../nwp_giops/changelog_giops#le-mardi-21-juin-2016)
+* [Utilisation des analyses SGPOG par le Système de Prévision Interannuelle et Saisonniere Canadien (SPISCAN)](../nwp_cansips/changelog_cansips#le-mardi-21-juin-2016)
+* [Système Régional de Prévision Océan-Glace (SRPOG) 1.1](../nwp_riops/changelog_riops#le-mardi-21-juin-2016)
 
 ### 14 avril 2016
 
-* [FireWork d'été 2016 - Début de la saison](../nwp_raqdps-fw/changelog_raqdps-fw_fr#le-jeudi-14-avril-2016)
+* [FireWork d'été 2016 - Début de la saison](../nwp_raqdps-fw/changelog_raqdps-fw#le-jeudi-14-avril-2016)
 
 ### 7 avril 2016
 
-* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA) 015](../nwp_raqdps/changelog_raqdps_fr#le-mercredi-7-avril-2016)
+* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA) 015](../nwp_raqdps/changelog_raqdps#le-mercredi-7-avril-2016)
 
 ### 16 mars 2016
 
-* [Remplacement du satellite MTSAT-2 par Himawari-8](../changelog_multisystems_fr#le-mercredi-16-mars-2016)
+* [Remplacement du satellite MTSAT-2 par Himawari-8](../changelog_multisystems#le-mercredi-16-mars-2016)
 
 ## 2015
 
 ### 15 décembre 2015
 
-* [Système global de prévision déterministe (SGPD) 5.0.0](../nwp_gdps/changelog_gdps_fr#le-mardi-15-decembre-2015)
-* [Système régional de prévision déterministe (SRPD) 4.1.0](../nwp_rdps/changelog_rdps_fr#le-mardi-15-decembre-2015)
-* [Système global de prévision d'ensemble (SGPE) 4.1.1](../nwp_geps/changelog_geps_fr#le-mardi-15-decembre-2015)
-* [Système régional de prévision d'ensemble (SRPE) 2.2.0](../nwp_reps/changelog_reps_fr#le-mardi-15-decembre-2015)
-* [Analyse régionale déterministe de précipitation (ARDP (CaPA)) 3.2.0](../nwp_rdpa/changelog_rdpa_fr#le-mardi-15-decembre-2015)
-* [Système haute résolution de prévision déterministe (SHRPD) 4.1.0](../nwp_hrdps/changelog_hrdps_fr#le-mardi-15-decembre-2015)
+* [Système global de prévision déterministe (SGPD) 5.0.0](../nwp_gdps/changelog_gdps#le-mardi-15-decembre-2015)
+* [Système régional de prévision déterministe (SRPD) 4.1.0](../nwp_rdps/changelog_rdps#le-mardi-15-decembre-2015)
+* [Système global de prévision d'ensemble (SGPE) 4.1.1](../nwp_geps/changelog_geps#le-mardi-15-decembre-2015)
+* [Système régional de prévision d'ensemble (SRPE) 2.2.0](../nwp_reps/changelog_reps#le-mardi-15-decembre-2015)
+* [Analyse régionale déterministe de précipitation (ARDP (CaPA)) 3.2.0](../nwp_rdpa/changelog_rdpa#le-mardi-15-decembre-2015)
+* [Système haute résolution de prévision déterministe (SHRPD) 4.1.0](../nwp_hrdps/changelog_hrdps#le-mardi-15-decembre-2015)
 
 ### 17 septembre 2015
 
-* [Implementation expérimentale de la version 2.2 du système régional de prévision de glace (SRPG)](../nwp_rips/changelog_rips_fr#le-jeudi-17-septembre-2015)
+* [Implementation expérimentale de la version 2.2 du système régional de prévision de glace (SRPG)](../nwp_rips/changelog_rips#le-jeudi-17-septembre-2015)
 
 ### 20 août 2015
 
-* [Déclaration du statut opérationnel pour le Système Global de Prévision Océan-Glace (SGPOG) version 1.1.1](../nwp_giops/changelog_giops_fr#le-jeudi-20-aout-2015)
+* [Déclaration du statut opérationnel pour le Système Global de Prévision Océan-Glace (SGPOG) version 1.1.1](../nwp_giops/changelog_giops#le-jeudi-20-aout-2015)
 
 ### 9 juillet 2015
 
-* [Implantation de la version 1.5 du Système intégré de prévisions immédiates (SIPI 1.5)](../nwp_nowcasting/changelog_nowcasting_fr#le-jeudi-9-juillet-2015)
+* [Implantation de la version 1.5 du Système intégré de prévisions immédiates (SIPI 1.5)](../nwp_nowcasting/changelog_nowcasting#le-jeudi-9-juillet-2015)
 
 ### 23 juin 2015
 
-* [Système global de prévision déterministe des vagues (SGPDV)](../nwp_gdwps/changelog_gdwps_fr#le-mardi-23-juin-2015)
+* [Système global de prévision déterministe des vagues (SGPDV)](../nwp_gdwps/changelog_gdwps#le-mardi-23-juin-2015)
 
 ### 11 juin 2015
 
-* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA)](../nwp_raqdps/changelog_raqdps_fr#le-jeudi-11-juin-2015)
+* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA)](../nwp_raqdps/changelog_raqdps#le-jeudi-11-juin-2015)
 
 ### 3 juin 2015
 
-* [Analyse régionale déterministe de précipitations (ARDP (CaPA)) 3.1.0](../nwp_rdpa/changelog_rdpa_fr#le-mercredi-3-juin-2015)
+* [Analyse régionale déterministe de précipitations (ARDP (CaPA)) 3.1.0](../nwp_rdpa/changelog_rdpa#le-mercredi-3-juin-2015)
 
 ### 16 avril 2015
 
-* [Analyse régionale déterministe de la qualité de l'air (ARDQA) 1.1.0](../nwp_rdaqa/changelog_rdaqa_fr#le-jeudi-16-avril-2015)
+* [Analyse régionale déterministe de la qualité de l'air (ARDQA) 1.1.0](../nwp_rdaqa/changelog_rdaqa#le-jeudi-16-avril-2015)
 
 ## 2014
 
 ### 18 novembre 2014
 
-* [Système global de prévision d'ensemble (SGPE) 4.0.0](../nwp_geps/changelog_geps_fr#le-mardi-18-novembre-2014)
-* [Système global de prévision déterministe (SGPD) 4.0.0](../nwp_gdps/changelog_gdps_fr#le-mardi-18-novembre-2014)
-* [Système régional de prévision déterministe (SRPD) 4.0.0](../nwp_rdps/changelog_rdps_fr#le-mardi-18-novembre-2014)
-* [Système de prévision couplé atmosphère-océan-glace golfe St-Laurent](../nwp_rdps-cgsl/changelog_rdps-cgsl_fr#le-mardi-18-novembre-2014)
-* [Analyse régionale déterministe de précipitations (ARDP (CaPA)) 3.0.0](../nwp_rdpa/changelog_rdpa_fr#le-mardi-18-novembre-2014)
-* [Système haute résolution de prévision déterministe (SHRPD) 4.0.0](../nwp_hrdps/changelog_hrdps_fr#le-mardi-18-novembre-2014)
-* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA) 1.5.3](../nwp_raqdps/changelog_raqdps_fr#le-mardi-18-novembre-2014)
+* [Système global de prévision d'ensemble (SGPE) 4.0.0](../nwp_geps/changelog_geps#le-mardi-18-novembre-2014)
+* [Système global de prévision déterministe (SGPD) 4.0.0](../nwp_gdps/changelog_gdps#le-mardi-18-novembre-2014)
+* [Système régional de prévision déterministe (SRPD) 4.0.0](../nwp_rdps/changelog_rdps#le-mardi-18-novembre-2014)
+* [Système de prévision couplé atmosphère-océan-glace golfe St-Laurent](../nwp_rdps-cgsl/changelog_rdps-cgsl#le-mardi-18-novembre-2014)
+* [Analyse régionale déterministe de précipitations (ARDP (CaPA)) 3.0.0](../nwp_rdpa/changelog_rdpa#le-mardi-18-novembre-2014)
+* [Système haute résolution de prévision déterministe (SHRPD) 4.0.0](../nwp_hrdps/changelog_hrdps#le-mardi-18-novembre-2014)
+* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA) 1.5.3](../nwp_raqdps/changelog_raqdps#le-mardi-18-novembre-2014)
 
 ### 6 mai 2014
 
-* [Incorporation des observations IASI de METOP-B/1 aux données operationnelles du système SGPD](../nwp_gdps/changelog_gdps_fr#le-mardi-6-mai-2014)
-* [Incorporation des observations IASI de METOP-B/1 aux données operationnelles du système SRPD](../nwp_rdps/changelog_rdps_fr#le-mardi-6-mai-2014)
+* [Incorporation des observations IASI de METOP-B/1 aux données operationnelles du système SGPD](../nwp_gdps/changelog_gdps#le-mardi-6-mai-2014)
+* [Incorporation des observations IASI de METOP-B/1 aux données operationnelles du système SRPD](../nwp_rdps/changelog_rdps#le-mardi-6-mai-2014)
 
 ## 2013
 
 ### 4 décembre 2013
 
-* [Système global de prévision d'ensemble (SGPE) 3.1.0](../nwp_geps/changelog_geps_fr#le-mardi-4-decembre-2013)
-* [Système régional de prévision d'ensemble (SRPE) 2.0.1](../nwp_reps/changelog_reps_fr#le-mardi-4-decembre-2013)
+* [Système global de prévision d'ensemble (SGPE) 3.1.0](../nwp_geps/changelog_geps#le-mardi-4-decembre-2013)
+* [Système régional de prévision d'ensemble (SRPE) 2.0.1](../nwp_reps/changelog_reps#le-mardi-4-decembre-2013)
 
 ### 20 novembre 2013
 
-* [Implantation de la version 1.4 du Système intégré de prévisions immédiates (SIPI 1.4)](../nwp_nowcasting/changelog_nowcasting_fr#le-mercredi-20-novembre-2013)
+* [Implantation de la version 1.4 du Système intégré de prévisions immédiates (SIPI 1.4)](../nwp_nowcasting/changelog_nowcasting#le-mercredi-20-novembre-2013)
 
 ### 7 novembre 2013
 
-* [Ajout données satellitaires (CSR, ATOVS, vents polaires) dans le SGPD](../nwp_gdps/changelog_gdps_fr#le-jeudi-7-novembre-2013)
-* [Ajout données satellitaires (CSR, ATOVS, vents polaires) dans le SRPD](../nwp_rdps/changelog_rdps_fr#le-jeudi-7-novembre-2013)
+* [Ajout données satellitaires (CSR, ATOVS, vents polaires) dans le SGPD](../nwp_gdps/changelog_gdps#le-jeudi-7-novembre-2013)
+* [Ajout données satellitaires (CSR, ATOVS, vents polaires) dans le SRPD](../nwp_rdps/changelog_rdps#le-jeudi-7-novembre-2013)
 
 ### 20 août 2013
 
-* [Mise en place de la version 2.4 de CaPA (ARPD)](../nwp_rdpa/changelog_rdpa_fr#le-mardi-20-aout-2013)
+* [Mise en place de la version 2.4 de CaPA (ARPD)](../nwp_rdpa/changelog_rdpa#le-mardi-20-aout-2013)
 
 ### 12 août 2013
 
-* [Matrices globales Scribes maintenant disponibles environ 30 minutes plus tôt](../nwp_gdps/changelog_gdps_fr#le-lundi-12-aout-2013)
+* [Matrices globales Scribes maintenant disponibles environ 30 minutes plus tôt](../nwp_gdps/changelog_gdps#le-lundi-12-aout-2013)
 
 ### 23 juillet 2013
 
-* [Ajustement à l'analyse de température de la mer (GODAS) pour SPISCan](../nwp_cansips/changelog_cansips_fr#le-mardi-23-juillet-2013)
-* [Implantation expérimentale de la version 2.0 du Système régional de prévision de glace - Composante prévision (RIPS-F)](../nwp_rips/changelog_rips_fr#le-mardi-23-juillet-2013)
+* [Ajustement à l'analyse de température de la mer (GODAS) pour SPISCan](../nwp_cansips/changelog_cansips#le-mardi-23-juillet-2013)
+* [Implantation expérimentale de la version 2.0 du Système régional de prévision de glace - Composante prévision (RIPS-F)](../nwp_rips/changelog_rips#le-mardi-23-juillet-2013)
 
 ### 12 juillet 2013
 
-* [Ajustements au calcul du temps violent d'été et au domaine arctique du système à haute résolution de prévision déterministe (SHRPD - version 3.0.1)](../nwp_hrdps/changelog_hrdps_fr#le-vendredi-12-juillet-2013)
+* [Ajustements au calcul du temps violent d'été et au domaine arctique du système à haute résolution de prévision déterministe (SHRPD - version 3.0.1)](../nwp_hrdps/changelog_hrdps#le-vendredi-12-juillet-2013)
 
 ### 3 juillet 2013
 
-* [Mise à jour au binaire SRPD (pour la production de la variable PX)](../nwp_rdps/changelog_rdps_fr#le-mercredi-3-juillet-2013)
+* [Mise à jour au binaire SRPD (pour la production de la variable PX)](../nwp_rdps/changelog_rdps#le-mercredi-3-juillet-2013)
 
 ### 18 juin 2013
 
@@ -590,67 +590,67 @@ Eau, océan et glace
 
 ### 17 mai 2013
 
-* [Implantation expérimentale de la version 2.0 du Système régional de prévision de glace - Composante analyse (RIPS-A)](../nwp_rips/changelog_rips_fr#le-vendredi-17-mai-2013)
+* [Implantation expérimentale de la version 2.0 du Système régional de prévision de glace - Composante analyse (RIPS-A)](../nwp_rips/changelog_rips#le-vendredi-17-mai-2013)
 
 ### 13 mai 2013
 
-* [Implantation du Système hydrodynamique opérationnel (SHOP) 1.0.0](../nwp_ohps/changelog_ohps_fr#le-lundi-13-mai-2013)
+* [Implantation du Système hydrodynamique opérationnel (SHOP) 1.0.0](../nwp_ohps/changelog_ohps#le-lundi-13-mai-2013)
 
 ### 7 mai 2013
 
-* [Ajout de données METOP-1 à la famille GPS-ro au système d'assimilation de données du CMC](../changelog_multisystems_fr#le-mardi-7-mai-2013)
+* [Ajout de données METOP-1 à la famille GPS-ro au système d'assimilation de données du CMC](../changelog_multisystems#le-mardi-7-mai-2013)
 
 ### 15 avril 2013
 
-* [Ajout de données METOP-1 à la famille GPS-ro au système d'assimilation de données du CMC](../changelog_multisystems_fr#le-lundi-15-avril-2013)
+* [Ajout de données METOP-1 à la famille GPS-ro au système d'assimilation de données du CMC](../changelog_multisystems#le-lundi-15-avril-2013)
 
 ### 28 février 2013
 
-* [Analyse régionale déterministe de la qualité de l'air (ARDQA) 1.0.0](../nwp_rdaqa/changelog_rdaqa_fr#le-jeudi-28-fevrier-2013)
+* [Analyse régionale déterministe de la qualité de l'air (ARDQA) 1.0.0](../nwp_rdaqa/changelog_rdaqa#le-jeudi-28-fevrier-2013)
 
 ### 26 février 2013
 
-* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA) 1.5.1](../nwp_raqdps/changelog_raqdps_fr#le-mardi-26-fevrier-2013)
+* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA) 1.5.1](../nwp_raqdps/changelog_raqdps#le-mardi-26-fevrier-2013)
 
 ### 13 février 2013
 
-* [Système global de prévision déterministe (SGPD) 3.0.0](../nwp_gdps/changelog_gdps_fr#le-mercredi-13-fevrier-2013)
-* [Système global de prévision d'ensemble (SGPE) 3.0.0](../nwp_geps/changelog_geps_fr#le-mercredi-13-fevrier-2013)
-* [Système régional de prévision déterministe (SRPD) 3.1.0](../nwp_rdps/changelog_rdps_fr#le-mercredi-13-fevrier-2013)
+* [Système global de prévision déterministe (SGPD) 3.0.0](../nwp_gdps/changelog_gdps#le-mercredi-13-fevrier-2013)
+* [Système global de prévision d'ensemble (SGPE) 3.0.0](../nwp_geps/changelog_geps#le-mercredi-13-fevrier-2013)
+* [Système régional de prévision déterministe (SRPD) 3.1.0](../nwp_rdps/changelog_rdps#le-mercredi-13-fevrier-2013)
 
 ## 2012
 
 ### 19 octobre 2012
 
-* [SRPD - ajustement au temps de coupure - collecte d'observations](../nwp_rdps/changelog_rdps_fr#le-mercredi-19-octobre)
+* [SRPD - ajustement au temps de coupure - collecte d'observations](../nwp_rdps/changelog_rdps#le-mercredi-19-octobre)
 
 ### October 3, 2012
 
-* [SRPD 3.0.0](../nwp_rdps/changelog_rdps_fr#le-mercredi-3-octobre-2012)
-* [Système haute résolution de prévision déterministe (SHRPD) 3.0.0](../nwp_hrdps/changelog_hrdps_fr#le-mercredi-3-octobre-2012)
-* [Analyse régionale déterministe de précipitations (ARDP (CaPA)) 2.3.0](../nwp_rdpa/changelog_rdpa_fr#le-mercredi-3-octobre-2012)
-* [Ajustement au système de prévision couplé atmosphère-océan-glace golfe St-Laurent](../nwp_rdps-cgsl/changelog_rdps-cgsl_fr#le-mercredi-3-octobre-2012)
-* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA) 1.5.0](../nwp_raqdps/changelog_raqdps_fr#le-mercredi-3-octobre-2012)
+* [SRPD 3.0.0](../nwp_rdps/changelog_rdps#le-mercredi-3-octobre-2012)
+* [Système haute résolution de prévision déterministe (SHRPD) 3.0.0](../nwp_hrdps/changelog_hrdps#le-mercredi-3-octobre-2012)
+* [Analyse régionale déterministe de précipitations (ARDP (CaPA)) 2.3.0](../nwp_rdpa/changelog_rdpa#le-mercredi-3-octobre-2012)
+* [Ajustement au système de prévision couplé atmosphère-océan-glace golfe St-Laurent](../nwp_rdps-cgsl/changelog_rdps-cgsl#le-mercredi-3-octobre-2012)
+* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA) 1.5.0](../nwp_raqdps/changelog_raqdps#le-mercredi-3-octobre-2012)
 
 ## 2011
 
 ### 22 décembre 2011
 
-* [Correction à l'analyse de neige du SHRPD 2.2.1](../nwp_hrdps/changelog_hrdps_fr#le-jeudi-22-decembre-2011)
-* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA)](../nwp_raqdps/changelog_raqdps_fr#le-jeudi-22-decembre-2011)
+* [Correction à l'analyse de neige du SHRPD 2.2.1](../nwp_hrdps/changelog_hrdps#le-jeudi-22-decembre-2011)
+* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA)](../nwp_raqdps/changelog_raqdps#le-jeudi-22-decembre-2011)
 
 ### 1er décembre 2011
 
-* [Système de prévision interannuelle et saisonnière Canadien SPISCan 1.0.0](../nwp_cansips/changelog_cansips_fr#le-jeudi-1er-decembre-2011)
+* [Système de prévision interannuelle et saisonnière Canadien SPISCan 1.0.0](../nwp_cansips/changelog_cansips#le-jeudi-1er-decembre-2011)
 
 ### 16 novembre 2011
 
-* [SGPD 2.2.0](../nwp_gdps/changelog_gdps_fr#le-mercredi-16-novembre-2011) 
-* [SRPD 2.0.0](../nwp_rdps/changelog_rdps_fr#le-mercredi-16-novembre-2011)
+* [SGPD 2.2.0](../nwp_gdps/changelog_gdps#le-mercredi-16-novembre-2011) 
+* [SRPD 2.0.0](../nwp_rdps/changelog_rdps#le-mercredi-16-novembre-2011)
 
 ### 22 septembre 2011
 
-* [SRPE 1.0.0](../nwp_reps/changelog_reps_fr#le-jeudi-22-septembre-2011)
+* [SRPE 1.0.0](../nwp_reps/changelog_reps#le-jeudi-22-septembre-2011)
 
 ## Le mercredi 20 Octobre 2010
 

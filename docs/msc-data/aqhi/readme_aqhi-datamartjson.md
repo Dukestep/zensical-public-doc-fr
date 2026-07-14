@@ -6,7 +6,7 @@ Cette page décrit les données d'observations et de prévisions disponibles au 
 
 ## Adresse des données 
 
-Les données hébergées sur HPFX, le [serveur alternatif du Datamart du SMC](../../msc-datamart/readme_fr) peuvent être [automatiquement récupérées avec le protocole avancé de mise en file d'attente des messages (AMQP)](../../msc-datamart/amqp.md) dès qu'elles deviennent disponibles. Un [survol et exemples pour accéder et utiliser les données ouvertes du Service météorologique du Canada](../../usage/index.md) est également disponible.
+Les données hébergées sur HPFX, le [serveur alternatif du Datamart du SMC](../../msc-datamart/index.md) peuvent être [automatiquement récupérées avec le protocole avancé de mise en file d'attente des messages (AMQP)](../../msc-datamart/amqp.md) dès qu'elles deviennent disponibles. Un [survol et exemples pour accéder et utiliser les données ouvertes du Service météorologique du Canada](../../usage/index.md) est également disponible.
 
 Les données sont disponibles via le protocole HTTPS. Il est possible d’y accéder avec un fureteur web. Dans ce cas, on obtient une liste de liens donnant accès à un fichier GeoJSON.
 

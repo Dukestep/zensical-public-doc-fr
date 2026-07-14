@@ -6,7 +6,7 @@ Les prévisions océan-glace horaires sont disponibles en format NetCDF sur une 
 
 ## Adresse des données 
 
-Les données hébergées sur le [Datamart du SMC](../../msc-datamart/readme_fr) peuvent être [automatiquement récupérées avec le Protocole avancé de mise en file d'attente des messages (AMQP)](../../msc-datamart/amqp.md) dès qu'elles deviennent disponibles. Un [survol et exemples pour accéder et utiliser les données ouvertes du Service météorologique du Canada](../../usage/index.md) est également disponible.
+Les données hébergées sur le [Datamart du SMC](../../msc-datamart/index.md) peuvent être [automatiquement récupérées avec le Protocole avancé de mise en file d'attente des messages (AMQP)](../../msc-datamart/amqp.md) dès qu'elles deviennent disponibles. Un [survol et exemples pour accéder et utiliser les données ouvertes du Service météorologique du Canada](../../usage/index.md) est également disponible.
 
 Les données sont disponibles via le protocole HTTPS. Il est possible d’y accéder avec un fureteur standard. Dans ce cas, on obtient une liste de liens donnant accès à un fichier NetCDF.
 

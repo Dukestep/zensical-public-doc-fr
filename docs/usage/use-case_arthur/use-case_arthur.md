@@ -1,8 +1,4 @@
-[In English](../use-case_arthur_en/)  
-
 ![ECCC logo](../../img_eccc-logo.png)  
-
-[TdM](../../index.md) > [Aperçu de l'utilisation](../index.md) > Requêtes WMS en Python
 
 # Cas d'utilisation : profits anticipés selon la probabilité de précipitations
 
