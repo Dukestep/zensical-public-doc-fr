@@ -215,8 +215,8 @@ toggle.name = "Passer en mode clair"
 # Extra site-wide variables — here used to configure the language switcher
 [project.extra]
 alternate = [
-  { name = "English", link = "/en/", lang = "en" },
-  { name = "Français", link = "/fr/", lang = "fr" }
+  { name = "English", link = "/zensical-public-doc/en/", lang = "en" },
+  { name = "Français", link = "/zensical-public-doc/fr/", lang = "fr" }
 ]
 
 #
