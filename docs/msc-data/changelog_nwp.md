@@ -408,7 +408,7 @@ Eau, océan et glace
 * [Système régional de prévision déterministe de la qualité de l'air FireWork version 20](nwp_raqdps-fw/changelog_raqdps-fw.md#le-mardi-18-septembre-2018)
 * [Analyse régionale déterministe de précipitation (ARDP (CaPA-10km)) 4.5.0](nwp_rdpa/changelog_rdpa.md#le-mardi-18-septembre-2018)
 * [Analyse déterministe de précipitation à haute résolution (AHRDP (CaPA-2.5km)) 4.5.0](nwp_hrdpa/changelog_hrdpa.md#le-mardi-18-septembre-2018)
-* [Fin du service pour le système de vague "WAM-Global"](nwp_gdwps/changelog_gdwps.md#le-mardi-18-septembre-2018)
+* [Fin du service pour le système de vague "WAM-Global"](nwp_wam-global/changelog_wam-global.md#le-mardi-18-septembre-2018)
 * [Système régional de prévision déterministe de la qualité de l'air (SRPDQA) 020](nwp_raqdps/changelog_raqdps.md#le-mardi-18-septembre-2018)
 
 ### 28 juin 2018
@@ -525,9 +525,9 @@ Eau, océan et glace
 
 * [Analyse régionale déterministe de précipitations (ARDP (CaPA)) 3.1.0](nwp_rdpa/changelog_rdpa.md#le-mercredi-03-juin-2015)
 
-### 16 avril 2015
+<!-- ### 16 avril 2015
 
-* [Analyse régionale déterministe de la qualité de l'air (ARDQA) 1.1.0](nwp_rdaqa/changelog_rdaqa.md#le-jeudi-16-avril-2015)
+* [Analyse régionale déterministe de la qualité de l'air (ARDQA) 1.1.0](nwp_rdaqa/changelog_rdaqa.md#le-jeudi-16-avril-2015) -->
 
 ## 2014
 
@@ -604,9 +604,9 @@ Eau, océan et glace
 
 * [Ajout de données METOP-1 à la famille GPS-ro au système d'assimilation de données du CMC](changelog_multisystems.md#le-lundi-15-avril-2013)
 
-### 28 février 2013
+<!-- ### 28 février 2013
 
-* [Analyse régionale déterministe de la qualité de l'air (ARDQA) 1.0.0](nwp_rdaqa/changelog_rdaqa.md#le-jeudi-28-fevrier-2013)
+* [Analyse régionale déterministe de la qualité de l'air (ARDQA) 1.0.0](nwp_rdaqa/changelog_rdaqa.md#le-jeudi-28-fevrier-2013) -->
 
 ### 26 février 2013
 

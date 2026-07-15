@@ -335,7 +335,7 @@ En ce qui concerne le SRPD, depuis l'implantation du [SRPD 3.1.0](../nwp_rdps/ch
 
 Avec l'installation de tous ces changements, le SRPD opérationnel devient la version 3.2.0.
 
-## Le mardi 3 juillet 2013
+## Le mercredi 3 juillet 2013
 
 #### Mise à jour au binaire SRPD (pour la production de la variable PX)
 ## Le mercredi 13 février, 2013

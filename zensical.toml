@@ -8,7 +8,7 @@ site_description = "Documentation des données ouvertes du Service météorologi
 site_author = "Service météorologique du Canada"
 # Deployed base URL — required for sitemap.xml and instant link previews
 #site_url = "https://username.github.io/repo/fr/"
-
+ 
 # Footer copyright notice (HTML is allowed)
 copyright = """
 Copyright &copy; 2026 Service météorologique du Canada
@@ -501,7 +501,6 @@ features = [
     "content.footnote.tooltips",# Renders footnotes as tooltips on hover
     "content.tabs.link",        # Keeps tab selection in sync across the page
     "content.tooltips",         # Replaces browser title tooltips with styled ones
-    "navigation.footer",        # Shows previous/next page links in the footer
     "navigation.indexes",       # Makes section index pages clickable in the nav
     "navigation.path",          # Shows a breadcrumb path below the header
     "navigation.sections",      # Renders top-level nav items as expandable sections
