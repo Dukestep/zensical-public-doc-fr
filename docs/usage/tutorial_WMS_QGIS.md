@@ -44,7 +44,7 @@ Exemple animé de ces manipulations :
 ![Exemple d'intéractions avec les données WMS](https://collaboration.cmc.ec.gc.ca/cmc/cmos/public_doc/usage/images_QGIS/qgis_wms-pan-zoom-gfi_fr.gif)
 
 ## Naviguer dans les styles de couches WMS disponibles
-[GeoMet du SMC](../msc-geomet/index.md) fournit souvent plusieurs représentations graphiques différentes pour une même couche. Le client peut choisir d'afficher les données en utilisant le style le plus approprié à son cas d'utilisation. Pour plus d'informations sur les styles WMS, visitez la page [spécification des styles](../msc-geomet/wms.md#handling-styles).
+[GeoMet du SMC](../msc-geomet/index.md) fournit souvent plusieurs représentations graphiques différentes pour une même couche. Le client peut choisir d'afficher les données en utilisant le style le plus approprié à son cas d'utilisation. Pour plus d'informations sur les styles WMS, visitez la page [spécification des styles](../msc-geomet/wms.md#specification-des-styles).
 
 Il est possible d'utiliser QGIS pour parcourir les styles disponibles pour une couche WMS donnée et l'exemple suivant montre comment faire :
 

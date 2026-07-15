@@ -338,7 +338,7 @@ Avec l'installation de tous ces changements, le SRPD opérationnel devient la ve
 ## Le mardi 3 juillet 2013
 
 #### Mise à jour au binaire SRPD (pour la production de la variable PX)
-## Mercredi le 13 février, 2013
+## Le mercredi 13 février, 2013
 
 #### Mise à jour du système régional de prévision déterministe (SRPD version 3.1.0) du Centre météorologique canadien (CMC)
 Le mercredi 13 février 2013, à compter de la passe de 1200 UTC, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 3.1.0 de son système régional de prévision déterministe (SRPD)
@@ -349,7 +349,7 @@ Grâce à ces changements, les prévisions du SRPD sont améliorées.
 
 Veuillez consulter la documentation [à ce lien pour plus d'information à ce sujet](../nwp_gdps/changelog_gdps.md).
 
-## Mercredi, le 19 octobre, 2012
+## Le vendredi 19 octobre, 2012
 
 #### Cinq minutes ajoutées au temps de coupure du système régional de prévision déterministe (SRPD version 3.0.0)
 Le mercredi 19 octobre 2012, à compter de la passe de 1800 UTC, les passes `[00,06,12,18]`Z du SRPD debuteront à `[00,06,12,18]`Z+2:00 respectivement, ce qui permettra à ces passes de collecter 5 minutes additionnelles d'observations.

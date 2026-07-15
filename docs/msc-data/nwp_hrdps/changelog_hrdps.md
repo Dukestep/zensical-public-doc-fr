@@ -116,7 +116,7 @@ Seulement la composante de l'assimilation des données a été modifiée afin d'
 
 Ajout des observations GPSRO (Global Positioning System Radio Occultation) du satellite Sentinel-6A.
 
-## Le jeudi 4 janvier 2023
+## Le mercredi 4 janvier 2023
 
 #### Remplacement des vecteurs vents dérivés à partir d’images satellites (Atmospheric Motion wind Vector) de GOES-17 par ceux de GOES-18 dans le SHRPD
 Le mercredi 4 janvier 2023, à compter de la passe de 1800 UTC, le centre météorologique canadien (CMC) du Service météorologique du Canada (SMC) a procédé à une mise à jour de la version 6.1.0 de son Système à haute résolution de prévision déterministe (SHRPD).

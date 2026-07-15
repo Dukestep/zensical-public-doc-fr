@@ -172,7 +172,7 @@ Eau, océan et glace
 
 ### 30 août 2023
 
-* [Mise à jour à la version 2.0.0 du Système à haute résolution de prévision déterministe pour le nord (SHRPD-N) au Centre météorologique canadien](nwp_hrdps-north/changelog_hrdps-north.md#le-mercredi-30-août-2023)
+* [Mise à jour à la version 2.0.0 du Système à haute résolution de prévision déterministe pour le nord (SHRPD-N) au Centre météorologique canadien](nwp_hrdps-north/changelog_hrdps-north.md#le-mercredi-30-aout-2023)
 
 ### 3 août 2023
 
@@ -452,7 +452,7 @@ Eau, océan et glace
 * [Système global de prévision déterministe (SGPD) 6.0.0](nwp_gdps/changelog_gdps.md#le-mercredi-1er-novembre-2017)
 * [Système global de prévision océan-glace (SGPOG) 2.3](nwp_giops/changelog_giops.md#le-mercredi-1er-novembre-2017)
 * [Système global de prévision déterministe des vagues (SGPDV) 1.3.0](nwp_gdwps/changelog_gdwps.md#le-mercredi-1er-novembre-2017)
-* [Système régional de prévision déterministe d’onde de tempête (SRPDOT) 1.3.0](nwp_rdsps/changelog_rdsps.md#le-mercredi-30-janvier-2017)
+* [Système régional de prévision déterministe d’onde de tempête (SRPDOT) 1.3.0](nwp_rdsps/changelog_rdsps.md#le-mercredi-30-janvier-2019)
 
 ### 6 septembre 2017
 
@@ -484,7 +484,7 @@ Eau, océan et glace
 
 ### 7 avril 2016
 
-* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA) 015](nwp_raqdps/changelog_raqdps.md#le-mercredi-7-avril-2016)
+* [Système régional de prévision déterministe de la qualité de l'air (SRPDQA) 015](nwp_raqdps/changelog_raqdps.md#le-jeudi-7-avril-2016)
 
 ### 16 mars 2016
 
@@ -523,7 +523,7 @@ Eau, océan et glace
 
 ### 3 juin 2015
 
-* [Analyse régionale déterministe de précipitations (ARDP (CaPA)) 3.1.0](nwp_rdpa/changelog_rdpa.md#le-mercredi-3-juin-2015)
+* [Analyse régionale déterministe de précipitations (ARDP (CaPA)) 3.1.0](nwp_rdpa/changelog_rdpa.md#le-mercredi-03-juin-2015)
 
 ### 16 avril 2015
 
@@ -550,8 +550,8 @@ Eau, océan et glace
 
 ### 4 décembre 2013
 
-* [Système global de prévision d'ensemble (SGPE) 3.1.0](nwp_geps/changelog_geps.md#le-mardi-4-decembre-2013)
-* [Système régional de prévision d'ensemble (SRPE) 2.0.1](nwp_reps/changelog_reps.md#le-mardi-4-decembre-2013)
+* [Système global de prévision d'ensemble (SGPE) 3.1.0](nwp_geps/changelog_geps.md#le-mercredi-4-decembre-2013)
+* [Système régional de prévision d'ensemble (SRPE) 2.0.1](nwp_reps/changelog_reps.md#le-mercredi-4-decembre-2013)
 
 ### 20 novembre 2013
 
@@ -622,7 +622,7 @@ Eau, océan et glace
 
 ### 19 octobre 2012
 
-* [SRPD - ajustement au temps de coupure - collecte d'observations](nwp_rdps/changelog_rdps.md#le-mercredi-19-octobre)
+* [SRPD - ajustement au temps de coupure - collecte d'observations](nwp_rdps/changelog_rdps.md#le-vendredi-19-octobre-2012)
 
 ### October 3, 2012
 

@@ -68,7 +68,7 @@ Une note technique à ce sujet [est disponible via ce lien](https://collaboratio
 #### Mise à jours du SGPOG à la version 3.2.1 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
-## Mercredi 3 juillet, 2019
+## Le mercredi 3 juillet, 2019
 
 #### Mise à jour du Système global de prévision océan-glace (SGPOG) 3.0.0 du Centre météorologique canadien (CMC)
 Le mercredi 3 juillet 2019, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 3.0.0 de son Système global de prévision océan-glace (SGPOG).
@@ -85,7 +85,7 @@ Le document des spécifications techniques du SGPOG 3.0.0 [est disponible ici](h
 Une note technique à ce sujet [est disponible via ce lien](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_notes/technote_giops-300_f.pdf).
 
 
-## Le mercredi 1 novembre 2017
+## Le mercredi 1er novembre 2017
 
 #### Mise à jour du Système global de prévision océan-glace (SGPOG) 2.3 du Centre météorologique canadien (CMC)
 Le mercredi 1er novembre 2017, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 2.3 de son Système global de prévision océan-glace (SGPOG).

@@ -45,7 +45,7 @@ Un résumé des innovations incluses dans cette mise à jour ainsi que leurs imp
 #### Mise à jour de SPCOG à la version 2.1.0 suite à la nouvelle infrastructure de calcul haute performance. 
 Voir les détails via [ce lien](../changelog_multisystems.md).
 
-## Le mercredi 1er décembre 2022
+## Le mercredi 1er décembre 2021
 
 #### Mise à jour du Système de prévision côtier océan-glace (SPCOG) 2.0.0 du Centre météorologique canadien (CMC)
 Le mercredi 1er décembre 2021, le Centre météorologique canadien (CMC) va procéder à la mise en œuvre opérationnelle de la version 2.0.0 de ses deux Systèmes de prévision côtier océan-glace: la fenêtre est (SPCOG-E) et la fenêtre ouest (SPCOG-O). À partir de cette mise à jour, les deux systèmes SPCOG-E et SPCOG-O obtiennent le statut opérationnel.
