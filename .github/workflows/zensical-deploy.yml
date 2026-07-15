@@ -25,16 +25,14 @@ jobs:
         run: zensical build --clean
 
       # Pushes the built site/ into the /fr/ subdirectory of the gh-pages branch
-      # on the central deployment repo. Replace OWNER/DEPLOY-REPO with the actual
-      # repository that hosts your GitHub Pages site.
-      #
-      # - name: Deploy to GitHub Pages
-      #   uses: peaceiris/actions-gh-pages@v4
-      #   with:
-      #     # Personal access token with repo write access to the deployment repo
-      #     personal_token: ${{ secrets.DEPLOY_TOKEN }}
-      #     external_repository: OWNER/DEPLOY-REPO
-      #     publish_branch: gh-pages
-      #     publish_dir: ./site
-      #     destination_dir: fr
-      #     keep_files: true
+      # on the central deployment repo.
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          # Personal access token with repo write access to the deployment repo
+          personal_token: ${{ secrets.DEPLOY_TOKEN }}
+          external_repository: Dukestep/zensical-public-doc
+          publish_branch: gh-pages
+          publish_dir: ./site
+          destination_dir: fr
+          keep_files: true

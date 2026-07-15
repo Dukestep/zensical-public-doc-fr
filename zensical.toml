@@ -7,7 +7,7 @@ site_name = "Documentation des données ouvertes du Service météorologique du 
 site_description = "Documentation des données ouvertes du Service météorologique du Canada"
 site_author = "Service météorologique du Canada"
 # Deployed base URL — required for sitemap.xml and instant link previews
-#site_url = "https://username.github.io/repo/fr/"
+site_url = "https://dukestep.github.io/zensical-public-doc/fr/"
 
 # Footer copyright notice (HTML is allowed)
 copyright = """
