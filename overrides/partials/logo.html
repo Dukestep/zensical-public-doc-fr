@@ -1,0 +1,7 @@
+<!-- Logo — single element; the dark-mode image is swapped in via CSS (content: url(...)) -->
+{% if config.theme.logo %}
+  <img class="md-logo" src="{{ config.theme.logo | url }}" alt="{{ config.site_name }}" />
+{% else %}
+  {% set icon = config.theme.icon.logo or "material/library" %}
+  {% include ".icons/" ~ icon ~ ".svg" %}
+{% endif %}

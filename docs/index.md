@@ -62,12 +62,17 @@ L'accès aux données ouvertes disponibles sur le Datamart du SMC et sur GeoMet 
 
 === ":material-tools: Utilisation et outils"
 
-    * **[Aperçu de l'utilisation](usage/index.md)**
-    * **[MSC AniMet](msc-animet/index.md)**
+    * [Aperçu de l'utilisation](usage/index.md)
+    * [MSC AniMet](msc-animet/index.md)
 
 === ":material-school: Tutoriels"
 
-    * [Accéder aux tutoriels diponibles](usage/tutorials.md)
+    * [Couches WMS dans QGIS](usage/tutorial_WMS_QGIS.md)
+    * [Cartes interactives avec OpenLayers et Leaflet](usage/tutorial_web-maps.md)
+    * [Interroger les services WMS avec Python](usage/use-case_arthur/use-case_arthur.md)
+    * [Requêtes OGC API - Features en Excel et R](usage/tutorial_OAFeat_R-Excel.md)
+    * [OGC API - Features dans QGIS](usage/tutorial_OAFeat_QGIS.md)
+    * [Extraire des données WCS avec GDAL](usage/tutorial_gdal/tutorial_gdal.md)
 
 === ":material-code-braces: Documentation technique"
 

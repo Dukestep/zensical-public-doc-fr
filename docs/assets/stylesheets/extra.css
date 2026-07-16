@@ -2,6 +2,22 @@
   border-top: 3px solid var(--md-primary-fg-color);
 }
 
+/* Header logo: swapped to the reversed/light */
+.md-header img.md-logo {
+  height: 1.7rem;
+  width: auto;
+}
+
+[data-md-color-scheme="slate"] img.md-logo {
+  content: url("../../eccc-logo-reversed.png");
+}
+
+/* Breathing room between the site title and the palette/language/search
+   controls that follow it in the header */
+.md-header__title {
+  margin-right: 1.25rem;
+}
+
 .md-announce svg {
   height: 1rem;
   vertical-align: middle;
