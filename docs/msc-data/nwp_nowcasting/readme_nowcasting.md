@@ -5,8 +5,6 @@ tags:
   - Prévisions immédiates
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et Produits des matrices Scribe de prévisions immédiates
 
 Cette page décrit les données et produits des [matrices Scribe de prévisions immédiates](readme_nowcasting-datamart.md).

@@ -1,7 +1,3 @@
-
-
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données de l'Analyse à Haute Résolution Ensembliste de Précipitation (AHREP) sur GeoMet du SMC
 
 GeoMet du SMC donne accès à plusieurs couches de Système global de l'Analyse à Haute Résolution Ensembliste de Précipitation (AHREP). Les usagers peuvent développer des applications mobiles, créer des cartes interactives en ligne, ainsi que visualiser et animer les données du SMC dans des logiciels de bureau.

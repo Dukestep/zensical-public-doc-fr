@@ -3,10 +3,8 @@ tags:
   - Données retirées
   - Régional
   - Déterministe
-status: deprecated
+status: new
 ---
-
-![ECCC logo](../../img_eccc-logo.png)
 
 !!! failure "Données retirées"
     Ce jeu de données a été retiré et n'est plus disponible.

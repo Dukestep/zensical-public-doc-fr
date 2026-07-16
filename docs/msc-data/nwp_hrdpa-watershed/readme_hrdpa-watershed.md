@@ -4,8 +4,6 @@ tags:
   - Analyse
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et Produits de précipitations moyennes par bassin-versant de l'Analyse à haute résolution déterministe de précipitation (AHRDP)
 
 Le Système Canadien d'Analyse de Précipitation (CaPA) produit une estimation optimale de la précipitation sur des périodes de cumuls de 6 et 24 heures. Cet estimé objectif intègre des relevés pluviométriques provenant de capteurs de précipitation, de QPE radars et d'un champ d'essai généré par un système de prévision numérique du temps. Dans le but de produire l'Analyse à Haute Résolution Déterministe de Précipitation (AHRDP) à une résolution de 2.5 km, CaPA est connecté sur le SHRPD continental pour préparer son champ d'essai. CaPA-AHRDP produit quatre analyses de cumuls 6 heures valides aux heures synoptiques (00, 06, 12 et 18 UTC) et deux analyses 24 heures valides à 06 et 12 UTC. Une production préliminaire est démarrée 1 heure après l'heure de validité et une autre, dite finale, est lancée 7 heures plus tard, ce qui revient à un total de 12 analyses par jour.

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données du Système global de prévision déterministe (SGPD)
 
 Les champs du jeu de données GRIB2 du [Système global de prévision déterministe (SGPD)](readme_gdps.md) sont disponibles sur une grille latitude-longitude à une résolution effective d’environ 15 km.

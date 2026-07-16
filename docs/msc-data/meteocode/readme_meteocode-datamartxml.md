@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données de prévision meteocode en format XML
 
 Cette page décrit les fichiers de langage de balisage météorologique canadien (CMML) qui se trouvent sur le Datamart du SMC. Le CMML est un format XML contenant les prévisions officielles d'Environnement et Changement climatique Canada, interpollées aux heures.

@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Licence d’utilisation finale pour les serveurs de données d’Environnement et Changement climatique Canada
 
 !!! info "Version 2.1 - Septembre 2022"

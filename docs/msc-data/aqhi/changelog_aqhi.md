@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au programme Cote Air Santé (CAS) 
 
 ## Le mardi 11 mars 2008

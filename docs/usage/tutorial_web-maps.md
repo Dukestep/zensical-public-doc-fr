@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Tutoriel : créer des cartes interactives sur le web avec OpenLayers et Leaflet
 
 Les services web géospatiaux de [GeoMet du SMC](../msc-geomet/index.md) peuvent facilement être intégrés dans des bibliothèques de cartographie web libres et gratuites telles que [OpenLayers](https://openlayers.org/) et [Leaflet](https://leafletjs.com/) pour créer des cartes interactives pour pages web et applications mobiles. Ce tutoriel vous montrera comment travailler avec le standard WMS (Web Map Service) en utilisant ces deux bibliothèques. À la fin, vous serez en mesure d'afficher n'importe quelle couche WMS de GeoMet du SMC sur une carte interactive, d'interroger la couche pour obtenir des données et d'animer des couches selon une dimension temporelle.

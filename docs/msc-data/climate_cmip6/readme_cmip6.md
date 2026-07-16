@@ -4,8 +4,6 @@ tags:
   - Global
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits de scénarios climatiques, basés sur un ensemble de projections de modèles climatiques globaux de la phase 6 du projet d’intercomparaison de modèles couplés (CMIP6) 
 
 Des ensembles multimodèles pour une série de variables basées sur les projections des modèles climatiques mondiaux (MCM) de la phase 6 du Projet d’intercomparaison des modèles couplés (CMIP6) sont disponibles pour 1850 à 2100 sur une grille mondiale commune de 1 x 1 degré.

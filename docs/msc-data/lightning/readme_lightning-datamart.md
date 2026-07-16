@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données de densité de foudre
 
 Cette page décrit les données de densité de [foudre](readme_lightning.md) en format GeoTIFF disponibles sur le Datamart du SMC.

@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Logistique de transport terrestre&emsp;<i class="wi wi-train" style="font-size: 45px; color: #4e64a6;"></i>
 
 Cette page présente une liste de jeux de données pertinents du Service météorologique du Canada sous le thème de la logistique de transport terrestre, afin de guider les utilisateurs vers les jeux de données appropriés. Cette liste n'est pas exhaustive, mais donne un aperçu des couches qui peuvent être utilisées sous ce thème. Les principales couches de données pour ce thème sont les variables des taux de précipitations. Cependant, un certain nombre d'autres couches pertinentes peuvent également fournir des informations supplémentaires sur le sujet, telles que les rafales de vent, la visibilité ou possibilité de poudrerie sur les trajets, pour ne citer que ces quelques exemples.

@@ -3,8 +3,6 @@ tags:
   - Observation
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits d'observations des profils verticaux
 
 Cette page décrit les données observées (ObsTephi) contenant les données réelles à tous les niveaux mesurées par le ballon de sondage.

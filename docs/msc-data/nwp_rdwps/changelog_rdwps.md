@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système régional de prévision déterministe de vague (SRPDV)
 
 ## Le mardi 14 avril 2026

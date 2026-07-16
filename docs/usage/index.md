@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Aperçu de l'utilisation
 
 Aperçu de l'utilisation et exemples pour accéder et utiliser les données ouvertes du Service météorologique du Canada (SMC).

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données des bulletins alphanumériques
 
 Cette page décrit les données des [bulletins alphanumériques](readme_bulletins.md).

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données GRIB2 du Système global de prévision d'ensemble (SGPE)
 
 Cette page décrit les données du [Système global de prévision d'ensemble](readme_geps.md) disponibles en format GRIB2.

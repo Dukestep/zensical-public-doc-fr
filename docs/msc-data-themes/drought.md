@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Vagues de chaleur&emsp;<i class="wi wi-hot" style="font-size: 45px; color: #4e64a6;"></i>
 
 Cette page présente une liste de jeux de données pertinents du Service météorologique du Canada sous le thème des vagues de chaleur, afin de guider les utilisateurs vers les jeux de données appropriés. Cette liste n'est pas exhaustive, mais donne un aperçu des couches qui peuvent être utilisées sous ce thème. Les principales couches de données pour ce thème sont les quantités de précipitations et de température. Cependant, un certain nombre d'autres couches pertinentes peuvent également fournir des informations supplémentaires sur le sujet, telles que le ruissellement ou l'eau précipitable contenue dans les nuages, pour ne citer que deux exemples.

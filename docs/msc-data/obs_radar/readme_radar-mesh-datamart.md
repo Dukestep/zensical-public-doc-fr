@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Produit radar de diamètre maximal de grêle (DMG)
 
 Le produit DMG (Diamètre Maximal de Grêle) est déterminé comme suit : Le volume de la réflectivité radar à un emplacement de pixel donné est intégré verticalement depuis le balayage à l'élévation la plus basse jusqu'à la hauteur du niveau de température de -20°C. Le niveau de température est déterminé par le [Système à haute résolution de prévision déterministe (SHRPD)](../nwp_hrdps/readme_hrdps.md). La réflectivité pondérée est traitée à travers plusieurs étapes intermédiaires et une relation empirique est utilisée pour estimer les tailles maximales de grêle. Les estimations résultantes de la taille de la grêle sont affichées sous forme de champ bidimensionnel ou de PPI (Plan Position Indicator). L'unité du produit DMG est en millimètres. 

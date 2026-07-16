@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Imagerie radar
 
 Cette page décrit les données d'Estimation quantitative des précipitations à double polarisation (EQPDP)en format GeoTIFF disponibles sur le Datamart du SMC.

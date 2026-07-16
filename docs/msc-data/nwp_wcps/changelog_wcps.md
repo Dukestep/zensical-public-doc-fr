@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système de prévision du cycle de l'eau (SPCE)
 
 ## Le mardi 14 avril 2026

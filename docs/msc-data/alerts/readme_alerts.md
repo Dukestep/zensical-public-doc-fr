@@ -4,8 +4,6 @@ tags:
   - Temps réel
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits d'avertissements météorologiques dans le format du Protocole d'Alerte Commun (PAC)
 
 Environnement et Changement climatique Canada publie des alertes météo lorsque le temps est menaçant pour informer les personnes se trouvant dans les zones touchées afin qu'elles puissent prendre des mesures pour se protéger et protéger leurs biens. Le type d'alerte utilisé dépend de la gravité et du moment de l'événement. Ce qui inclut : les avertissements, les veilles, les avis et les bulletins. Les avertissements sont habituellement émis entre 6 et 24 heures à l'avance, même si certains phénomènes violents (par exemple les orages et les tornades) peuvent se produire rapidement, avec un avis de moins d'une demi-heure. 

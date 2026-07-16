@@ -5,8 +5,6 @@ tags:
 ---
 
 
-![ECCC logo](../img_eccc-logo.png)
-
 # AniMet du SMC
 
 AniMet du SMC est un outil simple permettant aux utilisateurs d'interagir avec les données ouvertes météorologiques, climatiques, hydrologiques et environnementales du SMC et de créer des animations personnalisées pour n'importe quelle région du monde. Les animations résultantes peuvent être téléchargées et partagées avec un permalien.

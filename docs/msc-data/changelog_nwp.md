@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Changements au système opérationnel du Centre Météorologique Canadien (CMC)
 
 

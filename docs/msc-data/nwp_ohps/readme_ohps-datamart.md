@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données NetCDF du Système de simulation hydrodynamique opérationnelle (SHOP)
 
 Cette page décrit les données d'analyses et de prévisions du [Système de simulation hydrodynamique opérationnelle](./readme_ohps.md) disponibles en format NetCDF.

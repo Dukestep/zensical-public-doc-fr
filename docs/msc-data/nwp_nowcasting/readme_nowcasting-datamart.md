@@ -1,6 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # Matrices Scribe de prévisions immédiates
 
 Les fichiers de [matrices de prévisions immédiates](readme_nowcasting.md) sont mis à jour à chaque heure et contiennent un ensemble cohérent d'éléments du temps observés et prévus à très court terme pour des points de prévision correspondant généralement à des sites de stations d'observation. Il y a plus de 450 points de prévision dans la matrice.

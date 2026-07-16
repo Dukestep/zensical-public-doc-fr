@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système canadien de prévision de l'Arctique (SCPA)
 
 ## Le mardi 14 avril 2026

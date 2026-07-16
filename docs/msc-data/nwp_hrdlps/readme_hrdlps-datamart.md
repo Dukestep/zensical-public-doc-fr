@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données du Système de prévision déterministe à haute résolution de la surface terrestre (SPDHRS) en format NetCDF
 
 Cette page décrit les données du [Système de prévision déterministe à haute résolution de la surface](./readme_hrdlps.md) disponibles en format NetCDF sur le serveur Datamart du SMC.

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données GRIB2 du Système Global de Prévision d'Ensemble de Vague (SGPEV)
 
 Cette page décrit les données du [Système Global de Prévision d'Ensemble de Vague (SGPEV)](readme_gewps.md) disponibles en format GRIB2.

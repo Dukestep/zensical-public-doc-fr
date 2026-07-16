@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données des indices climatiques mis à l’échelle de manière statistique en format NetCDF
 
 Des [données d'indices climatiques](readme_climateindices.md) en format NetCDF, mis à l’échelle de manière statistique pour des simulations historiques, ainsi que pour trois scénarios d’émissions, RCP 2.6, RCP 4.5 et RCP 8.5, sont disponibles sur une grille à une résolution de 10 km x 10 km.

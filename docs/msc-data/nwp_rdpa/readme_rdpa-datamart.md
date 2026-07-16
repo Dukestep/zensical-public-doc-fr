@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données GRIB2 de l'Analyse Régionale Déterministe de Précipitation (ARDP - CaPA)
 
 Cette page décrit les données de L’[Analyse régionale déterministe de précipitation (ARDP)](readme_rdpa.md), fondée sur le système CaPA (Canadian Precipitation Analysis).

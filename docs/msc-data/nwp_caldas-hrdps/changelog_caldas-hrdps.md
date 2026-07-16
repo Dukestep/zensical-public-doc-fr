@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système canadien d'assimilation de données de surface dans le Système à haute résolution de prévision déterministe (SHRPD)
 
 ## Le mardi 14 avril 2026

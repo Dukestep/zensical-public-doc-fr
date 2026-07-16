@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données scénarios climatiques mis à l’échelle statistique des modèles climatiques mondiaux du CMIP6 (CanDCS-U6) en format NetCDF
 
 Des ensembles multimodèles de sorties de modèles et de changements projetés sur grille sont disponibles pour les simulations historiques et quatre scénarios d'émissions, SSP126, SSP245 et SSP585, à une résolution de 1/10è de degré. Les changements projetés sont exprimés sous forme d'anomalies par rapport aux périodes de référence 1950-2014 et 1971-2000.

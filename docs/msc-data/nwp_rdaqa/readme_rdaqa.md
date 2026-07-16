@@ -4,8 +4,6 @@ tags:
   - Analyse
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et Produits de l'Analyse régionale déterministe de la qualité de l'air 
 
 L’Analyse régionale déterministe de qualité de l’air (ARDQA) est une analyse objective des polluants de surface qui combine les prévisions numériques du Système régional de prévision déterministe de la qualité de l’air (SRPDQA) avec les observations horaires des différents réseaux de surveillance en Amérique du Nord incluant les réseaux de mesure canadiens opérés par les provinces, territoires et certaines villes en plus des différents réseaux américains dans le contexte du programme AIRNow administré par US/EPA (US Environmental Protection Agency). L'analyse ARDQA fournit la meilleure description des conditions courantes de la qualité de l’air et est utilisée pour informer le public, les météorologistes des différents bureaux de prévision d’Environnement et Changement climatique Canada, Santé Canada et d’autres usagers, sur la distribution des polluants atmosphériques près du sol et sur la performance des modèles de prévision.

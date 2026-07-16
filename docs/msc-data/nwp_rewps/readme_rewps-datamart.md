@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données GRIB2 du Système régional de prévision d'ensemble de vague (SRPEV)
 
 Cette page décrit les données [Système régional de prévision d'ensemble de vague (SRPEV)](readme_rewps.md) disponibles en format GRIB2.

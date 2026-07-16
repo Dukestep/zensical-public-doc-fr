@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)  
-
 # Tutoriel GDAL en ligne de commande avec des données météorologiques
 
 ## Introduction

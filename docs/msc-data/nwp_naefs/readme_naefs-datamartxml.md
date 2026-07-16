@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données XML du Système de Prévisions d'Ensemble Nord-Américain (SPENA)
 
 Cette page décrit les données [système de prévisions d'ensemble Nord-Américain](readme_naefs.md) disponibles en format GRIB2.

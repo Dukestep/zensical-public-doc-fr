@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données GRIB2 du Système régional de prévision d'ensemble (SRPE)
 
 Cette page décrit les données du [Système régional de prévision d'ensemble](readme_reps.md) disponibles en format GRIB2.

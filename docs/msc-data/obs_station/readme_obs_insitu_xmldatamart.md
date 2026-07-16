@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données XML des sommaires d'observations par province ou territoire
 
 Cette page décrit les données d'[observations](readme_obs_insitu.md) disponibles en format XML.

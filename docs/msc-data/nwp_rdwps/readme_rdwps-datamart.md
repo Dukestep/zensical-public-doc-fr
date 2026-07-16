@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données GRIB2 du Système Régional de Prévision Déterministe de Vague (SRPDV)
 
 Cette page décrit les données du [Système Régional de Prévision Déterministe de Vague](./readme_rdwps.md) disponibles en format GRIB2.

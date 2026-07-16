@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données climatiques (normales, données quotidiennes et horaires, sommaires mensuels) en format CSV
 
 Ce document décrit les quatre jeux de données climatiques, normales climatiques, observations quotidiennes et horaires ainsi que les sommaires mensuels disponibles, en format CSV.

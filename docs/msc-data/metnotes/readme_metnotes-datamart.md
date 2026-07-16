@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données MetNotes 
 
 Cette page décrit les MetNotes [MetNotes](readme_metnotes.md) en format GeoJSON disponibles sur le Datamart du SMC.

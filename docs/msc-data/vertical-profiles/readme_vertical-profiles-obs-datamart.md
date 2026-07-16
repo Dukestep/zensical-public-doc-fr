@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données d'observations des profils verticaux
 
 Cette page décrit les données de [profils verticaux d'observations](readme_vertical-profiles-obs.md) disponibles sur le Datamart du SMC. Les données observées (ObsTephi) contiennent les données réelles à tous les niveaux mesurées par le ballon de sondage.

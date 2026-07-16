@@ -1,7 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # Données SPISCan disponibles sur GeoMet du SMC
 
 GeoMet du SMC donne accès à la couche du Système de Prévision Interannuelle et Saisonnière Canadien (SPISCan). Les usagers peuvent développer des applications mobiles, créer des cartes interactives en-ligne, ainsi que visualiser les données du SMC dans des logiciels de bureau.

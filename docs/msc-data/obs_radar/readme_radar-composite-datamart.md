@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Composite radar nord-américaine
 
 La composite est calculée sur le domaine nord-américain avec une résolution spatiale horizontale de 1 km. Cette mosaïque inclut donc tous les radars canadiens et américains disponibles dans le réseau et qui peuvent atteindre un maximum de 200 radars contributeurs.

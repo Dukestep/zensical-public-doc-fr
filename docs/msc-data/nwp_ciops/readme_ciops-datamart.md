@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données du Système de prévision côtier océan-glace (SPCOG) en format NetCDF 
 
 Les prévisions océan-glace horaires sont disponibles en format NetCDF sur une grille latitude-longitude, correspondant à une résolution d'environ 2km (0.03 x 0.02 degrées) pour le domaine Est couvrant le Fleuve Saint-Laurent, le Golfe du Saint-Laurent et une région Nord-Ouest de l'océan Atlantique. Le domaine Ouest inclue la côte Ouest du Canada et le Nord-Est de l'océan Pacifique à une résolution d'environ 2km (0.03 x 0.02 degrées). Un sous-domaine couvrant la mer des Salish est aussi disponible à plus haute résolution (500m ou 0.008 x 0.005 degrées).

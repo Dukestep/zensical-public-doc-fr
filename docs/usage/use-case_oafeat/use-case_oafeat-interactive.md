@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Cas d'utilisation: Récupération et affichage de données hydrométriques
 
 ## Introduction

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données de prévisions des profils verticaux du Système régional de prévision déterministe 
 
 Cette page décrit les données des [prévisions des profils verticaux du Système régional de prévision déterministe](readme_vertical-profiles-nwp.md), disponibles sur le Datamart du SMC.

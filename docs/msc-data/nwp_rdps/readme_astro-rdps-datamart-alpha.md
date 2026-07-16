@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Produits GRIB2 d'astronomie basés sur le Système régional de prévision déterministe (SRPD)
 
 Cette page décrit les données de prévision de [scintillation](https://meteo.gc.ca/astro/seeing_f.html) (ou "seeing") et de [transparence](https://meteo.gc.ca/astro/transparence_f.html). La scintillation est utilisée en astronomie pour qualifier l'état de turbulence atmosphérique tandis que la transparence fait référence à la clarté du ciel et se mesure comme la capacité à observer les étoiles en fonction de leur luminosité ou de leur magnitude. 

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données du Système à Haute Résolution de Prévision Déterministe (SHRPD)
 
 Le [Système à haute résolution de prévision déterministe (SHRPD)](readme_hrdps.md) opérationnel est une série de grilles emboitées pour les prévisions à aire limitée (LAM). La grille principale a une résolution horizontale de 2.5 km sur une région pancanadienne. Le modèle pilote du SHRPD est une composante du [Système global de prévision déterministe (SGPD)](../nwp_gdps/readme_gdps.md) à 10km de résolution horizontale. Les champs du SHRPD sont disponibles quatre fois par jour. Des prévisions de 48 heures sont produites pour le domaine pancanadien.

@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Orages&emsp;<i class="wi wi-lightning" style="font-size: 45px; color: #4e64a6;"></i>
 
 Cette page présente une liste de jeux de données pertinents du Service météorologique du Canada sous le thème des orages, afin de guider les utilisateurs vers les jeux de données appropriés. Cette liste n'est pas exhaustive, mais donne un aperçu des couches qui peuvent être utilisées sous ce thème. Les principales couches de données pour ce thème sont les variables de vents et les quantités de précipitations. Cependant, un certain nombre d'autres couches pertinentes peuvent également fournir des informations supplémentaires sur le sujet, telles que la probabilité d'occurence d'orage, les indice de Showalter ou de soulèvement de parcelle instable, pour ne citer que ces quelques exemples.

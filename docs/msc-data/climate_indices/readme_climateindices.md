@@ -3,8 +3,6 @@ tags:
   - Climatique
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits d'indices climatiques mis à l'échelle de manière statistique
 
 Ensembles de données des indices climatiques mis à l'échelle de manière statistique fondés sur un ensemble de vingt-quatre projections mises à l'échelle de manière statistique du modèle climatique mondial provenant de la phase 5 du projet d'intercomparaison de modèles couplés (CMIP5). Les indices climatiques sont regroupés en catégories liées à la température, aux précipitations et à l’agroclimat. 

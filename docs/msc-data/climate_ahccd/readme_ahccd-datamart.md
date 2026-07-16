@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données Climatiques Canadiennes Ajustées et Homogénéisées (DCCAH) en format GeoJSON
 
 Les données DCCAH sont des ensembles de données de stations climatiques avec des ajustements (dérivés de procédures statistiques) aux données historiques originales aux stations pour tenir compte des discontinuités dues à des facteurs non climatiques, tels que les changements d'instruments ou le déplacement des stations.

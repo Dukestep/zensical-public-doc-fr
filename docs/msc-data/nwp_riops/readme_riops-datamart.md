@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données NetCDF du Système régional de prévision océan-glace (SRPOG)
 
 Le Centre de prévision météorologique et environnementale du Canada (CPMEC) fournit des prévisions instantanées horaires de champs de glace et de champs océaniques produits par son Système régional de prévision océan-glace (SRPOG) opérationnel et interpolés sur une grille en projection polaire stéréographique nord d'une résolution de 5 km à une latitude de 60°N.

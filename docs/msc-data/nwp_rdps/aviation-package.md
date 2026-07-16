@@ -1,6 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # Prévisions pour l'aviation (4 panneaux)
 
 Prévisions du modèle GEM, en configuration régionale, valides pour 6, 12, 18 et 24 heures (à 0000 et 1200). Chaque prévision est présentée sous forme de 4 panneaux, illustrés ci-dessous.

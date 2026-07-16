@@ -1,5 +1,3 @@
-![ECCC logo](../../../img_eccc-logo.png)
-
 # Données météorologiques à l'aviation en format IWXXM
 
 Cette page décrit les bulletins spécialisés à l'aviation distribués dans le [format IWXXM](https://community.wmo.int/iwxxm), un modèle d'échange d'informations météorologiques de l'OACI introduit en novembre 2013 par l'amendement 76 de l'Annexe 3 de l'OACI, permettant aux États d'échanger leurs données OPMET (_Operational Meteorology_) non seulement sous forme de TAC (code alphanumérique traditionnel) mais aussi en langage de balisage extensible (XML) et plus précisément en langage de balisage géographique (GML).

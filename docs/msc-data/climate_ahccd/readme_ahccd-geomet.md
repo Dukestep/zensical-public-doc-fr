@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données du DCCAH disponibles sur GeoMet du SMC
 
 GeoMet du SMC donne accès à plusieurs données et produits des Données climatiques canadiennes ajustées et homogénéisées (DCCAH). Les usagers peuvent développer des applications mobiles, créer des cartes interactives en-ligne, ainsi que visualiser et animer les données climatiques du SMC dans des logiciels de bureau.

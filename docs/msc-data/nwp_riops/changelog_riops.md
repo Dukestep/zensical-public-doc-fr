@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système régional de prévision océan-glace (SRPOG)
 
 ## Le mardi 14 avril 2026

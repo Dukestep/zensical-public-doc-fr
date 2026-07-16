@@ -5,8 +5,6 @@ tags:
   - Bulletins
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et Produits des bulletins alphanumériques et en format binaire
 
 Cette page décrit les données et produits des bulletins alphanumériques et en format binaire.

@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Vagues de froid&emsp;<i class="wi wi-snowflake-cold" style="font-size: 45px; color: #4e64a6;"></i>
 
 Cette page présente une liste de jeux de données pertinents du Service météorologique du Canada sous le thème des vagues de froid, afin de guider les utilisateurs vers les jeux de données appropriés. Cette liste n'est pas exhaustive, mais donne un aperçu des couches qui peuvent être utilisées sous ce thème. Les principales couches de données pour ce thème sont la température et le refroidissement éolien. Cependant, un certain nombre d'autres couches pertinentes peuvent également fournir des informations supplémentaires sur le sujet, telles que les variables du vent ou la couverture nuageuse, pour ne citer que deux exemples.

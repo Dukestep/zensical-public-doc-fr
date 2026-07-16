@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données NetCDF de l'Analyse à haute résolution ensembliste de précipitation (AHREP)
 
 Cette page décrit les données de l'[Analyse à haute résolution ensembliste de précipitation (AHREP)](readme_hrepa.md) disponibles en format NetCDF sur le serveur Datamart du SMC.

@@ -4,8 +4,6 @@ tags:
   - Régional
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits des résultats statistiquement réduits à  l'échelle pour des modèles climatiques du CMIP5
 
 Des scénarios climatiques à réduction d’échelle statistique des changements projetés pour les températures et les précipitations, par rapport à la période de référence de 1986 à 2005, sont donnés selon trois scénarios d’émissions, RCP2.6, RCP4.5 et RCP8.5,  à une résolution de 10 km. Les données avec réduction d’échelle statistique s’appuient sur les projections du modèle climatique mondial issues de la phase 5 du projet d’intercomparaison de modèles couplés (CMIP5). La médiane des changements projetés de l’ensemble multimodèles à réduction d’échelle statistique est illustrée.  

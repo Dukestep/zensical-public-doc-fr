@@ -5,8 +5,6 @@ tags:
   - "Qualité de l'air"
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits d'observations et prévisions qui sont générés pour le programme Cote Air Santé (CAS)
 
 La **Cote air santé CAS** est une échelle conçue pour quantifier la qualité de l'air dans une région donnée, sur une échelle de 1 à 10. La cote 10+ indique que la pollution de l'air est très élevée. La Cote air santé comprend également une catégorie décrivant le risque pour la santé correspondant au nombre indiqué risque faible, modéré, élevé ou très élevé . La Cote air santé est calculée en fonction des risques relatifs que représente une combinaison de polluants atmosphériques courants connus pour leurs effets néfastes sur la santé humaine, tels que l'ozone troposphérique, les matières particulaires et le dioxyde d'azote. La formulation de la Cote air santé rend uniquement compte du risque pour la santé aigu ou à court terme contact en heures ou en jours au maximum .

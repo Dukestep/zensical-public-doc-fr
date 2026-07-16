@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données NetCDF du Système global de prévision déterministe d'onde de tempête (SGPDOT)
 
 Cette page décrit les données du [Système global de prévision déterministe d'onde de tempête (SGPDOT)](readme_gdsps.md) disponibles en format NetCDF.

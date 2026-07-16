@@ -5,8 +5,6 @@ tags:
   - Océan-Glace
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et Produits du Système global de prévision océan-glace (SGPOG)
 
 Le Système Global de Prévision Océan-Glace (SGPOG) produit quotidiennement des analyses et des prévisions quotidiennes des 10 prochains jours de la glace de mer et océanique à l'échelle globale. Ce produit contient une moyenne temporelle des prévisions de la glace de mer et océanique interpolées sur deux grilles. La première grille possède une résolution de 0.2° en longitude et latitude couvrant les océans à l'échelle globale (au nord de 80° S). La seconde grille possède une projection cartographique polaire stéréographique avec un espacement de 5 km au parallèle 60° N et couvre l'océan Arctique et les mers sub-polaires avoisinantes. Ces données sont disponibles pour 50 niveaux de profondeur. Les fichiers correspondant sont fournis au format netCDF et respectent les conventions CF (Climate and Forecast).

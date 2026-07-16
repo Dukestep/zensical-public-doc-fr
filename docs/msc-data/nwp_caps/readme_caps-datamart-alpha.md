@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données GRIB2 du Système canadien de prévision de l'Arctique (SCPA) expérimental
 
 Cette page décrit les données du [Système canadien de prévision de l'Arctique (SCPA)](./readme_caps.md) disponibles sur DD-Alpha, le site Web d'essai de données du Datamart du SMC.

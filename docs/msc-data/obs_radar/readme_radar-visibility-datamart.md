@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Produits de visibilité des radars météorologiques canadiens
 
 Les éoliennes peuvent contaminer les données des radars météorologiques, ce qui peut compromettre la capacité d'Environnement et changement climatique Canada (ECCC) à fournir des prévisions et des avertissements météorologiques de qualité aux Canadiens.

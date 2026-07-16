@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système automatisé de prévisions à l'aviation (aTAGS)
 
 ## Le mardi 11 juin 2024

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système de prévision d'ensemble à haute résolution de la surface terrestre (SPEHRS)
 
 ## Le jeudi 1er mai 2025

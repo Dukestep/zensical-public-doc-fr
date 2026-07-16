@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données de l'analyse globale de glace 
 
 Environnement et Changement climatique Canada fournit des champs d'analyse des glaces de mer à l'échelle mondiale produits par son [Système global de prévision déterministe (SGPD)](readme_gdps.md) et interpolés sur une grille latitude-longitude tournée avec une résolution de 0.09 x 0.09 degré.

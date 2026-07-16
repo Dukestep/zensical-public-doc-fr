@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Tutoriel : afficher, interagir et animer des couches WMS dans QGIS
 
 Exemples de manipulation des données des services web géospatiaux [GeoMet du SMC](../msc-geomet/index.md) avec le [logiciel de bureau gratuit et libre QGIS](https://qgis.org) :

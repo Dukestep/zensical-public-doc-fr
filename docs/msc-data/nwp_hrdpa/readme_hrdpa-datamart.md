@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données GRIB2 de l'Analyse à haute résolution déterministe de précipitation (AHRDP)
 
 Cette page décrit les données de l'[Analyse à haute résolution déterministe de précipitation](./readme_hrdpa-datamart.md) disponibles en format GRIB2.

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits de CanDCS-U6 disponibles sur GeoMet du SMC
 
 GeoMet du SMC donne accès à plusieurs données et produits des résultats statistiquement réduits à l'échelle pour des modèles climatiques du CMIP6. Les usagers peuvent développer des applications mobiles, créer des cartes interactives en-ligne, ainsi que visualiser et animer les données climatiques du SMC dans des logiciels de bureau.

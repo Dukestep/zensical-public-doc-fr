@@ -4,8 +4,6 @@ tags:
   - Inondation
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données de submersion côtière
 
 L'indice de risque de submersion côtière au format GeoJSON est un produit polygonal géoréférencé et temporel émis par le Service météorologique du Canada (SMC) afin d'articuler le risque, l'impact et la probabilité de submersion côtière. Les produits sont générés quotidiennement par les centres de prévision des intempéries et sont destinés à fournir une notification précoce, jusqu'à 5 jours, des submersions côtières dues aux marées astronomiques, aux ondes de tempête et aux impacts des vagues.

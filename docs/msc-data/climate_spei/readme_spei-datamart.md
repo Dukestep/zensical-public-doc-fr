@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données climatiques de l’Indice de précipitations et d’évapotranspiration normalisé (IPEN) en format NetCDF
 
 [Données IPEN](readme_spei.md) en format NetCDF, un indice climatique utilisé pour évaluer l'influence des changements climatiques sur la sécheresse.

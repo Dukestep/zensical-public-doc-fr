@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données NEMO du Système de prévision du cycle de l’eau (SPCE) en format NetCDF sur les Grands Lacs et le fleuve Saint-Laurent
 
 Le modèle océan-glace, NEMO-CICE, du SPCE, produit des prévisions horaires. Ces données sont disponibles au format NetCDF sur une grille lat-lon correspondant à une résolution de 1 km (0,009 x 0,009 degrés).

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système régional de prévision déterministe (SRPD)
 
 ## Le mercredi 23 juillet 2025

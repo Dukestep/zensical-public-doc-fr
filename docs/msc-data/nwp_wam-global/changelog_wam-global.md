@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système de vague WAM-Global
 
 ## Le mardi 18 septembre, 2018

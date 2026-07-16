@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données des densité de foudre disponibles sur GeoMet du SMC
 
 GeoMet du SMC donne accès à la couche des données de foudre. Les usagers peuvent développer des applications mobiles, créer des cartes interactives en-ligne, ainsi que visualiser et animer les données du SMC dans des logiciels de bureau.

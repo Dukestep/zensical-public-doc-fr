@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Politique d'utilisation des services de données ouvertes du SMC
 
 La Politique d'utilisation des services de données ouvertes du SMC détermine ce qui constitue une utilisation appropriée des services de données ouvertes du SMC et fournit aux utilisateurs les pratiques exemplaires pour une utilisation optimale. Cette politique d'utilisation des services complémente la [licence d'utilisation finale](../licence/index.md).

@@ -5,8 +5,6 @@ tags:
   - Marine
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits des prévisions météorologiques maritimes
 
 Cette page décrit les données et produits des prévisions météorologiques maritimes, émises par Environnement et Changement climatique Canada (ECCC). Ce service aide les navigateurs à prendre des décisions éclairées au sujet de conditions météorologiques maritimes qui peuvent avoir des répercussions sur leur sécurité ou leurs activités. ECCC fournit aussi des prévisions maritimes afin de respecter les engagements pris par le Canada dans le cadre de la Convention internationale pour la sauvegarde de la vie humaine en mer (SOLAS) de l’Organisation maritime internationale.

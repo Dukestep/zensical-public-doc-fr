@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # SCPOG disponibles sur GeoMet du SMC
 
 GeoMet du SMC donne accès à plusieurs couches du Système côtier de prévision océan-glace (SCPOG). Les usagers peuvent développer des applications mobiles, créer des cartes interactives en-ligne, ainsi que visualiser et animer les données du SMC dans des logiciels de bureau.

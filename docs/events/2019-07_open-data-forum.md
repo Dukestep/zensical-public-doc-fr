@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Forum de données ouvertes du SMC 2019
 
 Cette page est consacrée au 1er forum de données ouvertes du Service métérologique du Canada (SMC) qui a eu lieu à Montréal, au [Centre Phi](https://phi-centre.com/), et en ligne partout au Canada, le 8 juillet 2019. Ce forum précédait le 1er [hackathon METEOHACK](2019-07_hackathon-METEOHACK.md) organisé du 8 au 10 juillet 2019 par le Service météorologique du Canada, avec l’aide de la Direction générale des services ministériels et des finances, et de Services partagés Canada.

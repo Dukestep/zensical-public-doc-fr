@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données de satellites météorologiques disponibles sur GeoMet du SMC
 
 MSC GeoMet donne accès aux couches des satellites météorologiques. Les utilisateurs peuvent créer des applications mobiles, des cartes web interactives et afficher et animer des couches de satellites météorologiques dans des logiciels de bureau.

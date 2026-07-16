@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données du Système canadien de prévision de l'Arctique (SCPA) expérimental
 
 Cette page décrit les données expérimentales atmosphériques en format GRIB2 et océaniques en format NetCDF du [Système canadien de prévision de l'Arctique (SCPA)](./readme_caps.md) disponibles sur le Datamart du SMC.

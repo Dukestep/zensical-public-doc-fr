@@ -2,8 +2,6 @@
 title: Données ouvertes du SMC
 ---
 
-![ECCC logo](img_eccc-logo.png)
-
 # Documentation des données ouvertes du Service météorologique du Canada
 
 !!! abstract ""

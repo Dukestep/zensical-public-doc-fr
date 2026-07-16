@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits satellitaires
 
 Cette page décrit des données et produits dérivés des instruments [satellitaires](readme_satellite.md) GOES-Ouest et GOES-Est en format GeoTIFF disponibles sur le Datamart du SMC. 

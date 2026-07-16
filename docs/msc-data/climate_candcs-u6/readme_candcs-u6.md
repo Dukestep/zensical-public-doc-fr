@@ -4,8 +4,6 @@ tags:
   - Régional
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits de scénarios climatiques mis à l’échelle statistique des modèles climatiques mondiaux du CMIP6 (CanDCS-U6) 
 
 La Division de la recherche climatique (DRC) d’Environnement et Changement climatique Canada (ECCC) et le Pacific Climate Impacts Consortium (PCIC) ont déjà produit des scénarios mis à l’échelle statistique et fondés sur des simulations de modèles climatiques qui faisaient partie de la phase 5 du Projet d’intercomparaison de modèles couplés (CMIP5) en 2015. ECCC et le PCIC ont mis à jour les scénarios à échelle réduite fondés sur la CMIP5 en ajoutant deux nouveaux ensembles de scénarios à échelle réduite fondés sur la prochaine génération de projections climatiques de la phase 6 du Projet d’intercomparaison de modèles couplés (CMIP6). Les scénarios appelés scénarios climatiques canadiens à échelle réduite – méthode univariée de la CMIP6 (CanDCS-U6) (« Canadian Downscaled Climate Scenarios–Univariate method from CMIP6 ») et scénarios climatiques canadiens à échelle réduite – méthode multivariée de la CMIP6 (CanDCS-M6) (« Canadian Downscaled Climate Scenarios–Multivariate method from CMIP6 »).

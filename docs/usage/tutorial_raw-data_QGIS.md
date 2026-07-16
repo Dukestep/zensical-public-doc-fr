@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Tutoriel : ajout de fichier brut géospatial dans QGIS
 
 [QGIS](https://qgis.org) est un logiciel de système d'information géographique (SIG) et permet la visualisation et la manipulation des données géospatiales vectorielles (Shapefile, GeoJSON, GeoPackage, etc) et matricielles (GRIB2, GeoTIFF, NetCDF, etc). Pour ajouter un fichier brut géospatial dans QGIS :

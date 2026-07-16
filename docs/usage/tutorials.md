@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Tutoriels
 
 !!! tip "Accéder aux tutoriels"

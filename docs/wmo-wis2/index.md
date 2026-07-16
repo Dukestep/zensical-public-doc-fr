@@ -1,6 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
-
 # Le Système d'Information de l'OMM (WIS2)
 
 Le Système d'information de l'OMM 2.0 (WIS2) est le cadre de partage des données de l'OMM au 21e siècle pour tous les domaines et disciplines de l'OMM. Il soutient la Politique unifiée de données de l'OMM, le Global Basic Observing Network (GBON) et rend le partage de données internationales, régionales et nationales simple, efficace et peu coûteux. L'idée qu'aucun Membre ne devrait être laissé pour compte et l'objectif de réduire la barrière à l'adoption ont été au cœur du développement de WIS 2.0. Ces objectifs inspirent les principes sous-jacents au cadre technique de WIS 2.0, comme l'adoption de normes ouvertes et de technologies Web pour faciliter le partage d'une variété croissante et d'un volume croissant de données en temps réel.

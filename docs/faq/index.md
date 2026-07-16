@@ -3,8 +3,6 @@ hide:
     - navigation
 ---
 
-![ECCC logo](../img_eccc-logo.png)
-
 # FAQ des données ouvertes du SMC
 
 !!! question

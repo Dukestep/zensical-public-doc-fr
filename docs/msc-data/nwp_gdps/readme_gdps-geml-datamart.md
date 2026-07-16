@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données GRIB2 du Global Environnemental éMuLateur (SGPD-GEML)
 
 Le Global Environnemental éMuLateur (GEML) est un composant du [Système global de prévision déterministe expérimental (SGPD)](readme_gdps.md). Il s'agit d'un émulateur météorologique basé sur l'intelligence artificielle (IA) et entraîné sur des états atmosphériques passés.

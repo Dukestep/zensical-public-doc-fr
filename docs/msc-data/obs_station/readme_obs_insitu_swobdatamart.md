@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données XML du langage de balisage des observations météorologiques au sol et marines (SWOB Met-ML) par station
 
 Cette page décrit les données des [observations](readme_obs_insitu.md) météorologiques au sol et marines disponibles en format XML.

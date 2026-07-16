@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données NetCDF du Système global de prévision océan-glace (SGPOG)
 
 Le Centre de prévision météorologique et environnementale du Canada (CPMEC) fournit des champs prévisionnels produits par son [Système global de prévision océan-glace (SGPOG)](readme_giops.md) et interpolées sur deux grilles usagers : une grille régulière latitude-longitude de 0.2° de résolution (latlon0.2x0.2) et une grille en projection polaire stéréographique nord d'une résolution de 5 km à une latitude de 60°N (ps5km60N).  À 00Z, Les champs fournis à l'échéance 0-heure correspondent à l'analyse SGPOG et sont valides à 00Z.  À toutes les autres échéances les champs correspondent à la prévision et sont moyennés dans le temps.  Les fichiers des données sont en format NetCDF (NetCDF-4 modèle classique), conformes aux conventions CF liées au climat et aux prévisions (Climate and Forecast Conventions).

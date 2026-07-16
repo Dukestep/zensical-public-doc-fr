@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)  
-
 # Cas d'utilisation : profits anticipés selon la probabilité de précipitations
 
 ## Introduction

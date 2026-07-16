@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Tutoriel : utilisation de données OGC API - Features dans QGIS
 
 Ajout de données OGC API - Features de [GeoMet du SMC](../msc-geomet/index.md) dans le [logiciel de bureau gratuit et libre QGIS](https://qgis.org) :

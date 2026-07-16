@@ -4,8 +4,6 @@ tags:
   - Temps réel
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données d'observations hydrométriques
 
 __Données hydrométriques en temps réel__

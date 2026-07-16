@@ -4,8 +4,6 @@ tags:
   - Archivé
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits des Données Climatiques Canadiennes Ajustées et Homogénéisées (DCCAH) 
 
 Les données se composent de moyennes mensuelles, saisonnières et annuelles de température de l’air de surface quotidienne maximale, minimale et moyenne homogénéisée pour plus que 330 emplacements au Canada; de totaux mensuels, saisonniers et annuels de chute de pluie, de neige et de précipitation totale quotidienne ajustée pour plus que 460 emplacements; moyennes homogénéisées mensuelles, saisonnières et annuelles de la vitesse du vent horaire pour plus de 110 emplacements; moyennes mensuelles, saisonnières et annuelles de pression horaire au niveau de la station et au niveau de la mer ajustée pour plus que 630 emplacements. Les données sont fournies pour la période complète d’observation. Veuillez consulter les documents ci-dessous pour obtenir de l’information sur les procédures utilisées pour l’homogénéisation et les ajustements. 

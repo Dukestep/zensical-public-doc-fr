@@ -4,8 +4,6 @@ tags:
   - Temps réel
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits des observations satellite
 
 Cette page décrit les données et produits de satellites météorologiques exploités par la NOAA (National Oceanic and Atmospheric Administration). Les instruments à bord de ces satellites fournissent des observations de la surface de la Terre à une résolution temporelle et spatiale généralement élevée. Ces observations de l'humidité atmosphérique, de la couverture de nuages, de la température des surfaces, de l’occurrence de la foudre et beaucoup d’autres caractéristiques, permettent de surveiller et prévoir les conditions météorologiques de l'ensemble du globe.

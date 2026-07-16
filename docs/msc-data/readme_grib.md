@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Données GRIB
 
 ## A propos du format GRIB

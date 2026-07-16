@@ -1,7 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # Données du Système global de prévision déterministe (SGPD) disponibles sur GeoMet du SMC
 
 GeoMet du SMC donne accès à plusieurs couches Système global de prévision déterministe (SGPD). Les usagers peuvent développer des applications mobiles, créer des cartes interactives en-ligne, ainsi que visualiser et animer les données du SMC dans des logiciels de bureau.

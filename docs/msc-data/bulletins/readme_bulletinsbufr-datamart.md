@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données des bulletins en format binaire
 
 Cette page décrit les données des [bulletins](readme_bulletins.md) en format binaire.

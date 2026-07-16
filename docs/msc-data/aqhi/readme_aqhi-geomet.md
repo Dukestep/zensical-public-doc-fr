@@ -1,7 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # CAS disponibles sur GeoMet du SMC
 
 GeoMet du SMC donne accès à la couche du programme Cote Air Santé (CAS). Les usagers peuvent développer des applications mobiles, créer des cartes interactives en-ligne, ainsi que visualiser les données du SMC dans des logiciels de bureau.

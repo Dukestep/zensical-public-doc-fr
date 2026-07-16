@@ -5,8 +5,6 @@ tags:
   - Prévision de vague
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et Produits du Système régional de prévision d'ensemble de Vague (SRPEV)
 
 Le Système régional de prévision d'ensemble de vague (SRPEV) utilise le modèle spectral de prévision de vague de troisième génération WaveWatch III ® (WW3) afin de produire des prévisions probabilistes de vagues du jour présent jusqu'à 3 jours dans le futur. Les prévisions probabilistes sont basées sur un ensemble de 20 membres et un membre contrôle forcés par les vents à une élévation de 10 mètres du [Système régional de prévision d'ensemble (SRPE)](../nwp_reps/readme_reps.md). Une prévision de glace du [Système de prévision du cycle de l'eau (SPCE)](../nwp_wcps/readme_wcps.md) est utilisée par le modèle pour atténuer ou supprimer la croissance des vagues dans les zones couvertes par respectivement 25% à 75% et plus de 75% de glace.

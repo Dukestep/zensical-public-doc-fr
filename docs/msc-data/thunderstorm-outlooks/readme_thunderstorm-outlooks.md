@@ -5,8 +5,6 @@ tags:
   - Orage
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données de potentiel orageux
 
 Le potentiel orageux est un produit de prévision graphique ou en GeoJSON qui décrit les zones géographiques prévues pour les orages au Canada. Les potentiels orageux sont émis par les centres de prévision des intempéries à travers le Canada pendant la saison convective (mai à octobre) chaque année. Les produits graphiques et en GeoJSON utilisent les mêmes données sources que celles utilisées par les prévisionnistes dans les centres de prévision. Les potentiels orageux sont émis une fois par jour vers 12h00, heure locale régionale. Puisque chaque bureau a ses propres normes de procédure, les prévisionnistes ne sont pas tenus de l'envoyer à 12h00. Néanmoins, l'horodatage des données est préconfiguré pour indiquer qu'elles sont émises à 12h00 dans le produit GeoJSON. Les amendements ultérieures des potentiels orageux existants sont émis selon les besoins au cours de la journée. Chaque amendement génère un nouveau fichier GeoJSON et un nouveau produit graphique. Le potentiel orageux pourrait ne pas être à jour avec les alertes de temps violent en cours. Les utilisateurs sont priés de consulter les dernières veilles et avertissements pour connaître les conditions les plus récentes.

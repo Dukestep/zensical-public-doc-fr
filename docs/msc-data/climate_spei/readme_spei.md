@@ -3,8 +3,6 @@ tags:
   - Climatique
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits de l’Indice de précipitations et d’évapotranspiration normalisé (IPEN)
 
 L’Indice de précipitations et d’évapotranspiration normalisé (IPEN) se calcule au moyen de projections des modèles du climat mondial, d’après la phase 5 du Projet d’intercomparaison des modèles couplés (CMIP5). L’IPEN est un indice multiéchelle fréquemment utilisé pour quantifier la sécheresse et est basé sur le bilan hydrique climatique.

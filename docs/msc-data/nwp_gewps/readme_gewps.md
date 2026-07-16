@@ -5,8 +5,6 @@ tags:
   - Prévision de vague
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et Produits du Système global de prévision d'ensemble de vague (SGPEV)
 
 Le Système Global de Prévision d'Ensemble de Vague (SGPEV) utilise le modèle spectral de prévision de vague de troisième génération WaveWatch III ® (WW3) afin de produire des prévisions probabilistes de vagues du jour présent jusqu'à 16 jours dans le futur. Les prévisions probabilistes sont basées sur un ensemble de 20 membres et un membre contrôle forcés par les vents à une élévation de 10 mètres du [Système global de prévision d'ensemble (SGPE)](../nwp_geps/readme_geps.md). La prévision du SGPE est un modèle couplé atmospère-glace-océan, sa prévision de glace de mer est utilisée par la prévision du SGPEV pour atténuer ou supprimer la croissance des vagues dans les zones couvertes par respectivement 25% à 75% et plus de 75% de glace.

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système de simulation hydrodynamique opérationnelle (SHOP)
 
 ## Le mardi 11 juin 2024

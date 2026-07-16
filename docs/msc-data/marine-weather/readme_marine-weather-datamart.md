@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données des prévisions météorologiques marines
 
 Cette page décrit les données des [prévisions météorologiques marines](readme_marine-weather.md) disponibles sur le Datamart du SMC.

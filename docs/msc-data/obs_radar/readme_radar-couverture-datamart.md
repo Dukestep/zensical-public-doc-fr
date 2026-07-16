@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Imagerie radar
 
 Cette page décrit les images [radar](readme_radar.md) en format GIF disponibles sur le Datamart du SMC.

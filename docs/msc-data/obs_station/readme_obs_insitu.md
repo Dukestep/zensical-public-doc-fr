@@ -4,8 +4,6 @@ tags:
   - Temps réel
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits d'observations aux stations
 
 Observations de surface mesurées aux stations automatiques et manuelles des réseaux d'Environnement et Changement climatique Canada et de ses partenaires soit pour une seule station, soit pour les stations de provinces et territoires spécifiques. 

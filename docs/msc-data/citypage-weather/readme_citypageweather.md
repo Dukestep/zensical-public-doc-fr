@@ -4,8 +4,6 @@ tags:
   - Temps réel
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits des prévisions météorologiques officielles par ville
 
 Cette page décrit les données et produits des prévisions météorologiques par ville qui sont crées pour certaines villes des provinces et des territoires canadiens et distribuées sur le site d'Environnement et Changement climatique Canada : 

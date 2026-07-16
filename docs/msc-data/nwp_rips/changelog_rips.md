@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système régional de prévision de glace (SRPG)
 
 ## Le jeudi 17 septembre 2015

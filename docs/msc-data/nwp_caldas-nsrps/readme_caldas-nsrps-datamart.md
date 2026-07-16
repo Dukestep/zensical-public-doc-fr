@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données du Système canadien d'assimilation de données de surface dans le Système national de prévision de surface et de rivières (SCanADS-SNPSR) en format NetCDF
 
 Cette page décrit les données du [Système canadien d'assimilation de données de surface](./readme_caldas-nsrps.md) disponibles en format NetCDF sur le serveur Datamart du SMC.

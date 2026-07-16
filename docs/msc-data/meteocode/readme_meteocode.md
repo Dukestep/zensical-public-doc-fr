@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données du meteocode des matrices Scribe terrestres
 
 Le meteocode est un standard utilisé par le système Scribe pour décrire les éléments du temps.

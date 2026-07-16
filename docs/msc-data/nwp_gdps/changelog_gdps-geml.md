@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Global Environnemental éMuLateur (GEML)
 
 ## Le XXXXXXX juin 2025

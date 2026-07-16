@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données GRIB2 de l'Analyse régionale déterministe de la qualité de l'air (ARDQA)
 
 Cette page décrit les données de l'[Analyse régionale déterministe de la qualité de l'air (ARDQA)](readme_rdaqa.md) en format GRIB2 sur le Datamart du SMC. Ce système est exécuté aux heures afin de produire des analyses pour certains polluants tels que l’ozone (O3), le dioxyde d’azote (NO2) ou encore les matières particulaires dont le diamètre aérodynamique est inférieur à 2.5 μm (PM2.5), sur une grille nord-américaine.

@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Le Datamart du SMC
 
 Le Service météorologique du Canada (SMC) met à la disposition des usagers spécialisés une multitude de données météorologiques, prévisionnelles et climatiques sur son serveur de données brutes HTTPS.

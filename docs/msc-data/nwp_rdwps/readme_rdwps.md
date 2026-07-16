@@ -5,8 +5,6 @@ tags:
   - Prévision de vague
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et Produits du Système Régional de Prévision Déterministe de Vague (SRPDV)
 
 Le Système régional de prévision déterministe de vague (SRPDV) produit les prévisions de vagues jusqu'à 48 heures dans le futur en utilisant le modèle spectral de prévision de vague de troisième génération WaveWatch III® (WW3). Le modèle est forcé par les vents à une élévation de 10 mètres du [Système à haute résolution de prévision déterministe (SHRPD)](../nwp_hrdps/readme_hrdps.md). Sur les Grands Lacs, une prévision de glace du [Système de prévision du cycle de l'eau (SPCE)](../nwp_wcps/readme_wcps.md) est utilisée par le modèle pour atténuer ou supprimer la croissance des vagues dans les zones couvertes par respectivement 25% à 75% et plus de 75% de glace. Sur l'océan, une prévision de glace du Système Régional de [Prévision Océan-Glace (SRPOG)](../nwp_riops/readme_riops.md) est utilisée : dans le Pacifique nord-est les vagues se propagent librement pour des concentrations de glace inférieures à 50%, au delà de ce seuil il n'y a aucune propagation; dans l'Atlantique nord-ouest la même logique est utilisée que dans les Grands Lacs. Les éléments prévus incluent la hauteur significative des vagues, la période pic, des paramètres partitionnés et autres. Ce système comprend plusieurs domaines : lac Supérieur, lac Huron-Michigan, lac Érié, Lac Ontario, Atlantique nord-ouest et Pacifique nord-est.

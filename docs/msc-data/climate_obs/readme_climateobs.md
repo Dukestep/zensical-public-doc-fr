@@ -4,8 +4,6 @@ tags:
   - Archivé
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits données climatiques (normales, données quotidiennes et horaires, sommaires mensuels)
 
 __Normales climatiques__

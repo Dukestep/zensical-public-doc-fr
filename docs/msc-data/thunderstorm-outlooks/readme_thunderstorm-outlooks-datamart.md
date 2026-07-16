@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données de potentiel orageux
 
 Cette page décrit les données de [potentiel orageux](readme_thunderstorm-outlooks.md) en format GeoJSON disponibles sur le Datamart du SMC.

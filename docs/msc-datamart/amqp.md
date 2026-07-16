@@ -1,6 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
-
 # Protocole avancé de mise en file d'attente des messages
 
 ## À propos

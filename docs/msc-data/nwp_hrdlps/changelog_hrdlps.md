@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système de prévision déterministe à haute résolution de la surface terrestre (SPDHRS)
 
 ## Le jeudi 1er mai 2025

@@ -4,8 +4,6 @@ tags:
   - Archivé
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits des Anomalies de température et précipitation interpolées pour le Canada (CANGRD)  
 
 CANGRD est un ensemble de données canadiennes des anomalies annuelles, saisonnières et mensuelles des températures et précipitations qui sont interpolées à partir des stations des Données Climatiques Canadiennes Ajustées et Homogénéisées (DCCAH); cet ensemble de données est utilisé pour produire le Bulletin des Tendances et Variations Climatiques (BTVC).

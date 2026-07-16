@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données climatiques historiques sur grille canadienne (CANGRD) en format GeoTIFF
 
 CANGRD est basé sur les données climatiques canadiennes ajustées et homogénéisées (DCCAH) pour les observations climatiques historiques à partir de 1948 sur l'ensemble du Canada, et à partir de 1900 pour le sud du Canada, jusqu'à la fin de l'année civile précédente. Les anomalies de température maximales et minimales quotidiennes mensuelles, saisonnières et annuelles sont calculées à chaque station d'observation et pour chaque année en soustrayant la moyenne de référence adéquate (définie comme moyenne sur la période de référence 1961-1990) des valeurs mensuelles, saisonnières et annuelles correspondantes. Les anomalies de précipitations totales mensuelles, saisonnières et annuelles sont calculées de la même façon. De plus, les anomalies de précipitations sont ensuite normalisées en divisant par la période de référence moyenne et exprimées en pourcentage pour produire des écarts de précipitations normalisés.

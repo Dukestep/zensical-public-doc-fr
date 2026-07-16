@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés aux observations satellite
 
 ## Le lundi 7 avril 2025

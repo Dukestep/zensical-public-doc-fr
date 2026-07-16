@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système de prévision hydrologique déterministe (SPHD)
 
 ## Le mardi 11 juin 2024

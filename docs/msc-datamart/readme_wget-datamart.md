@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Utilisation de wget pour les données du Datamart du SMC
 
 Avant d'utiliser 'wget', les usagers doivent considérer l'utilisation du [service de récupération de données AMQPS](amqp.md) et réviser la [politique d'utilisation des services de données](../usage-policy/index.md).

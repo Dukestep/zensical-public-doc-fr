@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données NetCDF du Système régional de prévision d'ensemble d'onde de tempête (SRPEOT)
 
 Cette page décrit les données du [Système régional de prévision d'ensemble d'onde de tempête (SRPEOT)](readme_resps.md) disponibles en format NetCDF.

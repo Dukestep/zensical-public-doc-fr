@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données du Système global de prévision d'ensemble (SGPE) disponibles sur GeoMet du SMC
 
 GeoMet du SMC donne accès à plusieurs couches du Système global de prévision d'ensemble (SGPE). Les usagers peuvent développer des applications mobiles, créer des cartes interactives en-ligne, ainsi que visualiser et animer les données du SMC dans des logiciels de bureau.

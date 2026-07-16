@@ -1,6 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # Chronologie des changements apportés au Système canadien d'assimilation de données de surface avec observations satellitaires (SCanADS-Sat)
 
 ## Le mardi 28 juin 2022

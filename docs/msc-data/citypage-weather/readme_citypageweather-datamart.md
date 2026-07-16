@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données XML des prévisions météorologiques par ville
 
 Cette page décrit les données XML des [prévisions météorologiques par ville](readme_citypageweather.md) disponibles sur le Datamart du SMC.

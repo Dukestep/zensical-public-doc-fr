@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Ouragans&emsp;<i class="wi wi-hurricane" style="font-size: 45px; color: #4e64a6;"></i>
 
 Cette page présente une liste de jeux de données pertinentes du Service Météorologique du Canada sous le thème des ouragans, afin de guider les usagers vers les jeux de données appropriés. Cette liste n'est pas exhaustive mais, donne un aperçu des couches pouvant être utilisées sous cette thématique. Les principales couches de données sont les trajectoires d'ouragans et la zone de réaction aux ouragans qui sont émises par le Centre canadien de prévision des ouragans, dans le cadre des prévisions régulières lors de la saison des ouragans. Cependant, plusieurs autres couches pertinentes peuvent également apporter une complémentarité sur le sujet telles; la vitesse des vents, les quantités de pluie ou les vagues cotiêres, pour ne donner ici, que queques exemples.

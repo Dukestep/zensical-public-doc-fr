@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système global de prévision déterministe (SGPD)
 
 ## Le mardi 26 mai 2026

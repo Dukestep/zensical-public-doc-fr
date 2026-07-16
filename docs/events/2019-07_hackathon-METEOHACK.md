@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Hackathon METEOHACK 2019 du SMC
 
 Cette page est consacrée au 1er hackathon METEOHACK du Service métérologique du Canada (SMC) qui a eu lieu à Montréal, au [Centre Phi](https://phi-centre.com/), et en ligne partout au Canada, du 8 au 10 juillet 2019, avec l’aide de la Direction générale des services ministériels et des finances, et de Services partagés Canada.

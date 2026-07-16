@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Produit radar de type de précipitation à la surface (SPTP)
 
 Ce produit est un composite à une résolution de 1km sur le domaine nord-américain, qui, pour les zones avec une couverture radar, peut distinguer l'occurrence, le type de précipitation et son niveau d'intensité. Ce produit utilise en entrée deux composites radar à 1km, soit un composite nord-américain nettoyé à l'aide de la technologie de double polarisation, un autre composite radar de classification des particules (précipitations) ainsi que la température de surface provenant du [Système à haute résolution de prévision déterministe (SHRPD)](../nwp_hrdps/readme_hrdps.md) à 2.5 km pour le Canada et du [Système global de prévision déterministe (SGPD)](../nwp_gdps/readme_gdps.md) pour les États-Unis.Le produit est généré toutes les 6 minutes.

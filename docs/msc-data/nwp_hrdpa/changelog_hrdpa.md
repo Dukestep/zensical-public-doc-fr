@@ -1,6 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système d'analyse à haute résolution déterministe de précipitation (CaPA-AHRDP)
 
 ## Le mardi 14 avril 2026

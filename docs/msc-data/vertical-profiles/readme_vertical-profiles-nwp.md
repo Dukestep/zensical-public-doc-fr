@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données des profils verticaux de prévision produits par le Système régional de prévision déterministe
 
 Cette page décrit les profils verticaux de prévision (ProgTephi) produits par le Système régional de prévision déterministe (SRPD) à 10km de résolution. 

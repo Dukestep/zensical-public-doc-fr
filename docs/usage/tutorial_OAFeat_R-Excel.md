@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Tutoriel: faire une requête à l'aide de OGC API - Features en utilisant les langages de programmation R et VBA
 
 Les services web [OGC API - Features](../msc-geomet/ogc_api.md#ogc-api-features) disponibles dans GeoMet-OGC-API offrent la possibilité d'envoyer une requête pour obtenir les données géospatiales vectorielles et de les récupérer aux formats CSV et GeoJSON. Le fichier de sortie peut ensuite être utilisé pour l'affichage ou le traitement ultérieur des données. Ce tutoriel vous montrera comment vous pouvez :

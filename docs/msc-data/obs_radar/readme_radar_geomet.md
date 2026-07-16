@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données radar météo disponibles sur GeoMet du SMC
 
 GeoMet du SMC donne accès à plusieurs couches de la populaire composite et de l'extrapolation radar météo nord-américaine. Les usagers peuvent développer des applications mobiles, créer des cartes interactives en-ligne, ainsi que visualiser et animer les données du SMC dans des logiciels de bureau.

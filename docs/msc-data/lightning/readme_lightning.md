@@ -4,8 +4,6 @@ tags:
   - Temps réel
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données de densité de foudre
 
 Le [Réseau Canadien de Détection de la Foudre](https://www.canada.ca/fr/environnement-changement-climatique/services/foudre/reseau-canadien-detection.html) assure la surveillance de la foudre presque partout au Canada. Les données distribuées ici représentent une agrégation spatio-temporelle des observations de ce réseau ayant une précision de quelques centaines de mètres. Plus précisément, toutes les 10 minutes, les observations rapportées sont traitées de la façon suivante:

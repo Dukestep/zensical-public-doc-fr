@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # OGC API
 </br>
 Les normes API de l'Open Geospatial Consortium (OGC) sont un ensemble de spécifications développées par l'OGC pour faciliter l'échange interopérable de données et de services géospatiaux sur le web. Ces normes sont conçues pour permettre une intégration et un partage transparents des informations géospatiales entre différents systèmes, applications et organisations. La documentation suivante présente les bases des normes OGC API - Features et OGC API - Coverages et fournit des exemples d'interrogation de GeoMet-OGC-API à l'aide de ces normes.

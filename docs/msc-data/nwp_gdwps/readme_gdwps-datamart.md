@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données GRIB2 du Système Global de Prévision Déterministe de Vague (SGPDV)
 
 Cette page décrit les données [Système Global de Prévision Déterministe de Vague (SGPDV)](readme_gdwps.md) disponibles en format GRIB2.

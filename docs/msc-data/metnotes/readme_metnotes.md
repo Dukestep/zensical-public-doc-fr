@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données MetNotes
 
 Les MetNotes sont des polygones de format libre, géo- et temporellement référencés, émis par le SMC, qui sont complémentaires aux systèmes de diffusion actuels basés sur la localisation. Le texte concis d'une MetNote (semblable à un Tweet) est conforme à la communication d'aujourd'hui où les gens recherchent des informations en un coup d'œil. Les météorologues émettront une MetNote pour ajouter des renseignements contextuels et/ou d'impact afin de compléter les prévisions publiques valables pour une zone spécifique et un intervalle de temps spécifique.

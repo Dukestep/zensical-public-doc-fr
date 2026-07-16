@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données de l'Analyse régionale déterministe de précipitation disponibles sur GeoMet du SMC
 
 GeoMet du SMC donne accès à plusieurs couches de l'analyse régionale déterministe de précipitation (ARDP). Les usagers peuvent développer des applications mobiles, créer des cartes interactives en-ligne, ainsi que visualiser et animer les données du SMC dans des logiciels de bureau.

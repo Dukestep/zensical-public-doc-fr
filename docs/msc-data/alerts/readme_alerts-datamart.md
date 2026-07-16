@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données d'avertissements météorologiques XML dans le format du Protocole d'Alerte Commun (PAC)
 
 Cette page décrit les [données d'avertissements météorologiques dans le format du Protocole d'alerte commun (PAC)](readme_alerts.md) disponibles en format XML.

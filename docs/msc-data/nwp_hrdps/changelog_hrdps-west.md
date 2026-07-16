@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés au Système à haute résolution de prévision déterministe ouest (SHRPD-Ouest)
 
 ## Le mardi 14 avril 2026

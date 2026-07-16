@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données CSV du Système de Prévision Interannuelle et Saisonnière Canadien (SPISCan)
 
 Le [Système de prévision interannuelle et saisonnière canadien (SPISCan)](readme_cansips.md) est un système de prévision à long terme dont l’objectif est de prévoir l’évolution des conditions climatiques à l’échelle globale. SPISCan est un système d’ensemble multi-modèle (Multi-Model Ensemble `[MME]`) utilisant CanCM4 et GEM-NEMO, deux modèles climatiques développés au Centre canadien de la modélisation et de l'analyse climatique (CCmaC) et au Centre météorologique canadien (CMC). Ce système de prévision est entièrement couplé atmosphère-océan-glace-sol. SPISCan utilise l’infrastructure d’assimilation en place pour les autres systèmes de prévision afin d’obtenir les conditions initiales de l’atmosphère, de la température de la surface de la mer et de glace marine. Pour plus de détails sur ce système, vous pouvez vous référer à la note technique.

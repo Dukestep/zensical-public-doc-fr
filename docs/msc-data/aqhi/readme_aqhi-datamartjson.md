@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données GeoJSON d'observations et prévisions générées pour le programme Cote Air Santé (CAS)
 
 Cette page décrit les données d'observations et de prévisions disponibles au format GeoJSON pour la [cote air santé CAS](readme_aqhi.md).

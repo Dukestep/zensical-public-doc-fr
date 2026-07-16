@@ -4,8 +4,6 @@ tags:
   - Temps réel
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits de prévision des ouragans
 
 Les trajectoires d'ouragans et la zone de réaction aux ouragans sont émises par le [Centre canadien de prévision des ouragans](https://www.canada.ca/fr/environnement-changement-climatique/services/previsions-faits-ouragans/produits.html) qui fournit des prévisions de trajectoire pour les cyclones tropicaux et post-tropicaux constituant une menace pour le Canada pendant la saison des ouragans, de juin à novembre.

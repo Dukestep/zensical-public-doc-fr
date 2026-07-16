@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits du progiciel de géographie du SMC
 
 Cette page décrit le progiciel normalisé de système d’information géographique (SIG) du SMC fondé sur des fichiers et des polygones d’emplacements de prévision.

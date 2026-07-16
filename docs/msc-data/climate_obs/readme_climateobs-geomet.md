@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données des observations historiques disponibles sur GeoMet du SMC
 
 GeoMet-OGC-API donne accès aux données climatiques (normales, quotidiennes, mensuelles, horaires et stations). Avec ces données, les utilisateurs peuvent construire des applications mobiles, créer des cartes web interactives, et afficher et animer des couches de données climatique

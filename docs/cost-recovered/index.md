@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Services à recouvrement de coûts
 
 Le Service météorologique du Canada offre les services à recouvrement de coûts suivants. Merci de [communiquer avec nous](https://meteo.gc.ca/mainmenu/contact_us_f.html) si vous êtes intéressés par ces services.

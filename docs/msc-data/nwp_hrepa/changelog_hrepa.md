@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés à l'Analyse à haute résolution ensembliste de précipitation (AHREP)
 
 ## Le jeudi 1er mai 2025

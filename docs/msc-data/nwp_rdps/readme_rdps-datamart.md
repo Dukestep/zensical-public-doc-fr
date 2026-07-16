@@ -1,6 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # Données du Système régional de prévision déterministe (SRPD)
 
 Les champs du jeu de données du [Système régional de prévision déterministe (SRPD)](readme_rdps.md) sont disponibles à la fois sur une grille polaire stéréographique couvrant l’Amérique du Nord et les eaux environnantes avec une résolution de 10 km et sur une grille lat-lon tournée sur un domaine plus vaste couvrant également les Caraïbes et le Mexique au complet ainsi qu’une partie de l’Europe du Nord.

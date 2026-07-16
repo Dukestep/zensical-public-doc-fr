@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données d'indice de risque de submersion côtière 
 
 Cette page décrit les données d'indice de risque de [submersion côtière](readme_coastal-flooding.md) en format GeoJSON disponibles sur le Datamart du SMC.

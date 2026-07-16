@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronologie des changements apportés à l'Analyse régionale déterministe de précipitation (CaPA-ARDP)
 
 ## Le mardi 14 avril 2026

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données des trajectoires d'ouragans
 
 Cette page décrit les données des [trajectoires d'ouragans](readme_hurricanes.md) disponibles sur le Datamart du SMC en format shapefile et GeoJSON.

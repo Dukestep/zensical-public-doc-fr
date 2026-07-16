@@ -4,8 +4,6 @@ tags:
   - Ensembliste
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et Produits du Système de Prévisions d'Ensemble Nord-Américain (SPENA)
 
 ![](https://collaboration.cmc.ec.gc.ca/cmc/cmos/public_doc/msc-data/nwp_naefs/naefs.png)

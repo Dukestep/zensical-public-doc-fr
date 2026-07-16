@@ -1,6 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # Plafonds
 
 Le modèle GEM, en configuration régionale, produit cette prévision de plafonds nuageux. Elle se présente en 4 panneaux pour des périodes de prévision de 6, 12, 18 et 24 heures (à 0000 et 1200). Cette carte affiche une prévision des nuages bas (moins de 6 500 pieds) et des nuages moyens (de 6 500 à 24 000 pieds).

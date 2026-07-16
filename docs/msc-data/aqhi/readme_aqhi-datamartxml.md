@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données XML d'observations et prévisions qui sont générés pour le programme Cote Air Santé (CAS)
 
 Cette page décrit les données d'observations et de prévisions disponibles en format XML pour la [cote air santé CAS](readme_aqhi.md) qui sont aussi disponibles sur le [site web d'Environnement et Changement climatique Canada](https://meteo.gc.ca/airquality/pages/index_f.html). 

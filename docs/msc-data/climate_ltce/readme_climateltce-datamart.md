@@ -1,6 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
 # Extrêmes climatiques quotidiens à long terme au format CSV
 
 Cette page décrit les données d'[extrêmes climatiques quotidiennes (Extrêmes climatiques à long terme)](readme_climateltce.md) au format CSV. Veuillez noter que ces données ne doivent pas être utilisées pour répondre à des questions sur les tendances climatiques. Pour ces analyses, veuillez consulter les [Données climatiques canadiennes ajustées et homogénéisées](../climate_ahccd/readme_ahccd.md).

@@ -1,6 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # Données Esri Shapefile de précipitations moyennes par bassin-versant de l'Analyse à haute résolution déterministe de précipitation (AHRDP)
 
 Des données pour plus de 1900 bassins-versants sont disponibles. Afin de réduire le nombre de fichiers sur le Datamart, il a été nécessaire de regrouper les bassins-versants par bassin de drainage :

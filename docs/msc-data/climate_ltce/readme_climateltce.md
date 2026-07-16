@@ -4,8 +4,6 @@ tags:
   - Archivé
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Données et produits des Records des Extrêmes Quotidiens (Extrêmes climatiques à long terme)
 
 Les Records des Extrêmes Quotidiens (ECLT; voir [la FAQ](https://www.canada.ca/fr/environnement-changement-climatique/services/changements-climatiques/centre-canadien-services-climatiques/afficher-telecharger/foire-questions-extremes-climatiques-long-terme.html)) visent à combler les lacunes de la fragmentation de l’information sur le climat en raison de changements apportés aux stations au fil du temps. Dans 750 endroits répartis sur le territoire canadien, des stations climatologiques « virtual » ont été construites en procédant au « remaillage » des données pour un lieu urbain, à partir de stations proches. Ces données fournissent les records des extrêmes quotidiens de la température, la précipitation et la neige pour chaque jour de l'année. La majorité des plus longs ensembles de données des extrêmes datent des années 1800s. Cet ensemble de données identifie, par exemple, la température la plus élevée ou la plus grande chute de neige enregistrée pour chaque jour de l'année pour la zone urbaine sélectionnée.
