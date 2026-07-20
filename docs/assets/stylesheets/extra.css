@@ -64,6 +64,14 @@
   border-color: #0d6efd;
 }
 
+/* Embedded map controller bars keep a fixed light-gray background
+   (#ececec) from the old site that doesn't adapt to dark mode — pin the
+   text color so it stays readable regardless of the active color scheme */
+#controller,
+#controller #info {
+  color: #212529;
+}
+
 .md-announce svg {
   height: 1rem;
   vertical-align: middle;

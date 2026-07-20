@@ -1,8 +1,3 @@
----
-hide:
-    - navigation
----
-
 # FAQ des données ouvertes du SMC
 
 !!! question

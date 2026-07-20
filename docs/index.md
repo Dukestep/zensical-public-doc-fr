@@ -13,7 +13,7 @@ title: Données ouvertes du SMC
 
 ## Données ouvertes disponibles
 
-Les **[données ouvertes du Service météorologique du Canada (SMC)](msc-data/index.md)** fournissent des informations météorologiques, hydrologiques, climatiques et environnementales à divers échelles spatiales et temporelles au Canada et partout dans le monde pour divers domaines d'application. Les principales catégories de données disponibles sont :
+Les [données ouvertes du Service météorologique du Canada (SMC)](msc-data/index.md) fournissent des informations météorologiques, hydrologiques, climatiques et environnementales à divers échelles spatiales et temporelles au Canada et partout dans le monde pour divers domaines d'application. Les principales catégories de données disponibles sont :
 
 * :material-weather-lightning-rainy: Alertes météorologiques, conditions actuelles et prévisions publiques
 * :material-thermometer: Observations météorologiques, hydrologiques et environnementales
@@ -21,7 +21,7 @@ Les **[données ouvertes du Service météorologique du Canada (SMC)](msc-data/i
 * :material-cloud: Données de qualité de l'air
 * :material-chart-areaspline: Données climatiques du SMC et d'Environnement et Changement climatique Canada (ECCC)
 
-Afin de répondre à des besoins plus ciblés selon les principaux domaines d'application, **[ces données sont également disponibles par thèmes.](msc-data-themes/index.md)**
+Afin de répondre à des besoins plus ciblés selon les principaux domaines d'application, [ces données sont également disponibles par thèmes.](msc-data-themes/index.md)
 
 ---
 

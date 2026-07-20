@@ -98,7 +98,7 @@ nav = [
     {"Indice de précipitations et d'évapotranspiration normalisé (IPEN)" = "msc-data/climate_spei/readme_spei.md"},
     {"Indices climatiques mis à l'échelle de manière statistique" = "msc-data/climate_indices/readme_climateindices.md"},
     {"Observations historiques" = "msc-data/climate_obs/readme_climateobs.md"},
-    {"Records des Extrêmes Quotidiens (Extrêmes climatiques à long terme)" = "msc-data/climate_ltce/readme_climateltce.md"},
+    {"Extrêmes climatiques à long terme" = "msc-data/climate_ltce/readme_climateltce.md"},
 ]},
     {"Autres données" = [
     {Bulletins = "msc-data/bulletins/readme_bulletins.md"},
@@ -148,14 +148,14 @@ nav = [
     "usage/index.md",
     {"Explorer les tutoriels" ="usage/tutorials.md"},
     {"Utilisation du format de données GRIB2" = "msc-data/readme_grib.md"},
-    {"Politique d'utilisation des services" ="usage-policy/index.md"},
   ] },
   { "FAQ" = ["faq/index.md"] },
   { "Contactez-nous" = ["contact/index.md",
     {"Licence d'utilisation finale" = [
     "licence/index.md",
-]},
+    {"Politique d'utilisation des services" ="usage-policy/index.md"},
   ] },
+]},
 ]
 
 # Additional CSS files loaded on every page (relative to docs/)
@@ -184,7 +184,6 @@ features = [
     "content.tabs.link",        # Keeps tab selection in sync across the page
     "content.tooltips",         # Replaces browser title tooltips with styled ones
     "navigation.indexes",       # Makes section index pages clickable in the nav
-    "navigation.path",          # Shows a breadcrumb path below the header
     "navigation.sections",      # Renders top-level nav items as expandable sections
     "navigation.tabs",          # Displays top-level nav items as horizontal tabs
     "navigation.tabs.sticky",   # Keeps the tabs bar visible while scrolling
