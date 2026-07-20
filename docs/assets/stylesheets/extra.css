@@ -18,6 +18,11 @@
   margin-right: 1.25rem;
 }
 
+/* Makes the header full-width */
+.md-header__inner.md-grid {
+  max-width: 100%;
+}
+
 /* Minimal Bootstrap-button lookalike for embedded map widgets from the old
    MkDocs site — scoped to just .btn/.btn-primary/.btn-outline-primary/.btn-sm */
 .btn {
@@ -36,9 +41,13 @@
 }
 
 .btn-sm {
-  padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
+  padding: 0.15rem 0.35rem;
+  font-size: 0.75rem;
   border-radius: 0.2rem;
+}
+
+#controller .btn i {
+  padding: 0 0.35rem !important;
 }
 
 .btn-primary {
