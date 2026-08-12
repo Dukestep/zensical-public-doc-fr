@@ -3,8 +3,8 @@
 dev_addr = "localhost:8089"
 
 # Site metadata shown in the browser tab, search engines and social previews
-site_name = "Données ouvertes du SMC"
-site_description = "Documentation des données ouvertes du Service météorologique du Canada."
+site_name = "Documentation des données ouvertes du Service météorologique du Canada"
+site_description = "Documentation des données ouvertes du Service météorologique du Canada"
 site_author = "Service météorologique du Canada"
 # Deployed base URL — required for sitemap.xml and instant link previews
 #site_url = "https://username.github.io/repo/fr/"

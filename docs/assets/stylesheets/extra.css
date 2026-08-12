@@ -4,7 +4,7 @@
 
 /* Header logo: swapped to the reversed/light */
 .md-header img.md-logo {
-  height: 1.7rem;
+  height: 1.0rem;
   width: auto;
 }
 
@@ -241,4 +241,48 @@
 
 .datatable-pagination .datatable-hidden {
   display: none !important;
+}
+
+/* Make every navigation section collapsible above the 1220px breakpoint,
+   instead of being permanently expanded. */
+@media screen and (min-width: 76.25em) {
+
+  /* 1 — section labels respond to clicks again */
+  .md-nav__item--section > .md-nav__link:not(.md-nav__container) {
+    pointer-events: auto;
+  }
+
+  /* 2 — restore the chevron on section items */
+  .md-nav__item--nested.md-nav__item--section > .md-nav__link .md-nav__icon::after {
+    display: block;
+  }
+
+  /* 3 — restore the expand toggle on sections that have an index page
+         (navigation.indexes); must be flex, not revert */
+  .md-nav__item--section > .md-nav__container > :nth-child(2) {
+    display: flex;
+  }
+
+  /* 4 — put the accordion back: collapsed unless the toggle is checked */
+  .md-nav__item--section > .md-nav__toggle ~ .md-nav {
+    display: grid;
+    grid-template-rows: minmax(.005rem, 0fr);
+    opacity: 0;
+    visibility: collapse;
+    transition:
+      grid-template-rows .25s cubic-bezier(.86, 0, .07, 1),
+      opacity .25s,
+      visibility 0ms .25s;
+  }
+
+  .md-nav__item--section > .md-nav__toggle:checked ~ .md-nav,
+  .md-nav__item--section > .md-nav__toggle.md-toggle--indeterminate ~ .md-nav {
+    grid-template-rows: minmax(.4rem, 1fr);
+    opacity: 1;
+    visibility: visible;
+    transition:
+      grid-template-rows .25s cubic-bezier(.86, 0, .07, 1),
+      opacity .15s .1s,
+      visibility 0ms;
+  }
 }
