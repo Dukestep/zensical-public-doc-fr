@@ -81,6 +81,14 @@
   color: #212529;
 }
 
+/* Embedded map layer-switch boxes (datasets-by-theme pages) keep a fixed
+   white background from the old site that doesn't adapt to dark mode —
+   pin the label text to black so it doesn't turn Material's default
+   greyish dark-mode text color and lose contrast against the white box */
+#switch-content label {
+  color: #000;
+}
+
 .md-announce svg {
   height: 1rem;
   vertical-align: middle;
