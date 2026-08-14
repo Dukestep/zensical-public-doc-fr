@@ -24,8 +24,7 @@
 }
 
 /* Dark mode — the raw indigo only reaches 2.8:1 on Material's
-   slate background, so links use a lightened tint instead. The
-   header keeps the true indigo, which carries white text fine. */
+   slate background, so links use a lightened tint instead. */
 [data-md-color-scheme="slate"] {
   --md-primary-fg-color:        #4e64a6;
   --md-primary-fg-color--light: #6b7fbb;
@@ -33,6 +32,85 @@
 
   --md-typeset-a-color: #9aa8d8;
   --md-accent-fg-color: #7f97f5;
+}
+
+/* ============================================================
+   Header — plum bar with lilac highlights
+   ------------------------------------------------------------
+   Zensical's modern theme ships a frosted, near-white header
+   (background: --md-default-bg-color--light) and a light tabs
+   band; it does NOT colour the header from --md-primary-fg-color
+   the way classic Material does. Recreating the old site's solid
+   coloured navbar therefore means overriding these pieces
+   explicitly rather than swapping a palette variable.
+
+   Everything here is scoped to .md-header / .md-tabs so the page
+   body keeps the indigo palette above. The search *dialog* is
+   rendered outside <header>, so it is unaffected.
+   ============================================================ */
+
+[data-md-color-scheme="default"] {
+  --msc-plum:      #5b4b8a;  /* header bar   */
+  --msc-plum-dark: #4e4177;  /* tabs band    */
+  --msc-lilac:     #cdbaf0;  /* highlights   */
+}
+
+[data-md-color-scheme="slate"] {
+  --msc-plum:      #453a6b;
+  --msc-plum-dark: #3a3059;
+  --msc-lilac:     #cdbaf0;
+}
+
+/* Re-point the foreground tokens inside the header so descendants
+   that build on them — search trigger, icon masks, the Ctrl+K
+   hint — become light-on-plum without needing individual rules. */
+.md-header {
+  --md-default-fg-color:          #fff;
+  --md-default-fg-color--light:   #ffffffd9;
+  --md-default-fg-color--lighter: #ffffff59;
+  --md-default-fg-color--lightest:#ffffff2e;
+  --md-default-bg-color--light:   #ffffff26;
+
+  background-color: var(--msc-plum);
+  color: #fff;
+}
+
+/* The theme's lifted-header shadow is drawn with the (now white)
+   lightest foreground token; pin it so the edge stays visible. */
+.md-header--shadow {
+  box-shadow: 0 0.05rem 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Tabs sit inside <header>, so they inherit the tokens above and
+   only need their own slightly deeper band. */
+.md-tabs {
+  background-color: var(--msc-plum-dark);
+  box-shadow: none;
+}
+
+/* Active tab: lilac underline, a little heavier than the theme's
+   hairline so it reads as the highlight it is (5.06:1 on the band,
+   where the stock near-black underline would be invisible). */
+.md-tabs__item--active {
+  border-bottom: 0.1rem solid var(--msc-lilac);
+}
+
+.md-tabs__link {
+  opacity: 0.8;
+  transition: opacity 0.25s;
+}
+
+.md-tabs__link:hover,
+.md-tabs__link--active,
+.md-tabs__item--active .md-tabs__link {
+  opacity: 1;
+}
+
+/* The header is now dark in both schemes, so the reversed logo
+   applies in light mode too. Scoped to the header: the drawer
+   logo still sits on a light background on small screens. */
+.md-header img.md-logo {
+  content: url("../../eccc-logo-reversed.png");
 }
 
 /* Deliberately not carried over from the old stylesheet: links
