@@ -203,6 +203,15 @@
         if (!m) return null;
         var core = m[1];
         var lang = m[2];
+
+        // A section index used to be "<section>/readme_en"; it is now the
+        // section directory itself ("<section>/index.md"), so drop a trailing
+        // "readme" segment. Only an exact match counts: "readme_grib_en" and
+        // "readme_alerts_en" are ordinary pages that kept their names.
+        var parts = core ? core.split("/") : [];
+        if (parts[parts.length - 1] === "readme") parts.pop();
+        core = parts.join("/");
+
         // A bare "readme_en" at the root becomes just the language home.
         return core ? lang + "/" + core : lang;
       }
