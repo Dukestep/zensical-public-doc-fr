@@ -53,12 +53,21 @@
   --msc-plum:      #5b4b8a;  /* header bar   */
   --msc-plum-dark: #4e4177;  /* tabs band    */
   --msc-lilac:     #cdbaf0;  /* highlights   */
+
+  /* The theme's own surface colours, captured here so popups that
+     open out of the header can restore them (see .md-select__inner
+     below) after the header re-points the foreground tokens. */
+  --msc-surface-fg: #000000de;
+  --msc-surface-bg: #eaecef;
 }
 
 [data-md-color-scheme="slate"] {
   --msc-plum:      #453a6b;
   --msc-plum-dark: #3a3059;
   --msc-lilac:     #cdbaf0;
+
+  --msc-surface-fg: hsla(var(--md-hue), 15%, 90%, 0.82);
+  --msc-surface-bg: hsla(var(--md-hue), 15%, 5%, 1);
 }
 
 /* Re-point the foreground tokens inside the header so descendants
@@ -79,6 +88,18 @@
    lightest foreground token; pin it so the edge stays visible. */
 .md-header--shadow {
   box-shadow: 0 0.05rem 0 rgba(0, 0, 0, 0.2);
+}
+
+/* The language switcher's dropdown is a light surface that happens to
+   live inside <header>, so it inherited the white-on-plum foreground
+   above and its labels became unreadable. Restore the theme's real
+   surface colours for the panel and its little pointer arrow. */
+.md-header .md-select__inner {
+  --md-default-fg-color: var(--msc-surface-fg);
+  --md-default-bg-color: var(--msc-surface-bg);
+
+  color: var(--msc-surface-fg);
+  background-color: var(--msc-surface-bg);
 }
 
 /* Tabs sit inside <header>, so they inherit the tokens above and
