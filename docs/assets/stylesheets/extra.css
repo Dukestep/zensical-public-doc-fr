@@ -1,3 +1,45 @@
+/* ============================================================
+   Palette carried over from the previous MkDocs site
+   ------------------------------------------------------------
+   The old site used a muted indigo (#4e64a6) for its navbar and
+   links on a pale grey-blue canvas (#eaecef). Restoring those
+   three colours keeps the migrated documentation recognizable.
+
+   These selectors have the same specificity as Material's own
+   [data-md-color-primary=blue] rules (both target <body>), so
+   they win purely on source order — extra.css is loaded after
+   palette.css. Keep the attribute selectors as-is.
+   ============================================================ */
+
+/* Light mode */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #4e64a6;  /* old navbar indigo   */
+  --md-primary-fg-color--light: #6b7fbb;
+  --md-primary-fg-color--dark:  #3a4a7d;
+
+  --md-default-bg-color: #eaecef;         /* old page canvas     */
+
+  --md-typeset-a-color: #4e64a6;          /* old link colour     */
+  --md-accent-fg-color: #3363d6;          /* link hover          */
+}
+
+/* Dark mode — the raw indigo only reaches 2.8:1 on Material's
+   slate background, so links use a lightened tint instead. The
+   header keeps the true indigo, which carries white text fine. */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #4e64a6;
+  --md-primary-fg-color--light: #6b7fbb;
+  --md-primary-fg-color--dark:  #3a4a7d;
+
+  --md-typeset-a-color: #9aa8d8;
+  --md-accent-fg-color: #7f97f5;
+}
+
+/* Deliberately not carried over from the old stylesheet: links
+   were bold at 0.93em, which is noisy in Material's typography,
+   and the #cdd8e3 bars behind h1/h2, which fight its heading
+   hierarchy. */
+
 .grid.cards > ul > li {
   border-top: 3px solid var(--md-primary-fg-color);
 }
