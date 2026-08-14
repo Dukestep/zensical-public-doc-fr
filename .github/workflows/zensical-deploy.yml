@@ -36,3 +36,22 @@ jobs:
           publish_dir: ./site
           destination_dir: fr
           keep_files: true
+
+      # Publishes the bilingual 404 page at the root of the deployment repo's
+      # gh-pages branch. It rewrites legacy "…_en"/"…_fr" URLs to the new
+      # "/en/…" and "/fr/…" layout, and otherwise offers both language homes.
+      # The EN workflow publishes an identical copy alongside the root landing
+      # page; keep_files ensures neither language's build wipes the other out.
+      - name: Build 404 page
+        run: |
+          mkdir -p landing
+          cp .github/pages/404.html landing/404.html
+
+      - name: Deploy 404 page
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.DEPLOY_TOKEN }}
+          external_repository: Dukestep/zensical-public-doc
+          publish_branch: gh-pages
+          publish_dir: ./landing
+          keep_files: true
