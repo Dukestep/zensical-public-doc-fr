@@ -112,7 +112,7 @@ Il est à noter que les différentes couches présentées dans la liste qui suit
 </style>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v7.3.0/ol.css" type="text/css"/>
-<link rel="stylesheet" href="../../css/weather-icons-master/css/weather-icons.min.css">
+<link rel="stylesheet" href="../css/weather-icons-master/css/weather-icons.min.css">
 <script src="https://cdn.jsdelivr.net/npm/ol@v7.3.0/dist/ol.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.3/FileSaver.min.js"></script>
 <script>
