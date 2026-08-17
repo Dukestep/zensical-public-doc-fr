@@ -105,7 +105,7 @@ Les [métadonnées de MetNotes sont accessibles sur le portail du gouvernement o
     }
 
     .arrow {
-      border: solid #2fa4e7;
+      border: solid #4e64a6;
       border-width: 0 3px 3px 0;
       display: inline-block;
       padding: 3px;

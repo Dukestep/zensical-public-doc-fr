@@ -112,7 +112,7 @@ Le [Guide des prévisions météorologiques](https://www.canada.ca/fr/environnem
     }
 
     .arrow {
-      border: solid #2fa4e7;
+      border: solid #4e64a6;
       border-width: 0 3px 3px 0;
       display: inline-block;
       padding: 3px;

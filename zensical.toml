@@ -192,6 +192,15 @@ features = [
     "search.highlight",         # Highlights search terms on the result page
 ]
 
+# Colour schemes.
+#
+# NOTE: primary/accent are nominally "blue", but every colour token they set
+# is overridden in assets/stylesheets/extra.css — the site's real palette
+# (indigo links, plum header, pale grey-blue canvas) lives there, carried
+# over from the previous MkDocs site. Changing these two values will not
+# change the site's appearance; edit extra.css instead. Only the scheme and
+# the toggle settings below actually take effect.
+
 # Light mode palette
 [[project.theme.palette]]
 scheme = "default"

@@ -91,7 +91,6 @@ Il est à noter que les différentes couches présentées dans la liste qui suit
   }
 
  #switch-content {
-  background-color: white;
   border-radius: 6px;
   padding: 7px;
 }

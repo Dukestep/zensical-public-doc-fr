@@ -139,8 +139,15 @@
    and the #cdd8e3 bars behind h1/h2, which fight its heading
    hierarchy. */
 
-.grid.cards > ul > li {
-  border-top: 3px solid var(--md-primary-fg-color);
+/* Card top rule matches the header band rather than the link indigo, so
+   the same plum reads as the site's accent everywhere it appears (header,
+   table headings, cards, the root landing page).
+
+   Scoped under .md-typeset to beat the theme's own card border, which
+   is what this rule was silently losing to before. */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid > .card {
+  border-top: 3px solid var(--msc-plum);
 }
 
 /* Header logo: swapped to the reversed/light */
@@ -191,43 +198,60 @@
   padding: 0 0.35rem !important;
 }
 
+/* Bootstrap's #0d6efd is a much brighter blue than anything else on the
+   site. These use the site indigo instead; the values are hard-coded
+   rather than taken from --md-primary-fg-color because the buttons sit
+   on the controller bar's fixed light-grey (#ececec) in both schemes. */
 .btn-primary {
   color: #fff;
-  background-color: #0d6efd;
-  border-color: #0d6efd;
+  background-color: #4e64a6;
+  border-color: #4e64a6;
 }
 
 .btn-primary:hover {
-  background-color: #0b5ed7;
-  border-color: #0a58ca;
+  background-color: #3a4a7d;
+  border-color: #3a4a7d;
 }
 
 .btn-outline-primary {
-  color: #0d6efd;
+  color: #4e64a6;
   background-color: transparent;
-  border-color: #0d6efd;
+  border-color: #4e64a6;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #0d6efd;
-  border-color: #0d6efd;
+  background-color: #4e64a6;
+  border-color: #4e64a6;
 }
 
-/* Embedded map controller bars keep a fixed light-gray background
-   (#ececec) from the old site that doesn't adapt to dark mode — pin the
-   text color so it stays readable regardless of the active color scheme */
-#controller,
+/* Embedded map controller bars used to carry a fixed light-grey
+   background (#ececec) inline on every page, which stayed light in dark
+   mode. The inline style is gone from the markdown; the bar is themed
+   here instead so it follows the active colour scheme. */
+#controller {
+  background-color: var(--md-code-bg-color);
+  color: var(--md-typeset-color);
+  padding: 0.5rem;
+}
+
 #controller #info {
-  color: #212529;
+  color: var(--md-typeset-color);
 }
 
-/* Embedded map layer-switch boxes (datasets-by-theme pages) keep a fixed
-   white background from the old site that doesn't adapt to dark mode —
-   pin the label text to black so it doesn't turn Material's default
-   greyish dark-mode text color and lose contrast against the white box */
+/* Embedded map layer-switch boxes (datasets-by-theme pages) had the same
+   problem with a fixed white surface, set in each page's <style> block.
+   They float over the map, so they keep a border to separate them from
+   the tiles underneath. */
+#switch-content {
+  background-color: var(--md-default-bg-color);
+  color: var(--md-typeset-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  box-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.2);
+}
+
 #switch-content label {
-  color: #000;
+  color: var(--md-typeset-color);
 }
 
 .md-announce svg {
