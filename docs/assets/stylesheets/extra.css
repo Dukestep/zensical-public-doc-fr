@@ -145,9 +145,21 @@
 
    Scoped under .md-typeset to beat the theme's own card border, which
    is what this rule was silently losing to before. */
+.md-typeset .grid.cards > ol > li,
 .md-typeset .grid.cards > ul > li,
 .md-typeset .grid > .card {
   border-top: 3px solid var(--msc-plum);
+}
+
+/* The theme clears the whole border on hover/focus and leans on its
+   shadow instead, which took the plum rule with it. Hold the top edge. */
+.md-typeset .grid.cards > ol > li:focus-within,
+.md-typeset .grid.cards > ol > li:hover,
+.md-typeset .grid.cards > ul > li:focus-within,
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid > .card:focus-within,
+.md-typeset .grid > .card:hover {
+  border-top-color: var(--msc-plum);
 }
 
 /* Header logo: swapped to the reversed/light */
