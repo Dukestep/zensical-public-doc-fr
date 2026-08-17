@@ -128,26 +128,46 @@ nav = [
   ] },
   { "Accès" = [
     "access/index.md",
-    { "GeoMet du SMC" = [
-      "msc-geomet/index.md",
-      { "Web Map Service (WMS)" = "msc-geomet/wms.md" },
-      { "Web Coverage Service (WCS)" = "msc-geomet/wcs.md" },
-      { "OGC API" = "msc-geomet/ogc_api.md" },
-      { "STAC" = "msc-geomet/stac.md" },
-    ] },
-    { "Datamart du SMC" = [
-    "msc-datamart/index.md",
-    { "Protocole de mise en file d'attente de messages (AMQP)" = "msc-datamart/amqp.md" },
-    { "Récupération de données avec wget" = "msc-datamart/readme_wget-datamart.md" },
-] },
-    { "Services à recouvrement de coûts" = ["cost-recovered/index.md" ] },
-    { "AniMet du SMC" = ["msc-animet/index.md" ] },
-    { "WIS2 de l'OMM" = ["wmo-wis2/index.md"]  },
+    { "GeoMet du SMC" = "msc-geomet/index.md" },
+    { "Datamart du SMC" = "msc-datamart/index.md" },
+    { "AniMet du SMC" = "msc-animet/index.md" },
+    { "WIS2 de l'OMM" = "wmo-wis2/index.md" },
+    { "Services à recouvrement de coûts" = "cost-recovered/index.md" },
   ] },
   { "Utilisation et tutoriels" = [
     "usage/index.md",
-    {"Explorer les tutoriels" ="usage/tutorials.md"},
-    {"Utilisation du format de données GRIB2" = "msc-data/readme_grib.md"},
+    { "Tutoriels" = [
+    { "Python" = [
+    { "Profits anticipés selon la probabilité de précipitations" = "usage/use-case_arthur/use-case_arthur.md" },
+    { "Récupération et affichage de données hydrométriques" = "usage/use-case_oafeat/use-case_oafeat-script.md" },
+]},
+    { "QGIS" = [
+    { "Afficher, interagir et animer des couches WMS" = "usage/tutorial_WMS_QGIS.md" },
+    { "Utilisation de données OGC API - Features" = "usage/tutorial_OAFeat_QGIS.md" },
+    { "Ajout de fichier brut géospatial" = "usage/tutorial_raw-data_QGIS.md" },
+]},
+    { "Power BI" = [
+    { "Interroger et utiliser les données avec OGC API - Features en utilisant Power BI" = "usage/tutorial_OAFeat_Power-BI.md" },
+]},
+    { "R et Excel" = [
+    { "Faire une requête à l'aide de OGC API - Features en utilisant R et VBA" = "usage/tutorial_OAFeat_R-Excel.md" },
+]},
+    { "GDAL" = [
+    { "Tutoriel GDAL en ligne de commande avec des données météorologiques" = "usage/tutorial_gdal/tutorial_gdal.md" },
+]},
+    { "Cartes Web" = [
+    { "Créer des cartes interactives sur le web avec OpenLayers et Leaflet" = "usage/tutorial_web-maps.md" },
+]},
+]},
+    { "Documentation technique" = [
+    { "Web Map Service (WMS)" = "msc-geomet/wms.md" },
+    { "Web Coverage Service (WCS)" = "msc-geomet/wcs.md" },
+    { "OGC API" = "msc-geomet/ogc_api.md" },
+    { "STAC" = "msc-geomet/stac.md" },
+    { "Protocole de mise en file d'attente de messages (AMQP)" = "msc-datamart/amqp.md" },
+    { "Récupération de données avec wget" = "msc-datamart/readme_wget-datamart.md" },
+    { "Utilisation du format de données GRIB2" = "msc-data/readme_grib.md" },
+]},
   ] },
   { "FAQ" = ["faq/index.md"] },
   { "Contactez-nous" = ["contact/index.md",
@@ -163,6 +183,10 @@ nav = [
 # (playback controls, style/paintbrush picker) carried over from the old
 # MkDocs site's bundled theme, which Zensical doesn't ship.
 extra_css = ["assets/stylesheets/extra.css", "css/font-awesome.min.css"]
+
+# Additional JS files loaded on every page (relative to docs/)
+# nav-toggle.js adds the "Expand all / Collapse all" button to the sidebar.
+extra_javascript = ["assets/javascripts/nav-toggle.js"]
 
 [project.theme]
 # UI language for built-in labels (search placeholder, navigation arrows, etc.)
@@ -183,6 +207,7 @@ features = [
     "content.footnote.tooltips",# Renders footnotes as tooltips on hover
     "content.tabs.link",        # Keeps tab selection in sync across the page
     "content.tooltips",         # Replaces browser title tooltips with styled ones
+    "navigation.expand",        # Expands all collapsible sidebar sections by default
     "navigation.indexes",       # Makes section index pages clickable in the nav
     "navigation.sections",      # Renders top-level nav items as expandable sections
     "navigation.tabs",          # Displays top-level nav items as horizontal tabs

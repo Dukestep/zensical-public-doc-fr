@@ -247,6 +247,21 @@
   padding: 0.5rem;
 }
 
+/* Plum variant of Material's filled button (.md-button--primary defaults
+   to --md-primary-fg-color, the indigo body accent). Used for the Jupyter
+   notebook download buttons so they match the header bar instead. */
+.md-button--plum {
+  background-color: var(--msc-plum);
+  color: #fff;
+}
+
+.md-button--plum:focus,
+.md-typeset .md-button--plum:hover {
+  background-color: var(--msc-plum-dark);
+  color: #fff;
+  opacity: 1;
+}
+
 #controller #info {
   color: var(--md-typeset-color);
 }
@@ -275,6 +290,43 @@
    while keeping the nav entry so breadcrumbs use the short label */
 .md-tabs__item:first-child {
   display: none;
+}
+
+/* "Collapse all / Expand all" text link injected above the "Données" and
+   "Utilisation et tutoriels" nav trees by assets/javascripts/nav-toggle.js.
+   Kept small and text-only (not a filled button) so it reads as a
+   secondary, discreet control rather than primary UI chrome. */
+.md-nav-collapse-toggle__wrapper {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 0.6rem;
+}
+
+.md-nav-collapse-toggle {
+  margin: 0.2rem 0 0.3rem;
+  padding: 0;
+  border: none;
+  background: none;
+  color: var(--msc-plum);
+  font-size: 0.65rem;
+  font-weight: 400;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+[data-md-color-scheme="slate"] .md-nav-collapse-toggle {
+  color: var(--msc-lilac);
+}
+
+.md-nav-collapse-toggle:hover,
+.md-nav-collapse-toggle:focus {
+  color: var(--msc-plum-dark);
+}
+
+[data-md-color-scheme="slate"] .md-nav-collapse-toggle:hover,
+[data-md-color-scheme="slate"] .md-nav-collapse-toggle:focus {
+  color: var(--msc-lilac);
+  opacity: 0.8;
 }
 
 /* Bold navigation sections/collapsible group titles in the sidebar so
@@ -508,5 +560,27 @@
       grid-template-rows .25s cubic-bezier(.86, 0, .07, 1),
       opacity .15s .1s,
       visibility 0ms;
+  }
+
+  /* 5 — collapse-all/expand-all force override, set by nav-toggle.js as
+         a data attribute rather than via each item's own checkbox — this
+         guarantees the visual result regardless of whether that
+         particular item was already manually expanded/collapsed by
+         hand. Not scoped to .md-nav__item--section: only a tab's
+         top-level children carry that class, but nav-toggle.js sets
+         data-nav-force on items at every depth, so this must match all
+         of them too. !important because rules 3 and 4 above target the
+         same element; cleared (see nav-toggle.js) the moment the
+         visitor clicks that item directly. */
+  [data-nav-force="open"] > .md-nav__toggle ~ .md-nav {
+    grid-template-rows: minmax(.4rem, 1fr) !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+
+  [data-nav-force="closed"] > .md-nav__toggle ~ .md-nav {
+    grid-template-rows: minmax(.005rem, 0fr) !important;
+    opacity: 0 !important;
+    visibility: collapse !important;
   }
 }

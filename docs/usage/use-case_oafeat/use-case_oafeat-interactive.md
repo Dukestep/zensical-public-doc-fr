@@ -1,5 +1,7 @@
 # Cas d'utilisation: Récupération et affichage de données hydrométriques
 
+[:lucide-download: Télécharger le notebook Jupyter (.ipynb)](use-case_oafeat-interactive.ipynb){ .md-button .md-button--plum }
+
 ## Introduction
 
 Les données hydrométriques du Service météorologique du Canada (SMC) d'Environnement et Changement climatique Canada (ECCC) peuvent être facilement accédées via [GeoMet-OGC-API](https://api.meteo.gc.ca/). Les services web [OGC API - Features](../../msc-geomet/ogc_api.md#ogc-api-features) disponibles dans GeoMet-OGC-API permettent d'effectuer des requêtes de données géospatiales vectorielles et de récupérer ces données en format GeoJSON. Les fichiers GeoJSON peuvent ensuite être utilisés directement pour réaliser des analyses et afficher les données sur des cartes ou peuvent être soumis à des étapes supplémentaires de traitement de données. Ce cas d'utilisation démontre comment: 

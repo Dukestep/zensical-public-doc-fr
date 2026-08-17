@@ -40,7 +40,7 @@ Exemple de carte interactive présentant la couche `Current-Alerts` provenant de
 
 ### Utilisation
 
-La page de [l'aperçu de l'utilisation](../../usage/index.md) présente l'information de base sur l'utilisation de ces services avec des logiciels de bureau, des applications mobiles, les cartes interactives en ligne ainsi que l'accès direct. Veuillez vous référer aux [tutoriels](../../usage/tutorials.md) et à [la documentation technique sur les services web géospatiaux GeoMet du SMC](../../msc-geomet/index.md#standards-disponibles) pour de l'information détaillée. Voir également la [page d'accueil des données des alertes météo](readme_alerts.md) qui pointe vers de l'information additionnelle sur les alertes météo.
+La page de [l'aperçu de l'utilisation](../../usage/index.md) présente l'information de base sur l'utilisation de ces services avec des logiciels de bureau, des applications mobiles, les cartes interactives en ligne ainsi que l'accès direct, ainsi que des tutoriels pour des cas d'utilisation courants. Veuillez vous référer à [la documentation technique sur les services web géospatiaux GeoMet du SMC](../../msc-geomet/index.md#standards-disponibles) pour de l'information détaillée. Voir également la [page d'accueil des données des alertes météo](readme_alerts.md) qui pointe vers de l'information additionnelle sur les alertes météo.
 
 ### Couches disponibles
 

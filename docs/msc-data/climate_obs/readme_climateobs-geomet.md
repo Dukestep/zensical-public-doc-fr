@@ -8,7 +8,7 @@ Les données d'observations historiques sont disponibles via [des collections de
 
 ## Utilisation
 
-La [page de présentation de l'utilisation](../../usage/index.md) fournit des informations génériques sur l'utilisation des services OGC avec des logiciels de bureau, des applications mobiles, des cartes web interactives et un accès direct. Veuillez vous référer aux [tutoriels d'accès aux données vectorielles brutes](../../usage/tutorials.md#donnees-brutes) et à [la documentation technique OGC-API Features](../../msc-geomet/ogc_api.md#ogc-api-features) pour une description détaillée de l'API et des exemples d'accès aux données par le biais de Python ou QGIS.
+La [page de présentation de l'utilisation](../../usage/index.md) fournit des informations génériques sur l'utilisation des services OGC avec des logiciels de bureau, des applications mobiles, des cartes web interactives et un accès direct. Veuillez vous référer au [tutoriel QGIS sur les données brutes](../../usage/tutorial_raw-data_QGIS.md), au [tutoriel de requêtes OGC API - Features depuis Python](../../usage/use-case_oafeat/use-case_oafeat-script.md), et à [la documentation technique OGC-API Features](../../msc-geomet/ogc_api.md#ogc-api-features) pour une description détaillée de l'API et des exemples d'accès aux données par le biais de Python ou QGIS.
 
 ### Couches disponibles
 

@@ -33,7 +33,6 @@ La plateforme GeoMet du SMC comprend les services suivants :
 Pour plus d'informations sur l'utilisation des services GeoMet du SMC, voir les pages suivantes:
 
 *    [Vue d'ensemble de l'utilisation des services de données ouvertes](../usage/index.md)
-*    [Tutoriels et guides sur l'utilisation des services GeoMet du SMC](../usage/tutorials.md)
 
 ## Standards disponibles
 

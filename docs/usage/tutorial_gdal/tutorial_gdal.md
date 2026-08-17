@@ -1,5 +1,7 @@
 # Tutoriel GDAL en ligne de commande avec des données météorologiques
 
+[:lucide-download: Télécharger le notebook Jupyter (.ipynb)](tutorial_gdal.ipynb){ .md-button .md-button--plum }
+
 ## Introduction
 
 Les données de [GeoMet du SMC](../../msc-geomet/index.md) et du [Datamart du SMC](../../msc-datamart/index.md) peuvent être manipulées via la ligne de commande utilisant [GDAL](https://gdal.org/), un bibliothèque logicielle très connue utilisée pour lire et écrire des données géospatiales matricielles et vectorielles. Dans les exemples qui suivent, vous utiliserez un fichier GeoTIFF récupéré via une requête _Web Coverage Service_ (WCS) sur GeoMet du SMC. Ce tutoriel vous montrera comment:

@@ -26,7 +26,7 @@ Exemple de carte web configurée pour afficher la couche d'imagerie satellite en
 
 ## Utilisation
 
-La [page de l'aperçu de l'utilisation](../../usage/index.md) fournit des informations génériques sur l'utilisation des services OGC avec des logiciels de bureau, des applications mobiles, des cartes web interactives et un accès direct. Veuillez vous référer aux [tutoriels](../../usage/tutorials.md) et à la [documentation technique pour les services web géospatiaux de MSC GeoMet](../../msc-geomet/index.md#standards-disponibles) pour des informations détaillées. Voir également la [page principale des données des satellites météorologiques](readme_satellite.md) qui contient des liens vers des informations supplémentaires sur les couches de satellites météorologiques.
+La [page de l'aperçu de l'utilisation](../../usage/index.md) fournit des informations génériques sur l'utilisation des services OGC avec des logiciels de bureau, des applications mobiles, des cartes web interactives et un accès direct, ainsi que des tutoriels pour des cas d'utilisation courants. Veuillez vous référer à la [documentation technique pour les services web géospatiaux de MSC GeoMet](../../msc-geomet/index.md#standards-disponibles) pour des informations détaillées. Voir également la [page principale des données des satellites météorologiques](readme_satellite.md) qui contient des liens vers des informations supplémentaires sur les couches de satellites météorologiques.
 
 ### Couches disponibles
 

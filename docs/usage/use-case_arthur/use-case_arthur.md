@@ -1,5 +1,7 @@
 # Cas d'utilisation : profits anticipés selon la probabilité de précipitations
 
+[:lucide-download: Télécharger le notebook Jupyter (.ipynb)](use-case_arthur.ipynb){ .md-button .md-button--plum }
+
 ## Introduction
 
 Les données météorologiques, climatiques et hydrométriques des services web géospatiaux [GeoMet du SMC](../../msc-geomet/index.md) peuvent aisément être utilisées pour prévoir la demande associée à certains produits ou services. Cet exemple de cas d'utilisation démontre comment extraire et traiter les données météorologiques brutes à l'aide du langage de programmation [Python](https://www.python.org/) afin de créer un outil qui permet de calculer les profits anticipés de la vente d'un produit dont la demande est affectée par les conditions météorologiques. Il permet d'apprendre comment :
