@@ -616,3 +616,16 @@
   opacity: 0 !important;
   visibility: collapse !important;
 }
+
+/* The chevron rotates off :checked / .md-toggle--indeterminate, neither of
+   which survives the theme resetting its own toggles after page load — so
+   a forced-open item kept a chevron pointing the collapsed way. Rotate it
+   from the same attribute that opens the item, so the arrow and the tree
+   never disagree. */
+[data-nav-force="open"] > .md-nav__toggle ~ .md-nav__link .md-nav__icon::after {
+  transform: rotate(90deg) !important;
+}
+
+[data-nav-force="closed"] > .md-nav__toggle ~ .md-nav__link .md-nav__icon::after {
+  transform: none !important;
+}
