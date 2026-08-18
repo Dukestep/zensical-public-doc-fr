@@ -304,6 +304,12 @@
   padding: 0 0.6rem;
 }
 
+/* The class sets display:flex, which would otherwise beat the user-agent
+   [hidden] rule when nav-toggle.js hides the control on shallow trees. */
+.md-nav-collapse-toggle__wrapper[hidden] {
+  display: none;
+}
+
 .md-nav-collapse-toggle {
   display: inline-flex;
   align-items: center;
@@ -586,25 +592,27 @@
       visibility 0ms;
   }
 
-  /* 5 — collapse-all/expand-all force override, set by nav-toggle.js as
-         a data attribute rather than via each item's own checkbox — this
-         guarantees the visual result regardless of whether that
-         particular item was already manually expanded/collapsed by
-         hand. Not scoped to .md-nav__item--section: only a tab's
-         top-level children carry that class, but nav-toggle.js sets
-         data-nav-force on items at every depth, so this must match all
-         of them too. !important because rules 3 and 4 above target the
-         same element; cleared (see nav-toggle.js) the moment the
-         visitor clicks that item directly. */
-  [data-nav-force="open"] > .md-nav__toggle ~ .md-nav {
-    grid-template-rows: minmax(.4rem, 1fr) !important;
-    opacity: 1 !important;
-    visibility: visible !important;
-  }
+}
 
-  [data-nav-force="closed"] > .md-nav__toggle ~ .md-nav {
-    grid-template-rows: minmax(.005rem, 0fr) !important;
-    opacity: 0 !important;
-    visibility: collapse !important;
-  }
+/* Collapse-all/expand-all force override, set by nav-toggle.js as a data
+   attribute rather than via each item's own checkbox — this guarantees
+   the visual result regardless of whether that particular item was
+   already manually expanded/collapsed by hand. Outside the media query
+   above: below the breakpoint the drawer lists every nav tree and the
+   control acts on all of them, so the override has to reach them too.
+   Not scoped to .md-nav__item--section either — only the active
+   top-level item carries that class, while nav-toggle.js sets
+   data-nav-force at every depth. !important because rules 3 and 4 above
+   target the same element; cleared (see nav-toggle.js) the moment the
+   visitor clicks that item directly. */
+[data-nav-force="open"] > .md-nav__toggle ~ .md-nav {
+  grid-template-rows: minmax(.4rem, 1fr) !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+[data-nav-force="closed"] > .md-nav__toggle ~ .md-nav {
+  grid-template-rows: minmax(.005rem, 0fr) !important;
+  opacity: 0 !important;
+  visibility: collapse !important;
 }
