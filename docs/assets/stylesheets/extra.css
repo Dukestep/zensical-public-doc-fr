@@ -292,10 +292,12 @@
   display: none;
 }
 
-/* "Collapse all / Expand all" text link injected above the "Données" and
-   "Utilisation et tutoriels" nav trees by assets/javascripts/nav-toggle.js.
-   Kept small and text-only (not a filled button) so it reads as a
-   secondary, discreet control rather than primary UI chrome. */
+/* "Tout réduire / Tout développer" control injected above the "Données"
+   and "Utilisation et tutoriels" nav trees by
+   assets/javascripts/nav-toggle.js. A chevron icon plus a label in a
+   quiet chip: enough of an affordance to read as a button (an underlined
+   link would be mistaken for one more nav entry) without competing with
+   the tree itself. */
 .md-nav-collapse-toggle__wrapper {
   display: flex;
   justify-content: flex-end;
@@ -303,15 +305,31 @@
 }
 
 .md-nav-collapse-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
   margin: 0.2rem 0 0.3rem;
-  padding: 0;
+  padding: 0.15rem 0.35rem;
   border: none;
+  border-radius: 0.1rem;
   background: none;
   color: var(--msc-plum);
   font-size: 0.65rem;
   font-weight: 400;
-  text-decoration: underline;
+  line-height: 1.3;
   cursor: pointer;
+  transition: background-color 125ms, color 125ms;
+}
+
+.md-nav-collapse-toggle svg {
+  width: 0.8rem;
+  height: 0.8rem;
+  flex-shrink: 0;
+  fill: none;
+  stroke: currentcolor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 
 [data-md-color-scheme="slate"] .md-nav-collapse-toggle {
@@ -319,14 +337,20 @@
 }
 
 .md-nav-collapse-toggle:hover,
-.md-nav-collapse-toggle:focus {
+.md-nav-collapse-toggle:focus-visible {
   color: var(--msc-plum-dark);
+  background-color: color-mix(in srgb, var(--msc-plum) 12%, transparent);
 }
 
 [data-md-color-scheme="slate"] .md-nav-collapse-toggle:hover,
-[data-md-color-scheme="slate"] .md-nav-collapse-toggle:focus {
+[data-md-color-scheme="slate"] .md-nav-collapse-toggle:focus-visible {
   color: var(--msc-lilac);
-  opacity: 0.8;
+  background-color: color-mix(in srgb, var(--msc-lilac) 18%, transparent);
+}
+
+.md-nav-collapse-toggle:focus-visible {
+  outline: 1px solid currentcolor;
+  outline-offset: 1px;
 }
 
 /* Bold navigation sections/collapsible group titles in the sidebar so
