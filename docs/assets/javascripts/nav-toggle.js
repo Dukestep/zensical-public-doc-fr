@@ -99,11 +99,20 @@
       );
     }
 
+    // data-nav-force is what the stylesheet actually renders (it carries
+    // !important), so where it's set it outranks the checkbox; elsewhere
+    // the checkbox is the record. Reading only the checkbox let the label
+    // drift from what the sidebar was showing.
+    function isOpen(item) {
+      if (item.dataset.navForce) {
+        return item.dataset.navForce === "open";
+      }
+      var input = toggleOf(item);
+      return !!input && input.checked;
+    }
+
     function allExpanded(items) {
-      return items.every(function (item) {
-        var input = toggleOf(item);
-        return !!input && input.checked;
-      });
+      return items.every(isOpen);
     }
 
     var button = document.createElement("button");
@@ -170,8 +179,15 @@
       lifted.addListener(refresh);
     }
 
-    refresh();
     rootList.parentNode.insertBefore(wrapper, rootList);
+
+    // Start expanded, and say so. navigation.expand already renders the
+    // tree open, but it does that through the theme's indeterminate
+    // toggles, which the theme itself rewrites on its own schedule — so
+    // asserting the state here is the only way the control and the
+    // sidebar are guaranteed to agree on the very first paint.
+    setAll(true);
+    refresh();
   }
 
   if (document.readyState === "loading") {
