@@ -1,0 +1,32 @@
+name: zensical build
+
+# Build-only CI. Publishing is no longer done from this repository: the site is
+# assembled and deployed by Dukestep/open-data, which builds both language
+# repositories when a release is published there. This workflow only checks that
+# the documentation still builds, so breakage is caught at push time rather than
+# at release time.
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Zensical
+        run: pip install zensical
+
+      - name: Build site
+        run: zensical build --clean
