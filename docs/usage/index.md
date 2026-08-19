@@ -175,12 +175,12 @@ Les données peuvent être manipulées en utilisant des commandes de la librairi
     js.type = "text/javascript";
     if (isIE())
     {
-        js.src = "../../js/radar_ie.js";
+        js.src = "../js/radar_ie.js";
         document.getElementById("controller").setAttribute("hidden", true);
     }
     else
     {
-        js.src = "../../js/radar.js";
+        js.src = "../js/radar.js";
     }
     head.appendChild(js);
 </script>
